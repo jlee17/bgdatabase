@@ -27,55 +27,57 @@ ER Diagram
 
 Schema 
 ------
-BG({bg_id}, title, description, released, rating, min_playtime, max_playtime, min_players, max_players, expansion_of)
-    expansion_of is a foreign key referencing BG(bg_id)
 
-RatingsPerPlayer({bgid, players}, rating)
-    bgid is a foreign key referencing BG(bg_id)
+::
+    bg({bg_id}, title, description, released, rating, min_playtime, max_playtime, min_players, max_players, expansion_of)
+        expansion_of is a foreign key referencing BG(bg_id)
 
-Users({email}, password, name)
+    ratingsperplayer({bgid, players}, rating)
+        bgid is a foreign key referencing BG(bg_id)
 
-Publishers({pub_id}, publisher, description)
+    users({email}, password, name)
 
-Mechanics({mech_id}, mechanic, description)
+    publishers({pub_id}, publisher, description)
 
-Families({fam_id}, family, description)
+    mechanics({mech_id}, mechanic, description)
 
-Categories({cat_id}, category, description)
+    families({fam_id}, family, description)
 
-People({p_id}, name)
+    categories({cat_id}, category, description)
 
-publishersrel({bg_id, pub_id})
-    bg_id is a foreign key referencing BG(bg_id)
-    pub_id is a foreign key referencing Publishers(pub_id)
+    people({p_id}, name)
 
-mechanicsrel({bg_id, mech_id})
-    bg_id is a foreign key referencing BG(bg_id)
-    mech_id is a foreign key referencing Mechanics(mech_id)
+    publishersrel({bg_id, pub_id})
+        bg_id is a foreign key referencing BG(bg_id)
+        pub_id is a foreign key referencing Publishers(pub_id)
 
-familiesrel({bg_id, fam_id})
-    bg_id is a foreign key referencing BG(bg_id)
-    fam_id is a foreign key referencing Families(fam_id)
+    mechanicsrel({bg_id, mech_id})
+        bg_id is a foreign key referencing BG(bg_id)
+        mech_id is a foreign key referencing Mechanics(mech_id)
 
-categoriesrel({bg_id, cat_id})
-    bg_id is a foreign key referencing BG(bg_id)
-    cat_id is a foreign key referencing Categories(cat_id)
+    familiesrel({bg_id, fam_id})
+        bg_id is a foreign key referencing BG(bg_id)
+        fam_id is a foreign key referencing Families(fam_id)
 
-artistrel({bg_id, p_id})
-    bg_id is a foreign key referencing BG(bg_id)
-    p_id is a foreign key referencing People(p_id)
+    categoriesrel({bg_id, cat_id})
+        bg_id is a foreign key referencing BG(bg_id)
+        cat_id is a foreign key referencing Categories(cat_id)
 
-designerrel({bg_id, p_id})
-    bg_id is a foreign key referencing BG(bg_id)
-    p_id is a foreign key referencing People(p_id)
+    artistrel({bg_id, p_id})
+        bg_id is a foreign key referencing BG(bg_id)
+        p_id is a foreign key referencing People(p_id)
 
-owns({bg_id, email}, date)
-    bg_id is a foreign key referencing bg(bg_id)
-    email is a foreign key referencing users(email)
+    designerrel({bg_id, p_id})
+        bg_id is a foreign key referencing BG(bg_id)
+        p_id is a foreign key referencing People(p_id)
 
-played({bg_id, email}, date, time_played, players, winner)
-    bg_id is a foreign key referencing bg(bg_id)
-    email is a foreign key referencing users(email)
+    owns({bg_id, email}, date)
+        bg_id is a foreign key referencing bg(bg_id)
+        email is a foreign key referencing users(email)
+
+    played({bg_id, email}, date, time_played, players, winner)
+        bg_id is a foreign key referencing bg(bg_id)
+        email is a foreign key referencing users(email)
 
 ER Diagram Notes
 ----------------
