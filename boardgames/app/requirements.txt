@@ -1,0 +1,4 @@
+psycopg2
+Flask
+gunicorn
+Werkzeug==0.14.1

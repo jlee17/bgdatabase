@@ -1,0 +1,31 @@
+<html lang=eng>
+
+<body>
+    {% if error %}
+        {{error}}<br>
+    {% endif %}
+
+    {% if data %}
+        <table>
+        <tr>
+        {% for item in headers %}
+            <th>{{item}}</th>
+        {% endfor %}
+        <tr>
+        {% for row in data %}
+            <tr>
+            {% for item in row %}
+                <td>{{item}}</td>
+            {% endfor %}
+            </tr>
+        {% endfor %}
+        </table>
+    {% endif %}
+    Submit your query below
+    <form action="/submit" method="POST">
+        <input type="text" name="Query"><br>
+        <input type="submit" value="submit">
+    </form>
+</body>
+
+</html>
