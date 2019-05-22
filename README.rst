@@ -29,6 +29,7 @@ Schema
 ------
 
 ::
+
     bg({bg_id}, title, description, released, rating, min_playtime, max_playtime, min_players, max_players, expansion_of)
         expansion_of is a foreign key referencing BG(bg_id)
 
