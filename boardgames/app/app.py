@@ -273,11 +273,12 @@ def login():
         except psycopg2.DataError:
             conn.close()
 
-        if result:
-            if check_password_hash(result[0], password):
-                session['logged_in'] = True
-                session['user_id'] = username
-                return redirect('/')
+        if result != None:
+            if result[0] != None:
+                if check_password_hash(result[0], password):
+                    session['logged_in'] = True
+                    session['user_id'] = username
+                    return redirect('/')
 
         message = 'Invalid Username/Password combo'
         category = 'alert-danger'
