@@ -27,40 +27,38 @@
         <div class="card bg-light text-dark col-sm-6 mx-auto justify-content-center align-self-center">
             <div class="card-body">
 
-                <h1 class="card-title">Welcome</h1>
-
-                {% if message %}
-                    <div class="alert {{category}}">{{message}}</div>
+                <h1 class="card-title">Sign Up</h1>
+                {% if error %}
+                <div class="alert {{category}}">{{error}}</div>
                 {% endif %}
-                {% with messages = get_flashed_messages(with_categories=True) %}
-                    {% if messages %}
-                        {% for category, message in messages %}
-                            <div class="alert {{ category }}">
-                                {{ message }}
-                            </div>
-                        {% endfor %}
-                    {% endif %}
-                {% endwith %}
 
-                <form action="/login" method="post">
+                <form action="/signup" method="post">
+                    <div class="form-group form-inline">
+                        <input type="text" class="form-control w-50" name="firstName" placeholder="First Name">
+                        <input type="text" class="form-control w-50" name="lastName" placeholder="Last Name">
+                    </div>
                     <div class="form-group">
                         <input type="text" class="form-control" name="email" placeholder="Email">
                     </div>
                     <div class="form-group">
                         <input type="password" class="form-control" name="password" placeholder="Password">
                     </div>
+                    <div class="form-group">
+                        <input type="password" class="form-control" name="confirmPassword"
+                            placeholder="Confirm Password">
+                    </div>
                     <div class="text-right">
-                        <button type="submit" class="btn btn-primary btn-lg">Login</button>
+                        <button type="submit" class="btn btn-primary btn-lg">Create Account</button>
                     </div>
                 </form>
 
                 <hr>
                 <div class="d-flex justify-content-between align-items-center h-100">
-                    <p>Don't have an account? </p><a class="btn btn-primary btn-md pull-right" href="/signup">Sign
-                        Up</a>
+                    <span>Already have an account?</span><a class="btn btn-primary btn-md" href="/">Sign In</a>
                 </div>
             </div>
         </div>
+
     </div>
 </body>
 

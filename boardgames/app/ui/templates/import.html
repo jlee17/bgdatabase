@@ -1,0 +1,29 @@
+{% extends "layout.html" %}
+{% block content %}
+<li class="nav-item">
+    <a class="nav-link" href="{{ url_for('index') }}">Home</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="{{ url_for('search') }}">Search</a>
+</li>
+<li class="nav-item active">
+    <a class="nav-link active" href="{{ url_for('import_data') }}">Import</a>
+</li>
+<li class="nav-item">
+    <a class="nav-link" href="/logout">Logout</a>
+</li>
+</ul>
+</div>
+</nav>
+
+<div class="jumbotron jumbotron-fluid bg-dark p-5">
+    <div class="containter">
+        <form action="/import" method="POST" enctype="multipart/form-data">
+            <input type="file" name="file[]" multiple>
+            <input type="submit" value="Submit">
+        </form>
+        <br>
+
+    </div>
+</div>
+{% endblock %}

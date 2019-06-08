@@ -1,10 +1,10 @@
 {% extends "layout.html" %}
 {% block content %}
-<li class="nav-item active">
-    <a class="nav-link active" href="{{ url_for('index') }}">Home</a>
-</li>
 <li class="nav-item">
-    <a class="nav-link" href="{{ url_for('search') }}">Search</a>
+    <a class="nav-link" href="{{ url_for('index') }}">Home</a>
+</li>
+<li class="nav-item active">
+    <a class="nav-link active" href="{{ url_for('search') }}">Search</a>
 </li>
 <li class="nav-item">
     <a class="nav-link" href="{{ url_for('import_data') }}">Import</a>
@@ -18,17 +18,39 @@
 
 <div class="jumbotron jumbotron-fluid bg-dark p-5">
     <div class="containter">
-        <h1 class="display-4">Hello!</h1>
-        <p class="lead">
-            This basic interface allows users to submit queries to the server
-            and get responses. Use the navigation bar to access pages for searching the database, importing additional
-            data, and viewing user information.
-        </p>
-        <form action="/submit" method="POST" enctype="multipart/form-data">
-            <textarea class=form-control type="text" name="Query"></textarea>
-            <input type="submit" value="Submit">
-        </form>
+        {% if table %}
+        <div class="card bg-light text-dark col-sm-6 mx-auto justify-content-center align-self-center">
+            <div class="card-body">
+                <form class="mx-auto" action="/search" method="POST" enctype="multipart/form-data">
+                    {% for category in table %}
+                    <div class=form-group>
+                        <div class=input-group>
+                            <div class="input-group-prepend">
+                                <label class="input-group-text" for="{{ category[0] }}">{{ category[0] }}</label>
+                            </div>
+                            <input class="form-control" name="{{category[0]}}" list="{{ category[0] }}">
+                            <datalist id="{{ category[0] }}">
+                                {% for item in category[1:] %}
+                                <option value="{{item}}">
+                                    {% endfor %}
+                            </datalist>
+                        </div>
+                    </div>
+                    {% endfor %}
+                    <div class="d-flex justify-content-between align-items-center h-100">
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" value="" id="defaultCheck1" name="show">
+                            <label class="form-check-label" for="defaultCheck1">
+                                Show Query?
+                            </label>
+                        </div>
+                        <button class="btn btn-primary pull-right" type="submit">Search</button>
+                    </div>
+                </form>
+            </div>
+        </div>
         <br>
+        {% endif %}
 
         {% if error %}
         <div class="card bg-light text-dark md-3 mx-auto justify-content-center align-self-center">
