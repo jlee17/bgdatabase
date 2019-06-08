@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="168399">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/oSqmS4nrkFQRrEam864j15Xly3w=/fit-in/200x150/pic3159133.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/HVcd0gNdUew0iZ7Wk5pg7Q4oYwk=/0x0/pic3159133.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Hearts of Iron IV" />
+			
+						                           
+						               													<description>You are now in command of World War II! Your ability to lead your nation is your supreme weapon, the strategy game Hearts of Iron IV by Paradox Development Studio lets you take command of any nation in World War II; the most engaging conflict in world history.&amp;#10;&amp;#10;Description&amp;#10;&amp;#10;From the heart of the battlefield to the command center, you will guide your nation to glory and wage war, negotiate or invade. You hold the power to tip the very balance of WWII.&amp;#11; It is time to show your ability as the greatest military leader in the world. Will you relive or change history? Will you change the fate of the world?&amp;#10;&amp;#10;Features&amp;#10;&amp;#10;Total strategic war &amp;ndash; The war is not only won on land, on the seas and in the air, but also in the laboratories, the factories, the backrooms, in international trade and in the hearts and minds of men and women.&amp;#10;The most authentic real-time simulation of the war &amp;ndash; Let the greatest commanders of WW2 fight your war with the tools of the time; tanks, planes, ships, guns and newly discovered weapons of mass destruction.&amp;#10;Fight as any nation in the greatest human conflict of all time &amp;ndash; Chose from the greatest powers striving for victory, or the small nations trying to weather the storm.&amp;#10;&amp;#10;Source: The Publisher Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5248" value="Linux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2158" value="Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2273" value="War - World War II" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="5255" value="Hearts of Iron" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2313" value="Cooperative" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="0" />
+						               				<releasedate value="2016-06-06" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="12224" value="Paradox Interactive (I)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="12224" value="Paradox Interactive (I)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="19" />
+			<average value="8.03684" />
+			<bayesaverage value="6.28978" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="1514" bayesaverage="6.28978" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="319" bayesaverage="6.62071" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="801" bayesaverage="6.47882" />
+											<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="109" bayesaverage="6.92798" />
+												</ranks>
+
+			<stddev value="1.0825" />
+			<median value="0" />
+			<owned value="38" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="3" />
+			<numcomments value="7" />
+			<numweights value="1" />
+			<averageweight value="5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

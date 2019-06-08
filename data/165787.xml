@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165787">
+                                     				
+				<name type="primary" sortindex="1" value="EVE burst error" />
+			
+						                           
+						               													<description>One of C's Ware's most notable visual novel games was EVE Burst Error (1995), written and produced by Hiroyuki Kanno and with chiptune video game music composed by Ryu Umemoto. The game featured a branching narrative where two different protagonists, one male and one female, provide different perspectives on the story. The game introduced a unique twist to the system by allowing the player to switch between both protagonists at any time during the game, instead of finishing one protagonist's scenario before playing the other. EVE Burst Error often requires the player to have both protagonists co-operate with each other at various points during the game.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;C's Ware&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2713" value="Visual Novel" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2278" value="Anime" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2012-09-30" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="17809" value="C's Ware" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28427" value="HimeyaSoft Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="17600" value="MangaGamer" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

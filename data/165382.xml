@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165382">
+                                     				
+				<name type="primary" sortindex="1" value="Pro Cycling Manager Season 2009: Le Tour de France" />
+			
+						                           
+						               													<description>Pro Cycling Manager 2009 is a cycling management video game. It was released just before the 2009 Tour de France (PCM 2009 is the Tour de France licensed game).&amp;#10;&amp;#10;The game was released for Windows and PSP. A Tour de France-only game was released for the Xbox 360 but was only available to buy from the Xbox Live Arcade. On this version of the game there are only 5 riders per team which means that there are only 90 riders in the race, although you get to choose from the whole squad of the teams to choose the riders. The Fuji-Servetto team are in the game although they didn't compete in the Tour de France in 2009. They are in place of the Cerv&amp;eacute;lo TestTeam.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Pro Cycling Manager 2009&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2154" value="Racing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2156" value="Simulation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2545" value="Sports - Bicycling" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="10377" value="Pro Cycling Manager" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="20" />
+						               				<releasedate value="2009-07-10" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="12894" value="Cyanide Studio" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="12888" value="Focus Home Interactive" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

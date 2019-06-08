@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="165186">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/27YTko42sE0XGP-u4CEKXKlvWQo=/fit-in/200x150/pic3716102.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/l7M3t5_3gHtix_3MXpTqh7Kvm7A=/0x0/pic3716102.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Hitler&#039;s Reich" />
+			
+						                           
+						               													<description>No stacks of armies, no hexes, no overly-lengthy rules to learn - Hitler&amp;rsquo;s Reich takes five minutes to set up and two hours (or less!) to play. Players fight over Europe, across the North Atlantic and Mediterranean and into Russia using a combat mechanism similar to the traditional card game &amp;ldquo;War&amp;rdquo; with dice added in.  High-quality wooden pieces mark their progress, which is aided economically, politically and on the battlefield through the competition for and play of Event Cards drawn from three unique decks: one for the Axis, one for the Allies, and one from which either side can attempt to draw.&amp;#10;&amp;#10;Hitler&amp;rsquo;s Reich is the first of the Card Conquest System game series in which players recreate epic military contests of history in short, comparatively simple and easy to learn, but hard to master games.  Designed to be set up in minutes and played to conclusion in one sitting, these are not simulations but games, albeit ones packed with enough historical flavor, excitement, and decision making to give you the feeling of being there at the highest levels of command.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="14">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="1" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="0" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1049" value="World War II" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4595" value="Mark McLaughlin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="727" value="Fred Schachter" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71" value="Rodger B. MacGowan" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="52" value="GMT Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="270" />
+			<average value="6.95767" />
+			<bayesaverage value="5.72945" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3951" bayesaverage="5.72945" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="548" bayesaverage="6.36901" />
+												</ranks>
+
+			<stddev value="2.2846" />
+			<median value="0" />
+			<owned value="847" />
+			<trading value="29" />
+			<wanting value="62" />
+			<wishing value="281" />
+			<numcomments value="154" />
+			<numweights value="16" />
+			<averageweight value="3.3125" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

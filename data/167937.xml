@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167937">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/hriYH8qV-CW1lQ22n-yGjAdssUI=/fit-in/200x150/pic2660559.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/aXBeg_viAhEzAWutqOe_oX12ZHU=/0x0/pic2660559.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Pokémon Dream Radar" />
+			
+						                           
+						               													<description>User Summary&amp;#10;&amp;#10;In the game you'll be taking on the role of an assistant who works for Professor Burnet - a scientist studying the Interdream Zone. Move your Nintendo 3DS system around in this motion-controlled action game and take aim to shoot your light beam at the Dream Clouds and collect your rewards! This game is fun for anybody, and a fact-filled accompaniment to Pok&amp;eacute;mon Black Version 2 or Pok&amp;eacute;mon White Version 2. Any caught Pok&amp;eacute;mon or items you pick up in the Pok&amp;eacute;mon Dream Radar can be transferred to Pok&amp;eacute;mon Black Version 2 and Pok&amp;eacute;mon White Version 2, which is very useful, since the Pok&amp;eacute;mon you catch might have hidden abilities not available for those games, and some items that can't normally be found either. Try to fill up your Pok&amp;eacute;dex as much as you can!&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5857" value="Nintendo 3DS" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2482" value="Other" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2471" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="5252" value="Pokémon" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2012-10-07" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="13094" value="Creatures Inc." />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="1326" value="Nintendo Co., Ltd." />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="4" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="5857" name="nintendo3ds" friendlyname="Nintendo 3DS Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="13" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

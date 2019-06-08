@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="165800">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/6S7IHdSEcUoNFszTywhgGK0-ZiY=/fit-in/200x150/pic4566811.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/ls2dQWrf1OAjTyH08DBpXSbR5iI=/0x0/pic4566811.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Battle of Mikatagahara" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="三方原合戦" />
+			
+						               													<description>Issue game of Wargame Japanese History #20.&amp;#10;&amp;#10;Covering the campaign of Takeda Shingen (&amp;#230;&amp;#173;&amp;#166;&amp;#231;&amp;#148;&amp;#176;&amp;#228;&amp;#191;&amp;#161;&amp;#231;&amp;#142;&amp;#132;) against Tokugawa Ieyasu (&amp;#229;&amp;#190;&amp;#179;&amp;#229;&amp;#183;&amp;#157;&amp;#229;&amp;#174;&amp;#182;&amp;#229;&amp;#186;&amp;#183;).&amp;#10;https://en.wikipedia.org/wiki/Battle_of_Mikatagahara&amp;#10;&amp;#10;This is a sequel game of Nagashino Shitaragahara on issue #7.&amp;#10;&amp;#10;The game is smaller card-driven type game which can be played within 2 hours.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2013" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10634" value="Country: Japan" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="52096" value="Tadatoshi Jimbo" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3133" value="Kokusai-Tsushin Co., Ltd. (国際通信社)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="5.3" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="10" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="3" />
+			<numcomments value="3" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

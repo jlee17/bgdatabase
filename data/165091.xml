@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165091">
+                                     				
+				<name type="primary" sortindex="1" value="Shanghai: Triple Threat" />
+			
+						                           
+						               													<description>User Input,&amp;#10;&amp;#10;The classic tile matching game SHANGHAI has come to the Saturn in SHANGHAI: Triple Threat. Try to remove all of the tiles by matching them in CLASSIC SHANGHAI. For something a little different, try one of the three new variations. Get rid of pairs of free tiles only to have gravity intervene and drop higher tiles into the free space in THE GREAT WALL. Move entire rows to match tiles in BEJING. Challenge a friend as both of you try unearth THE GOLDEN TILE. With three new tile sets and three new ways to play, SHANGHAI: Triple Threat plenty of action to keep SHANGHAI fans busy.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4439" value="SEGA Saturn" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2165" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2351" value="Puzzle" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="6284" value="Shanghai (Activision)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						               				<releasedate value="1994-01-01" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="3320" value="(Unknown)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11786" value="Activision" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4439" name="segasaturn" friendlyname="SEGA Saturn Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

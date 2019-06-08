@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="168328">
+                                     				
+				<name type="primary" sortindex="1" value="Duo Dash" />
+			
+						                           
+						               													<description>The animals are loose and must be brought back into the enclosures as fast as possible. If only someone could remember where the animals were last!&amp;#10;&amp;#10;Dash quickly as you and the other players turn over tiles to collect pairs of animals. Find pairs according to the Goal Tiles. Match a valid pair and receive a positive point, collect a wrong pair and receive a negative point. Score the most points at the end of 3 rounds and win!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="0" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="6+">		
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1041" value="Children's Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3491" value="SimplyFun" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

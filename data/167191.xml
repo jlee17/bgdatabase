@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167191">
+                                     				
+				<name type="primary" sortindex="1" value="Mikey Shorts" />
+			
+						                           
+						               													<description>Mikey Shorts is an iOS platformer game developed by BeaverTap Games and released on August 23, 2012. It is part of the Mikey series of games, which includes Mikey Boots and Mikey Hooks.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Mikey Shorts&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;&amp;#10;Run, jump, and slide through the land to help Mikey Shorts rescue the people! Collect coins to buy fun disguises along the way!&amp;#10;&amp;bull; 84 levels across 2 game modes&amp;#10;&amp;bull; 6 unique environments&amp;#10;&amp;bull; Choose from over 140 disguises to wear&amp;#10;&amp;bull; Golden Shorts hidden in all Story levels&amp;#10;&amp;bull; Race against a ghost of your best score&amp;#10;&amp;bull; Earn achievements both online &amp;amp; offline&amp;#10;&amp;bull; Easy access to Game Center scores&amp;#10;&amp;bull; Ability to customize controls&amp;#10;&amp;bull; Supports iCade and Joypad&amp;#10;&amp;#10;Source: The Developer Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6063" value="Android" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6826" value="iPad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4443" value="iPhone" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2164" value="Platform" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2337" value="Cute Fantasy" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="25975" value="Mikey" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2012-08-17" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28300" value="BeaverTap Games, LLC" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="24928" value="Noodlecake Studios" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6826" name="ipad" friendlyname="iPad Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

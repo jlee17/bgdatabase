@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165490">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/s8aG7tsWoZj-5FEJ1ndIqfFNza0=/fit-in/200x150/pic2235325.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/xGiLHLm5eYy_YXXYhr9w0iMVnLU=/0x0/pic2235325.jpg</image>
+                                     				
+				<name type="primary" sortindex="5" value="The Fire Crystal" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="ザ・ファイアクリスタル" />
+			
+						               													<description>Because of memory limitations, another part of the game (The Black Onyx) was released separately on some platforms as The Fire Crystal (&amp;#227;&amp;#130;&amp;#182;&amp;#227;&amp;#131;&amp;#187;&amp;#227;&amp;#131;&amp;#149;&amp;#227;&amp;#130;&amp;#161;&amp;#227;&amp;#130;&amp;#164;&amp;#227;&amp;#130;&amp;#162;&amp;#227;&amp;#130;&amp;#175;&amp;#227;&amp;#131;&amp;#170;&amp;#227;&amp;#130;&amp;#185;&amp;#227;&amp;#130;&amp;#191;&amp;#227;&amp;#131;&amp;#171;) (which added a magic system). Two other parts were announced, The Moonstone (&amp;#227;&amp;#130;&amp;#182;&amp;#227;&amp;#131;&amp;#187;&amp;#227;&amp;#131;&amp;#160;&amp;#227;&amp;#131;&amp;#188;&amp;#227;&amp;#131;&amp;#179;&amp;#227;&amp;#130;&amp;#185;&amp;#227;&amp;#131;&amp;#136;&amp;#227;&amp;#131;&amp;#188;&amp;#227;&amp;#131;&amp;#179;) (which allowed the party to explore the wilderness), and Arena (&amp;#227;&amp;#130;&amp;#162;&amp;#227;&amp;#131;&amp;#170;&amp;#227;&amp;#131;&amp;#188;&amp;#227;&amp;#131;&amp;#138;) (which allowed the party to take part in Arena battles).&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;The Black Onyx&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="17909" value="PC-9801" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2155" value="RPG" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2284" value="Medieval" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="25778" value="Legacy and Legends" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="1984-00-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="22645" value="Bullet Proof Software" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="22645" value="Bullet Proof Software" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

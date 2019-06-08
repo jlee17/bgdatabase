@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165804">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/CbrY96lY4vVKFaPtbSzkSDKbagA=/fit-in/200x150/pic4303143.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/v5TQpF42E23k423cdIYT23ec0mE=/0x0/pic4303143.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Angry Birds Stella" />
+			
+						                           
+						               													<description>Angry Birds Stella: Best Friends Forever (colloquially referred to as Angry Birds Stella) is a puzzle video game and the second spin-off of the Angry Birds series, developed by Rovio Entertainment. The spin-off is based around Stella, the pink bird, and her adventures with her friends. The game is being marketed at females.&amp;#10;&amp;#10;Announced on February 13, 2014, Rovio stated that it will be accompanied by a toy-line with Telepods and a cartoon series. The game was released on September 4, 2014.&amp;#10;&amp;#10;Just as in the original Angry Birds, players use a slingshot to launch an assortment of birds at nearby structures, with the intent of hitting targets located on or within them.&amp;#10;&amp;#10;There are many characters that are encountered during gameplay.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Angry Birds Stella&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6063" value="Android" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4443" value="iPhone" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2165" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2471" value="Animals" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="8552" value="Angry Birds" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-09-04" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="12848" value="Rovio" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="12848" value="Rovio" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

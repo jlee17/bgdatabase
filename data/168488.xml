@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="168488">
+                                     				
+				<name type="primary" sortindex="1" value="Connections" />
+			
+						                           
+						               													<description>User Summary&amp;#10;&amp;#10;Based on the TV show Connections 2, this game took the player on an epic quest through history trying to find the connections between one invention to the next.  From apothecaries to oscilloscopes and sextants to dynamite, the player learns what ideas led to others, and what advances in science lead to later innovations.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2152" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2153" value="Educational" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2345" value="Historical" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2350" value="Movie, Book, TV show" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2601" value="Science / Technology" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="1995-00-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="18355" value="Discovery Channel Multimedia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="18355" value="Discovery Channel Multimedia" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="8" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="3" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

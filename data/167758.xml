@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167758">
+                                     				
+				<name type="primary" sortindex="1" value="Brawlin&#039; Sailor" />
+			
+						                           
+						               													<description>User Summary&amp;#10;&amp;#10;A sailor on the ocean receives a mysterious note. He responds by heading toward the lighthouse. But things are not as they initially seem in this brief and humorous game.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5084" value="Web Browser" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2147" value="Action" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2342" value="Beat 'em Up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2509" value="Comedy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2542" value="Ocean / Sea" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2013-09-04" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28410" value="Major Bueno" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="6.25" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="5084" name="webbrowser" friendlyname="Web Browser Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

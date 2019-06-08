@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogamecompilation" id="167868">
+                                     				
+				<name type="primary" sortindex="1" value="Sega Smash Pack" />
+			
+						                           
+						               													<description>From Wikipedia,&amp;#10;&amp;#10;The first Sega Smash Pack was released in 1999 for the PC. It featured eight games.&amp;#10;&amp;#10;Altered Beast&amp;#10;Columns&amp;#10;Golden Axe&amp;#10;Out Run&amp;#10;Phantasy Star II&amp;#10;Sonic Spinball&amp;#10;The Revenge of Shinobi&amp;#10;Vectorman&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Sega Smash Pack&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2147" value="Action" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2402" value="Classic Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2466" value="Other" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						               				<releasedate value="1999-00-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="5360" value="SEGA Corporation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="5360" value="SEGA Corporation" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="69076" value="Altered Beast (1988)" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="69133" value="Columns" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="75116" value="Golden Axe" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="76742" value="Out Run" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="71942" value="Phantasy Star II" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="75118" value="The Revenge of Shinobi" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="76212" value="Sonic the Hedgehog Spinball" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="79637" value="Vectorman" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

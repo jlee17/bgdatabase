@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166500">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/4YQcJSmw_6RDv-smCopkIzRLwEo=/fit-in/200x150/pic2254062.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/XhNm4mMvoSiFCTtzpUZ2xMySlCY=/0x0/pic2254062.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Cookie Clicker" />
+			
+						                           
+						               													<description>Cookie Clicker is a JavaScript-based browser video game written by French programmer Julien Thiennot, who is better known as &amp;quot;Orteil&amp;quot; (French pronunciation: &amp;#226;&amp;#128;&amp;#139;[&amp;#201;&amp;#148;&amp;#202;&amp;#129;t&amp;#201;&amp;#155;j], literally toe), and released on August 10, 2013. The point of the game is to bake cookies as fast as possible, to have a large number of cookies, and to have a lot of milk, which gives a clicking multiplier. However, there is no true end to the gameplay. To start the game, the player bakes cookies solely by clicking on a giant cookie, gaining one cookie each time it is clicked. With sufficient cookies to use as currency, a player can buy items and upgrades that will bake more cookies automatically, and increase the number of cookies per click.&amp;#10;&amp;#10;At first, the player clicks on the cookie on the left side of the screen to earn cookies per click, initially at a rate of one cookie per click. With these cookies, the player can purchase items that automatically make cookies for them, such as grandmas, farms, and cursors; and the player may upgrade the number of cookies produced per click. The more cookies produced, the better items that are available for purchase. The player is progressively able to purchase better items and make cookies at a faster rate. New items and features are added with ongoing updates of the game.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Cookie Clicker&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5084" value="Web Browser" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2779" value="Clicker / Incremental" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2624" value="Food / Cooking" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2013-08-10" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="14029" value="(Self-Developed Video Game)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4" />
+			<average value="3.625" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="5084" name="webbrowser" friendlyname="Web Browser Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.55624" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

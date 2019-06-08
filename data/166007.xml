@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166007">
+                                     				
+				<name type="primary" sortindex="1" value="The LootCastle" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="The Loot Castle" />
+			
+						               													<description>The LootCastle is a strategy game in which you defend a castle from invading knights. Instead of controlling your skeletons directly, you improve them with skill trees constructed by you.&amp;#10;&amp;#10;The game comes with a handful of quests (9 in total) which challenge you, as an example, to survive a certain amount of waves.&amp;#10;&amp;#10;If you enjoy to chew over skill trees, discovering and experimenting with synergies of skills while being attracted by random, rare loot &amp;ndash; The LootCastle is definitely a game for you.&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2158" value="Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2474" value="Tower Defense" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-02-10" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="14029" value="(Self-Developed Video Game)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

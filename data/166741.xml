@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogameexpansion" id="166741">
+                                     				
+				<name type="primary" sortindex="1" value="Watch_Dogs - Bad Blood" />
+			
+						                           
+						               													<description>User Summary&amp;#10;&amp;#10;Bad Blood contains new locations, new weapons, 10 new missions, co-op, perks and outfits including the remote-control car Eugene.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4435" value="PlayStation 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="10763" value="Wii U" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4407" value="Xbox 360" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2161" value="Action Adventure" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2323" value="Moral Choices" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2283" value="Spy / Espionage" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="36362" value="Watch Dogs" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						               				<releasedate value="2014-09-30" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="14134" value="Ubisoft Montreal" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11781" value="Ubisoft Entertainment S.A. (Ubisoft)" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameexpansion" id="125920" value="Watch_Dogs" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="7.4" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4407" name="xbox360" friendlyname="Xbox 360 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4435" name="ps3" friendlyname="PlayStation 3 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="10763" name="wiiu" friendlyname="Wii U Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.4" />
+			<median value="0" />
+			<owned value="6" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

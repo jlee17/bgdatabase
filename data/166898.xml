@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166898">
+                                     				
+				<name type="primary" sortindex="1" value="Shadow Blade: Reload" />
+			
+						                           
+						               													<description>User Summary&amp;#10;&amp;#10;Kuro is a young man on a quest to become the Shadow Blade. You will guide him through challenging levels with countless traps, sneaking past enemies or right over their dead bodies. You will have to be fast, stealthy and aware of your environment. You will have to be a ninja.&amp;#10;&amp;#10;Shadow Blade is a fast paced action platformer.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2147" value="Action" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2164" value="Platform" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2495" value="Ninjas" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="26036" value="Shadow Blade" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2313" value="Cooperative" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						               				<releasedate value="2015-08-10" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="22780" value="Dead Mage" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="22780" value="Dead Mage" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="1" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="1" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

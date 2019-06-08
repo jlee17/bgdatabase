@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="rpgitem" id="166555">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/CFFE8y8M7pbqBMWA-bjh27YnJpU=/fit-in/200x150/pic2257985.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/FfgXRBqI_DDmVEUkuGwroBMqfiw=/0x0/pic2257985.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Dungeons of Fate" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="rpg" id="203" value="Fate Core" />
+		
+									
+			
+
+			               													<description>Designer blurb:&amp;#10;&amp;#10;Fantasy dungeon delving house rules for Fate Accelerated by Michael E. Shea.&amp;#10;&amp;#10;</description>
+										               				<yearpublished value="2013" />
+						      				
+		 			
+
+			
+		
+					<link type="rpggenre" id="961" value="Fantasy" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			               				<seriescode value="" />
+						      				
+		 			
+
+			
+		
+					<link type="rpgcategory" id="2108" value="Sourcebook (rules/options to enhance play)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="rpgmechanic" id="2680" value="Dice (Primarily Fudge/dF)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgmechanic" id="2100" value="Point Based (allocate points to get skills, powers, etc)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgmechanic" id="2094" value="Skill Based (buy or gain skills)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgmechanic" id="2098" value="Trait / Aspect Based (personality affects gameplay)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="rpgpublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="rpgdesigner" id="39027" value="Michael E. Shea" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="rpgartist" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="rpgproducer" id="39027" value="Michael E. Shea" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="4" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="16" name="rpgitem" friendlyname="RPG Item Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

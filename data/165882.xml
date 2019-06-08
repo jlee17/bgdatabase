@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165882">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/61YCwRnC03Ka6WpJgG0f7LuLqhE=/fit-in/200x150/pic2462794.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/kaRbkOlXDJwkZc-X3ruxpuarhcw=/0x0/pic2462794.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Ocean City Racing" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="OCEAN CITY RACING: Redux" />
+			
+						               													<description>An Open World Racing Game Powered by UNREAL ENGINE 3&amp;#10;  &amp;#10;Ocean City Racing is an open world driving game powered by Unreal Engine 3. OCR features the biggest, most detailed and alive open world city , advanced driving physics and highest quality visuals ever seen in a low price indie driving game.&amp;#10;&amp;#10;Featuring a free roam , time-trial and a race mode on a massive environment , Ocean City Racing offers hours of fun.&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2154" value="Racing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2456" value="Driving" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2013-05-20" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="14029" value="(Self-Developed Video Game)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="4" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="5" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

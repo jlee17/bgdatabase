@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgameexpansion" id="165874">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/6JgBgUrMbxeUMqiXO1bMIQBOch0=/fit-in/200x150/pic2243552.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/F5xaKfUp2YHbMz0lc8b-REcDTUc=/0x0/pic2243552.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Bloody Red Flag" />
+			
+						                           
+						               													<description>Bloody Red Flag provides advanced &amp;amp; supplemental rules for the Close Action naval wargame. The supplemental rules are an integrated set designed to simulate tactical naval warfare in the late sail era in a more realistic manner than Close Action permits, but at the cost of some additional complexity.&amp;#10;&amp;#10;The primary change in Bloody Red Flag is the implementation of a 12-point movement system to replace the regular 6-point hex system. Ships may now turn 30 degrees to point toward a hex corner instead of just hex sides.  Additional rules are included to address topics impacted by this modification in the movement system, including Collisions, Line of Sight, Firing Arcs &amp;amp; Range, Rakes, Marine Fire, Drifting, Anchoring, and Land terrain effects.&amp;#10;&amp;#10;Additional rules include Impulse movement, Smoke effects, and Optional rules for Towing, Anchoring, Tacking, and Signaling.  There are also optional rules for Pre-1794 Signaling limitations and a Signal Book for Pre-1794 scenarios.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1995" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="30" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="30+">		
+				</results>					
+	</poll> 			               				<playingtime value="240" />
+						               				<minplaytime value="240" />
+						               				<maxplaytime value="240" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2726" value="Age of Reason" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1075" value="American Revolutionary War" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1051" value="Napoleonic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1008" value="Nautical" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2689" value="Action / Movement Programming" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="28441" value="Close Action series" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="54620" value="Close Action: Naval Warfare in the Age of Napoleon, 1793-1815" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="3553" value="Close Action: The Age of Fighting Sail Vol. 1" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1311" value="Albert C. E. Parker" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3" />
+			<average value="6.66667" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="4.02768" />
+			<median value="0" />
+			<owned value="13" />
+			<trading value="0" />
+			<wanting value="3" />
+			<wishing value="5" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

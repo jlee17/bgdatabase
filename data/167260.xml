@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167260">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/E_b-A--_vIKKrbIQ2EZM-63e6LI=/fit-in/200x150/pic2389100.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/pSIsQShyliI0SPK4TNDxgCmFfAU=/0x0/pic2389100.jpg</image>
+                                     				
+				<name type="primary" sortindex="5" value="The Few" />
+			
+						                           
+						               													<description>Hardcore Real-time Strategy game with WWII setting&amp;#10;&amp;#10;The goal of the game is to defend Great Britain against German bombing raids. The game follows the historical timeline very closely, but at the same time &amp;ndash; the game mechanics are easy to learn (yet hard to master) and it provides great entertainment.&amp;#10;&amp;#10;Never was so much owed by so many to so FEW&amp;#10;&amp;#10;The game has two distinct gameplay experiences where:&amp;#10;&amp;#10;&amp;#10;     The player manages war production and squadron placement&amp;#10;     The player organizes patrol routes and tactics&amp;#10;&amp;#10;&amp;#10;Once combat is initiated the player can lead their squadrons to attack waves of German bombers utilizing simple touch or mouse commands.&amp;#10;&amp;#10;Game features&amp;#10;&amp;#10;&amp;#10;     There are 8 aircraft types in the game &amp;ndash; including of course the famous Supermarine Spitfire!&amp;#10;     Every pilot is earning his own experience &amp;ndash; witness your rookies become aces!&amp;#10;     Manage the British war machine &amp;ndash; decide what should be built and where&amp;#10;     Fight epic air battles!&amp;#10;     Lead English, Polish, Czechs, Canadian and New Zealands squadrons to fight for freedom!&amp;#10;&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2166" value="Real Time Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2273" value="War - World War II" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-06-18" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28320" value="BlackMoon Design" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28320" value="BlackMoon Design" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="6" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1" />
+			<median value="0" />
+			<owned value="6" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

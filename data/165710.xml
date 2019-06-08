@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165710">
+                                     				
+				<name type="primary" sortindex="1" value="Rayman Legends Challenges" />
+			
+						                           
+						               													<description>User Note&amp;#10;The game is a 3 fixed levels plus a rotating challenge levels mode. &amp;#10;The challenges mode was disabled when the Rayman Legends game was released; the 3 non-challege levels remain playable, and the app has been removed from the WiiU download store.  The DRM for the app is Nintendo account linked. The content is not the same as the Rayman Legends game.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="10763" value="Wii U" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2161" value="Action Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2164" value="Platform" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2337" value="Cute Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="5823" value="Rayman" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="5824" value="Rayman" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2013-04-25" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="23547" value="Ubisoft Montpellier" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11781" value="Ubisoft Entertainment S.A. (Ubisoft)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="10763" name="wiiu" friendlyname="Wii U Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

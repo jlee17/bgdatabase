@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167749">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/rT8uY4VmuuME1riAHyOGhx2xUGE=/fit-in/200x150/pic2542719.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/VnLcGR2fZ6VbwzCG93S-WshYD2U=/0x0/pic2542719.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Dojo of Death" />
+			
+						                           
+						               													<description>User Summary&amp;#10;&amp;#10;You are a ninja in the dojo when you are attacked! Use the mouse to move around the fixed screen, click and you will move quickly while striking toward the cursor. Do this to attack enemies or move out of the way of their attacks. Strike multiple enemies at once as a combo for bonus points. Enemies are visually distinctive when they are about to attack so you can plan your actions in this fast paced skilled game.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5084" value="Web Browser" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2147" value="Action" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2495" value="Ninjas" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2013-12-29" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28408" value="nicotuason" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="5084" name="webbrowser" friendlyname="Web Browser Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

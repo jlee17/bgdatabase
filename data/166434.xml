@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogamecompilation" id="166434">
+                                     				
+				<name type="primary" sortindex="1" value="2 Games In 1 Double Pack - Hot Wheels: World Race / Velocity X" />
+			
+						                           
+						               													<description>User Summary&amp;#10;&amp;#10;Contains the games Hot Wheels: Velocity X and Hot Wheels: World Race.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4423" value="Game Boy Advance" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2154" value="Racing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2456" value="Driving" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2005-09-22" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="12496" value="Saffire" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11789" value="THQ" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="111465" value="Hot Wheels World Race" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="103602" value="Hot Wheels: Velocity X" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4423" name="gameboyadvance" friendlyname="Game Boy Advance Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

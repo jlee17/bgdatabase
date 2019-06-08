@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgameexpansion" id="166639">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/37ddyssVJ_wPGrRAgx3doJVFVDE=/fit-in/200x150/pic2254629.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/ApVHcSh8ZRAyHUy3GZVxj3uarqo=/0x0/pic2254629.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="World of Tanks: Rush – Promo Pack" />
+			
+						                           
+						               													<description>This promo pack includes 4 tank cards:&amp;#10;&amp;#10;1. French - Poniatowski G1P&amp;#10;2. German - VK4502 (P)&amp;#10;3. USA - Tumbleweed Tank&amp;#10;4. USSR - &amp;#208;&amp;#162;&amp;#208;&amp;#176;&amp;#208;&amp;#189;&amp;#208;&amp;#186; &amp;#208;&amp;#160;&amp;#208;&amp;#144;&amp;#208;&amp;#164;-&amp;#208;&amp;#157;&amp;#208;&amp;#152;&amp;#208;&amp;#154;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="5+">		
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1101" value="Video Game Theme" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1049" value="World War II" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Card Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck / Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="147030" value="World of Tanks: Rush" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="197996" value="World of Tanks: Rush – Deluxe Edition" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="68986" value="Nikolay Pegasov" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="69038" value="Uildrim" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="9" />
+			<average value="6.66667" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.666667" />
+			<median value="0" />
+			<owned value="60" />
+			<trading value="9" />
+			<wanting value="7" />
+			<wishing value="10" />
+			<numcomments value="5" />
+			<numweights value="1" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

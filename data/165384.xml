@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165384">
+                                     				
+				<name type="primary" sortindex="1" value="Alien Spidy" />
+			
+						                           
+						               													<description>Source: Wikipedia, &amp;quot;Alien Spidy&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;Alien Spidy is a physics-based platformer video game. Players control the eponymous Spidy, an extraterrestrial spider, and navigate him through a series of levels that are filled with deadly obstacles. Spidy can run and jump, and has the ability to shoot a web, allowing him to grapple and swing from object to object within the environment. Interspersed throughout each level are a large number of orbs, which Spidy can collect to score points. Finishing the level quickly, collecting a large number of orbs, collecting several orbs in quick succession, and finding score multipliers all increase the player's score for that level. Players can also lose points by dying, collecting certain orbs that decrease the player's score, or going for too long without collecting an orb. Players earn between one and five stars on each level, based on their score. Levels are grouped into several stages, including a forest, a pond, a cave system, and outer-space. In order to progress from one stage to the next, players must collect a certain number of stars. Players can collect special power-up orbs scattered throughout levels. These orbs allow Spidy to perform feats he is otherwise incapable of, including traveling underwater and jumping to extreme heights. There are 69 levels in the game, and most of them take between 90 seconds and three minutes.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4435" value="PlayStation 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4407" value="Xbox 360" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2152" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2164" value="Platform" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2471" value="Animals" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2013-03-20" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="13270" value="Enigma Software Productions" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="13262" value="Kalypso Media" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="3" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4407" name="xbox360" friendlyname="Xbox 360 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4435" name="ps3" friendlyname="PlayStation 3 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="9" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

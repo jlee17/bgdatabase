@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165806">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/iPufLm50rGDgsqwuNeCxhbVbJQQ=/fit-in/200x150/pic2734626.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/FTivaYWgM3azVZp40oKxLyXE8KA=/0x0/pic2734626.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Strider (2014)" />
+			
+						                           
+						               													<description>The player control the series' main character, Strider Hiryu. The environment is freely explorable in search for weapons and items. Strider Hiryu's main weapon is his Cypher, a plasma weapon that can take several properties. Upgrades for the Cypher can be obtained by exploring Kazakh.&amp;#10;The Strider organization sends their best assassin, Strider Hiryu, to kill the villain, Grandmaster Meio, in the metropolis of Kazakh City.&amp;#10;&amp;#10;The game is a retelling of the &amp;quot;core Strider story&amp;quot; and its common theme which centers around Hiryu's battle against Grandmaster Meio. The game mixes together elements from the first arcade Strider game, the NES console game, Strider 2, his fighting game appearances, and the original manga.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Strider (2014 video game)&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4435" value="PlayStation 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="21674" value="PlayStation 4" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4407" value="Xbox 360" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="22574" value="Xbox One" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2147" value="Action" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2281" value="Cyberpunk" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="7037" value="Strider" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-02-18" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="12972" value="Double Helix Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="4358" value="Capcom Co., Ltd." />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="15" />
+			<average value="7.32667" />
+			<bayesaverage value="5.9683" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="2632" bayesaverage="5.9683" />
+																				<rank type="family" id="4407" name="xbox360" friendlyname="Xbox 360 Rank" value="513" bayesaverage="6.19881" />
+											<rank type="family" id="4435" name="ps3" friendlyname="PlayStation 3 Rank" value="562" bayesaverage="6.19753" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="1207" bayesaverage="6.1838" />
+											<rank type="family" id="21674" name="playstation4" friendlyname="PlayStation 4 Rank" value="180" bayesaverage="6.61003" />
+											<rank type="family" id="22574" name="xboxone" friendlyname="Xbox One Rank" value="110" bayesaverage="6.75479" />
+												</ranks>
+
+			<stddev value="1.38105" />
+			<median value="0" />
+			<owned value="54" />
+			<trading value="2" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="8" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

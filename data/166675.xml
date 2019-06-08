@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166675">
+                                     				
+				<name type="primary" sortindex="1" value="FIFA 15" />
+			
+						                           
+						               													<description>FIFA 15 is an association football simulation video game developed by EA Canada and published by Electronic Arts. It was released on 23 September 2014 in North America, 25 September in Europe and 26 September in the United Kingdom and Ireland for the PlayStation 3, PlayStation 4, PlayStation Vita, Nintendo 3DS, Wii, Xbox One, Xbox 360, Microsoft Windows, IOS, Android and Windows Phone. On PC, FIFA 15 runs on EA&amp;rsquo;s Ignite engine with the same features as the PS4 and Xbox One editions.&amp;#10;&amp;#10;A demo was released on 9 September 2014, with three new teams - Chelsea, Liverpool and Napoli - alongside the previous game's demo's teams: Borussia Dortmund, FC Barcelona, Manchester City, Boca Juniors and Paris Saint-Germain.&amp;#10;&amp;#10;This year's Ultimate Team features a new feature, in which users can sign loan players for a limited duration of matches. Another new feature is The Concept Squad, where players have an access to the game's database and can create a &amp;quot;dream squad&amp;quot;. The concept player's card is grey colored. A number of new legends are also introduced to the game, including Franz Beckenbauer, Roberto Carlos, Peter Schmeichel and Hristo Stoichkov.&amp;#10;&amp;#10;Licensing&amp;#10;&amp;#10;A full list of the game's leagues, clubs and national teams was published on its official website on 18 September with the description &amp;quot;Experience true football authenticity with FIFA 15 - featuring 35 licensed leagues, over 600 clubs, 16,000+ players and 41 licensed stadiums&amp;quot;.&amp;#10;&amp;#10;EA Sports had signed a deal with the Premier League as the Official Sports Technology Partner. In this way EA are licensed under Premier League development. This deal allows all 20 Premier League stadiums to be included in the game, including the seven stadiums from FIFA 14. Official Premier League scoreboards and television graphics are also in the game, as well as real-life referees, chants and advertising hoardings. However, the official Premier League graphics are only visible on the PC, PS4 and Xbox One versions of the game. The PS3 and Xbox 360 versions will continue to use generic EA Sports branded graphics for these matches.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;FIFA 15&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5857" value="Nintendo 3DS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4435" value="PlayStation 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="21674" value="PlayStation 4" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="10373" value="PlayStation Vita" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4441" value="Wii" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4407" value="Xbox 360" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="22574" value="Xbox One" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2157" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2373" value="Sports - Soccer" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="4900" value="FIFA" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2313" value="Cooperative" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="22" />
+						               				<releasedate value="2014-09-23" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="12296" value="EA Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11469" value="Electronic Arts Inc. (EA)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="11" />
+			<average value="8.24545" />
+			<bayesaverage value="6.05125" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="2257" bayesaverage="6.05125" />
+																				<rank type="family" id="4407" name="xbox360" friendlyname="Xbox 360 Rank" value="511" bayesaverage="6.20625" />
+											<rank type="family" id="4435" name="ps3" friendlyname="PlayStation 3 Rank" value="461" bayesaverage="6.36957" />
+											<rank type="family" id="4441" name="wii" friendlyname="Wii Rank" value="231" bayesaverage="6.37398" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="1161" bayesaverage="6.2103" />
+											<rank type="family" id="5857" name="nintendo3ds" friendlyname="Nintendo 3DS Rank" value="145" bayesaverage="6.23409" />
+											<rank type="family" id="10373" name="playstationvita" friendlyname="PlayStation Vita Rank" value="135" bayesaverage="6.30717" />
+											<rank type="family" id="21674" name="playstation4" friendlyname="PlayStation 4 Rank" value="187" bayesaverage="6.58472" />
+											<rank type="family" id="22574" name="xboxone" friendlyname="Xbox One Rank" value="123" bayesaverage="6.6027" />
+												</ranks>
+
+			<stddev value="1.00124" />
+			<median value="0" />
+			<owned value="38" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="2" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

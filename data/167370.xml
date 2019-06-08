@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167370">
+                                     				
+				<name type="primary" sortindex="1" value="Toxic Bunny" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Toxic Bunny HD" />
+			
+						               													<description>Toxic Bunny is a side-scrolling action computer game for DOS computers released in 1996 by Celestial Games. The premise of the game is that a bunny named Toxic, a coffee guzzling, gun slinging maniac who is having a really bad day. The game covers four large levels in which Toxic hunts the person (or animal) responsible for interrupting his coffee break, brainwashing all his friends, and covering the planet with a decaffeinated goo. Within the game you can use any number of incredibly large weapons including a Nitric Hamster Launcher, while squashisng aliens with rusty nautical equipment.&amp;#10;&amp;#10;Many say the game is a psychedelic parody of Epic Games character, Jazz Jackrabbit, due to similar game play and the fact that the main protagonist is also a rabbit. However the developers disagree, instead claiming inspirations from the popular 1994 game Earthworm Jim. Toxic Bunny is filled with an abundance of cheesy 90's references and high speed antics.&amp;#10;&amp;#10;Toxic Bunny HD&amp;#10;&amp;#10;Celestial Games, having re-opened in 2010, started porting Toxic Bunny to Java and decided to give the game a full revamp. This included reanimating sprites and redrawing all the levels. It was released as a boxed product in South Africa on 5 October 2012 under the name Toxic Bunny HD. It is also available for digital sale on the Celestial Games website.[4] The developers of the title, are currently building version 1.3 in Unity (Game Engine) which should be completed May 2013.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Toxic Bunny&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6063" value="Android" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4714" value="DOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5248" value="Linux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="11423" value="Windows Phone" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2164" value="Platform" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2336" value="Furries / Talking Animals" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="1996-11-19" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28346" value="Celestial Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28346" value="Celestial Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="13911" value="Vision Software" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4714" name="dos" friendlyname="DOS Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="11423" name="windowsphone" friendlyname="Windows Phone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="166309">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/piuuvdmKxlNrkfdpoTaZqfnTt2E=/fit-in/200x150/pic2248425.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/1J282H3Ylj1zycF8TEnWK9Kq1WU=/0x0/pic2248425.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="MasterChef" />
+			
+						                           
+						               													<description>The official board game of the MasterChef TV Show. The players challenge to the Mystery box, Invention test, Pressure test, and have to undergo the judgment of the opponents.&amp;#10;&amp;#10;Mystery box: each player has to create a dish using some ingredient cards drawn from the deck.&amp;#10;At the start of the challenge, they can exchange the ingredients, giving to the opponents the useless ones.&amp;#10;The players vote the best and the worst dish, and score points accordingly.&amp;#10;&amp;#10;Invention test: each player has to create a dish using a fixed ingredient and choosing the cards by grabbing them from the middle of the table.&amp;#10;The players choose the ingredients simultaneously and they have to be fast to grab the best ones before the others!&amp;#10;The players vote and gain points like the Mystery Box.&amp;#10;&amp;#10;Pressure test: the players have to guess the ingredients of a dish, looking it on a card.&amp;#10;The players score points according to the number of guessed ingredients.&amp;#10;&amp;#10;The player with the most points will win and can wear the chef hat!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1064" value="Movies / TV / Radio theme" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Card Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2017" value="Voting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5841" value="Food / Cooking" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="207884" value="MasterChef Junior" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="34743" value="Francesco Berardi" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="311" value="Clementoni" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="8" />
+			<average value="5.125" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.45237" />
+			<median value="0" />
+			<owned value="20" />
+			<trading value="1" />
+			<wanting value="1" />
+			<wishing value="1" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

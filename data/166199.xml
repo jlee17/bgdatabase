@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166199">
+                                     				
+				<name type="primary" sortindex="1" value="Into The Gloom" />
+			
+						                           
+						               													<description>Into the gloom is a first person puzzle solving horror game based on retro style graphics. It features only the black, white and red colours. Explore 9 suspenseful levels, find the items and solve the puzzles. You will encounter terrifying events along your path, and must escape from &amp;quot;The Shadow&amp;quot;. Be prepared for the horror, and to run for your life, in this pixel style horror adventure.&amp;#10;&amp;#10;This game is short but intense (1-3 hours, depending on your skills as player), and two possible endings!. The New Game+ will add a lot of replay value.&amp;#10;&amp;#10;This is an atmospheric horror game, the real creepiness is not only about the monster, but the environment, rich enveloping sounds and occasional jump scares. This game also features real puzzles, it's not limited to pickup and use, you'll also encounter with various dynamic puzzles.&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2152" value="Adventure" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2265" value="Horror" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-07-19" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28158" value="earrgames" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28104" value="Flying Interactive" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

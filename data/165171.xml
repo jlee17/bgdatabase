@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165171">
+                                     				
+				<name type="primary" sortindex="1" value="The Terminator (Sega Cartridge)" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="The Terminator" />
+			
+						               													<description>From Wikipedia,&amp;#10;&amp;#10;The Terminator by Probe Software is an action shooter game for the Mega Drive/Genesis programmed by David Perry and scored by Matt Furniss. The main character, Kyle Reese, traverses through levels that closely parallel the movie's environment. In all levels, the main character has a jump and has various weapons throughout the game. The first level takes place in the future, and the main character has hand grenades, timed bombs, and a machine gun as weapon choices. The later levels take place in modern settings, and the primary weapon is a shotgun only. The final level takes place inside the Cyberdyne factory, where you battle the Terminator alone. The objective of this level is to lead the Terminator into a compactor which destroys him. Conversions of this very same game were also developed by Probe for the Master System and Game Gear.&amp;#10;&amp;#10;http://en.wikipedia.org/wiki/List_of_Terminator_video_games#The_Terminator_.28Virgin_video_game.29&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4740" value="SEGA Game Gear" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4426" value="SEGA Genesis" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4438" value="SEGA Master System" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2147" value="Action" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2164" value="Platform" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2350" value="Movie, Book, TV show" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="7004" value="Terminator" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="1992-00-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="12547" value="Probe Entertainment" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="745" value="Virgin Games Inc." />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="6" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4426" name="genesis" friendlyname="SEGA Genesis Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4438" name="segamastersystem" friendlyname="SEGA Master System Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4740" name="segagamegear" friendlyname="SEGA Game Gear Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

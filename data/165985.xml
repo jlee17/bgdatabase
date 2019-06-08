@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogameexpansion" id="165985">
+                                     				
+				<name type="primary" sortindex="1" value="DCS: MiG-21BIS" />
+			
+						                           
+						               													<description>Leatherneck Simulations' recreation of the MiG-21 is, by far, the most accurate and comprehensive simulation of this supersonic jet fighter to date. The fully simulated systems, interactive cockpit, advanced flight modeling and incredible graphical fidelity come together to create a package that will provide you with the most authentic simulation possible. So strap in, and get ready to experience the rebirth of a legend.&amp;#10;&amp;#10;Key Features of the DCS: MiG-21bis:&amp;#10;&amp;#10;Very detailed flight physics, utilizing an advanced component based simulation system.&amp;#10;    Highly detailed, six-degrees-of-freedom cockpit with extremely detailed textures.&amp;#10;    Fully interactive and animated cockpit. Use your mouse to control levers, switches and knobs!&amp;#10;    Fully modeled avionics and weapons suites &amp;ndash; exactly as they appear and operate in the real MiG-21.&amp;#10;    Highly detailed exterior model and textures, with advanced suspension and afterburner animations.&amp;#10;    Unique and Custom weapons, including the RN-24 and -28 Nuclear bombs!&amp;#10;    Incredibly detailed simulation of the MiG-21's hydraulic, electrical, engine, weapons and fuel systems and applicable subsystems.&amp;#10;    Full Singleplayer Campaign spanning dozens of missions.&amp;#10;    Fully interactive, guided and narrated tutorials, helping you quickly and efficiently learn how to operate the MiG-21.&amp;#10;    181 Page illustrated manual, detailing every system and procedure of the aircraft.&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2295" value="Flight Simulator" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2514" value="Flight" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2508" value="Military" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="21970" value="(Unreleased Games - Available)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="8024" value="Digital Combat Simulator" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2313" value="Cooperative" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="0" />
+						               				<releasedate value="2014-09-18" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="3320" value="(Unknown)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="13942" value="Eagle Dynamics" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="16535" value="The Fighter Collection" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameexpansion" id="147172" value="DCS World" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="9.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="1" />
+			<averageweight value="5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

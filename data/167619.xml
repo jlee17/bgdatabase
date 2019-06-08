@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167619">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/9l6YS5KMsJtMK1X08U_GbNyajxo=/fit-in/200x150/pic4658958.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/pCE3Onty6ncZ7oz6hqG5OAhKS9k=/0x0/pic4658958.png</image>
+                                     				
+				<name type="primary" sortindex="5" value="The Last Federation" />
+			
+						                           
+						               													<description>From the creators of AI War: Fleet Command comes an all-new grand strategy title with turn-based tactical combat, set in a deep simulation of an entire solar system and its billions of inhabitants. You are the last of a murdered race, determined to unify or destroy the 8 others.&amp;#10;As the last remaining Hydral, it is up to you to create a lasting federation of planets and usher in an era of peace and prosperity to the solar system.&amp;#10;&amp;#10;Source: The Publisher Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5248" value="Linux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2391" value="4x Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2331" value="Space" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-04-18" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="13924" value="Arcen Games, LLC" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="13924" value="Arcen Games, LLC" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3" />
+			<average value="3.33333" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.24722" />
+			<median value="0" />
+			<owned value="16" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

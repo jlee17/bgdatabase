@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165625">
+                                     				
+				<name type="primary" sortindex="1" value="Elminage Gothic" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Elminage Gothic 3DS Remix: Ulm Zakir to Yami no Gishiki" />
+			    				
+				<name type="alternate" sortindex="1" value="Elminage Gothic 3DS Remix: Ulm Zakir to Yami no Gishiki" />
+			    				
+				<name type="alternate" sortindex="1" value="Elminage Gothic: Ritual of Darkness and Ulm Zakir" />
+			    				
+				<name type="alternate" sortindex="1" value="Elminage Gothic: Ulm Zakir to Yami no Gishik" />
+			    				
+				<name type="alternate" sortindex="1" value="エルミナージュ ゴシック 〜ウルム・ザキールと闇の儀式〜" />
+			
+						               													<description>User Summary&amp;#10;&amp;#10;Elminage Gothic is a dungeon crawler with multiple character classes. It is the fourth game in the Elminage series.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5857" value="Nintendo 3DS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4432" value="PSP" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2155" value="RPG" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2278" value="Anime" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="25797" value="Elminage" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2012-00-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="17094" value="Starfish" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="17094" value="Starfish" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4432" name="psp" friendlyname="PSP Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5857" name="nintendo3ds" friendlyname="Nintendo 3DS Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

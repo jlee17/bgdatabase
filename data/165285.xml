@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165285">
+                                     				
+				<name type="primary" sortindex="1" value="The Sims Freeplay" />
+			
+						                           
+						               													<description>From the publisher website&amp;#10;&amp;#10;Live free! Play free! Create up to 31 customized Sims from head to toe. Let your Sims get married, make babies, and then watch them grow into toddlers and pre-teens. Care for pets, grow gardens, even bake cakes. Give your Sims careers and earn Simoleons to improve their situations. Complete goals for Lifestyle Points, then spend them on hip items. Live with your Sims in real-time! Make your town bustle with pet stores and more. Best of all, play for free! The opportunities are limitless.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6826" value="iPad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4443" value="iPhone" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2470" value="Life Simulation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2494" value="Romance / Relationships" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="4961" value="The Sims" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2012-02-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="11469" value="Electronic Arts Inc. (EA)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11469" value="Electronic Arts Inc. (EA)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4" />
+			<average value="7.875" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6826" name="ipad" friendlyname="iPad Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.81573" />
+			<median value="0" />
+			<owned value="7" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="1" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

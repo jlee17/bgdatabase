@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165609">
+                                     				
+				<name type="primary" sortindex="1" value="Tom Clancy&#039;s Ghost Recon Phantoms" />
+			
+						                           
+						               													<description>Tom Clancy's Ghost Recon Phantoms (known during the beta as Ghost Recon Online) is a third-person perspective, multiplayer action video game released for Microsoft Windows PCs and planned for Nintendo's Wii U console. The game is part of Tom Clancy's Ghost Recon series. On 24 May 2011, Ubisoft announced that its Singapore studio would develop Ghost Recon Online for the latter half of 2011, following an initial closed beta. This game is supported by micro transactions. On 7 June 2011, Nintendo announced at the Electronic Entertainment Expo that Ubisoft would release the game for the Wii U. Also, Ubisoft presented trailers and demos for the Wii U version of the game. The Windows version is confirmed to be a free-to-play game, and requires a Uplay account. Whilst not officially confirmed to be a free-to-play model as well for the Wii U as of January 2013, Nintendo's president and CEO Satoru Iwata commented in an interview that he has no opposition against this model and is willing to work with it.&amp;#10;&amp;#10;Despite the fact the Wii U version of the game was not presented during either Ubisoft's or Nintendo's conferences at E3 2012, Ubisoft reaffirms that the game is still coming to Wii U. According to Ubisoft's senior vice president of sales and marketing Tony Key, he says that &amp;quot;Ghost Recon Online is being developed for the PC first. That was always the plan. The team is taking a little bit longer than they thought they would to get Ghost Recon Online to the level and quality that they want and that definitely has had an impact on how much time they're able to spend on the Wii U version because we want to make sure we get it right.&amp;quot; Key also states that much of the development team behind the Wii U version of the game are also working on the PC version, and that focus will shift to the Wii U once the PC version is completed.&amp;#10;&amp;#10;Additionally, Key also says, &amp;quot;If we start working on the Wii U too soon, we might end up wasting a lot of resources because the PC is a lot easier to test and learn with. Ghost Recon Online on the PC, we can test and learn with that and apply all the best benefits we learn onto the Wii U version to make sure that it's a great Wii U game. That's an unusual product for a console and we want to make sure we nail it.&amp;quot;&amp;#10;&amp;#10;On 6 September 2012, the game's producer stated that &amp;quot;as of right now, the entire Ghost Recon team is focused on the PC version only&amp;quot; and that &amp;quot;the Wii U version is on hold&amp;quot;.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Tom Clancy's Ghost Recon Phantoms&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2147" value="Action" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2167" value="Shooter" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2317" value="War - Modern" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="5915" value="Tom Clancy's Ghost Recon" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+			
+
+			               				<minplayers value="2" />
+						               				<maxplayers value="16" />
+						               				<releasedate value="2014-04-10" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28076" value="Ubisoft Singapore" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11781" value="Ubisoft Entertainment S.A. (Ubisoft)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

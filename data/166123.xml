@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166123">
+                                     				
+				<name type="primary" sortindex="1" value="Lionel Trains: On Track" />
+			
+						                           
+						               													<description>Lionel Trains: On Track is a video game released for the Nintendo DS on December 6, 2006. The gameplay is very similar to Sid Meier's Railroad Tycoon series of computer games. In the game, you are the head of an unspecified railroad, and your objective is to connect different cities together through rail, using the funds you start off with, and later earn. There are several separate modes of gameplay, with varying objectives.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Lionel Trains: On Track&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4734" value="Nintendo DS" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2158" value="Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2473" value="Commercial / Public Transport" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2345" value="Historical" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2006-12-06" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="13982" value="Black Lantern Studios" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="16564" value="Destination Software Inc." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="12909" value="Zushi Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4734" name="ds" friendlyname="Nintendo DS Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

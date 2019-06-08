@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167225">
+                                     				
+				<name type="primary" sortindex="1" value="Demonrock: War of Ages" />
+			
+						                           
+						               													<description>Demonrock: War of Ages is a reverse defense game with beautiful 3D graphics and intuitive game play. Lead your hero&amp;rsquo;s soldiers to victory against hordes of monsters.&amp;#10;&amp;#10;Features:&amp;#10;- 40 Levels across 4 unique environments. Forest, Dungeon, Coffin chamber and Winter forest&amp;#10;- 4 Legendary Heroes: Barbarian, Ranger, Knight and Sorceress, each hero has 5 skills&amp;#10;- Over 30 different enemies and Bosses: Goblins, Orcs, Skeletons, Trolls, Spiders, Werewolves&amp;hellip; and&amp;hellip; a Giant Dragon!&amp;#10;- Hire 13 different mercenaries to break through enemies&amp;rsquo; defenses&amp;#10;- Collect epic loot in battle and upgrade your weapons and armor. Each hero has 6 weapons and armors with 4 levels of appearance upgrades&amp;#10;- Intuitive controls and step-by-step tutorials for you to get started&amp;#10;&amp;#10;Source: The Developer Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6063" value="Android" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6826" value="iPad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4443" value="iPhone" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2158" value="Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2474" value="Tower Defense" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-02-15" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="15648" value="Crescent Moon Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6826" name="ipad" friendlyname="iPad Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

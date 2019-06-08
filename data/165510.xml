@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165510">
+                                     				
+				<name type="primary" sortindex="1" value="M.U.D. TV" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="MUD TV" />
+			
+						               													<description>Always wanted to see if you can hack the day-to-day life of a TV producer? Here's your chance!&amp;#10;&amp;#10;MUD TV is your ticket to the weird wild world of television. Once you take control of your own station it's up to you to determine the line-up, hire actors and directors, produce your own shows, series and movies and to grab those lucrative advertising deals from right under your competitors' noses.&amp;#10;&amp;#10;Features&amp;#10;&amp;#10;- Create your own crazy station and take it to the top of the ratings&amp;#10;- Fight for 8 different viewer groups and show your competitors who's the boss&amp;#10;- All is fair in the TV biz: do whatever it takes to leave your competitors in the dust even if it means a little sabotage here and there!&amp;#10;- Go up against cunning computer opponents&amp;#10;- Create your own television empire and build offices, studios, newsrooms and many other important facilities to help secure your success&amp;#10;- Create your own character and guide them through your own hard-earned television empire&amp;#10;- Produce your own movies or secure the rights to the best of what the free market has to offer before the competition does&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2156" value="Simulation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2511" value="Business / Construction" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						               				<releasedate value="2010-04-19" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="15546" value="Realmforge Studios GmbH" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="13262" value="Kalypso Media" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

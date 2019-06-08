@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166433">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/lnhep70Q4SN7un9Np99tuJCq8es=/fit-in/200x150/pic4273766.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/VB2dvbkX0bD9miccZcDoUeTbZzk=/0x0/pic4273766.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Hot Wheels: Track Attack" />
+			
+						                           
+						               													<description>Hot Wheels Track Attack is an arcade-style racing video game, developed by Firebrand Games, and published by THQ. It was released in North America on November 23, 2010 for Wii and Nintendo DS.&amp;#10;&amp;#10;The gameplay of Hot Wheels Track Attack revolves around the player racing a Hot Wheels car in a variety of events in order to unlock new cars, tracks and events. Players start with a small section of cars to race with and a limited number of events to compete in, but as players progress though the game, and earn medals for completing events, they unlock new cars, tracks, and events. Every race track in the game has blue tokens scattered throughout it, players collect these tokens by driving over them and can use them to buy additional upgrades for their cars. The in-game race tracks are filled with elements, such as ramps, loops, and obstacles that are made to resemble actual Hot Wheels toys.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Hot Wheels Track Attack&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4734" value="Nintendo DS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4441" value="Wii" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2154" value="Racing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2456" value="Driving" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="16925" value="Hot Wheels" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						               				<releasedate value="2010-11-23" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="14650" value="Firebrand Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11789" value="THQ" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4441" name="wii" friendlyname="Wii Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4734" name="ds" friendlyname="Nintendo DS Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

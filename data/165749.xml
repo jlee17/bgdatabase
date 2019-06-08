@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165749">
+                                     				
+				<name type="primary" sortindex="1" value="Don&#039;t Move" />
+			
+						                           
+						               													<description>Don't Move is a game about ninjas, failure, ludonarrative dissonance, and player investment manipulation. The game starts simply: move left or right. But as you try -- and as you fail -- to move, you unlock more of the game's mechanisms. With each new element comes new challenges and more rewards!&amp;#10;&amp;#10;Source: The Developer Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6063" value="Android" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6826" value="iPad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4443" value="iPhone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5248" value="Linux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2164" value="Platform" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2455" value="Abstract" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2013-09-12" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="14029" value="(Self-Developed Video Game)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4" />
+			<average value="4" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6826" name="ipad" friendlyname="iPad Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.707107" />
+			<median value="0" />
+			<owned value="13" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="1" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

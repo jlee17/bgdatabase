@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166312">
+                                     				
+				<name type="primary" sortindex="1" value="Triera" />
+			
+						                           
+						               													<description>Triera &amp;ndash; the dynamic vertical platformer with lots of bonuses and generated unique levels.&amp;#10;&amp;#10;An error occurs on a huge interplanetary spaceship called Triera, with four levels of robot-inhabited cities. The error leads to weird changes of all cities. The robot-manufacturing plant starts to produce new robots with malfunctions. All survived robots have to hide on a zero level, while other levels are already inhabited with zombie robots. All service stations in the cities got destroyed. Triera is at the self-vanishing point. But there is a way out: the only service station still exists on a zero level. But will the mechanic robot have a chance to reach the central panel and find out the reasons of this failure? Will he be able to reset the spaceship&amp;rsquo;s control system?&amp;#10;&amp;#10;Source: The Developer Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2147" value="Action" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2164" value="Platform" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2331" value="Space" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-08-18" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="14029" value="(Self-Developed Video Game)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

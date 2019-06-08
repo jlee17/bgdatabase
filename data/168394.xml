@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="168394">
+                                     				
+				<name type="primary" sortindex="1" value="RHEM 4" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="RHEM 4: The Golden Fragments" />
+			
+						               													<description>Since you were last here I have discovered an entrance to yet another new part of RHEM. According to records I've found, there is a hidden transportation system that leads to a second connection to the outside world. In order to activate this system and also to enable your own return, you must find all nine fragments of the key to the system...&amp;#10;&amp;#10;A few days ago, I arrived in this part of Rhem. I will set up a studio for myself here. I have not been able to find the star key, but it appears I first have to look for nine fragments. Near the railway line, I found a box to collect the fragments in. Some entrances to some of the buildings could be opened, but at the moment, I can't make any further progress...&amp;#10;&amp;#10;In a straw-roofed hut, there is a fireplace where some missing parts can be joined together. I'll lock the hut again but will leave behind clues about how to open the door...&amp;#10;&amp;#10;An unexpected success! By chance, I discovered the key to a cave system where there is yet another gate with a star lock. Unfortunately, I can't open the gate...&amp;#10;&amp;#10;Rhem 4: The Golden Fragments sets you into a huge, fantastic world full of strange vehicles and buildings, unknown mechanisms and machines, secret passages and doorways. Adventuresomeness, logic, attentivness and the ability to solve engimas will help the player to slowly but surely unveil the mystery of this new adventure on Rhem. Everywhere on Rhem you can find hints and solutions that will help you to unveil some of the strange enigmas and puzzles in Rhem 4.&amp;#10;&amp;#10;Source: The Developer Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2152" value="Adventure" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2351" value="Puzzle" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="22133" value="Rhem" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2010-09-24" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="14029" value="(Self-Developed Video Game)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="19027" value="Lace Mamba Global" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="7605" value="Mamba Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="14686" value="WHA Entertainment" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

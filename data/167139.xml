@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="167139">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/FHCXiJzgKlR660iq9II8i1pjPCg=/fit-in/200x150/pic2295283.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/xu1Bi2vVypq10bc7VaDrvL6NyXg=/0x0/pic2295283.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Think Again: Promo Cards" />
+			
+						                           
+						               													<description>The Think Again: Promo Cards is a small promotional deck for Think Again!.  It gives you just enough cards to get a taste for the game, but the questions are also completely distinct from the base game, so this can serve as an expansion, as well.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="10" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="10+">		
+				</results>					
+	</poll> 			               				<playingtime value="5" />
+						               				<minplaytime value="5" />
+						               				<maxplaytime value="5" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1037" value="Real-time" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1027" value="Trivia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Partnerships" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1727" value="Bruno Cathala" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4337" value="Ludovic Maublanc" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="37376" value="Dominique Ferland" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="20762" value="Tony Rochon" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6352" value="Le Scorpion Masqué" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="7" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="5" />
+			<trading value="3" />
+			<wanting value="2" />
+			<wishing value="1" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

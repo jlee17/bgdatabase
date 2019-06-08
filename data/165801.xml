@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165801">
+                                     				
+				<name type="primary" sortindex="1" value="NHL 15" />
+			
+						                           
+						               													<description>NHL 15 is an ice hockey video game developed by EA Canada and published by EA Sports. It is the 24th installment of the NHL series and was released on September 9, 2014 in North America and three days later in Europe, Australia and New Zealand. The game serves as the debut entry in the series for eighth generation consoles, receiving releases on the PlayStation 4 and the Xbox One. Patrice Bergeron of the Boston Bruins is the official cover athlete.&amp;#10;&amp;#10;Most features are exclusive to the next generation versions (PlayStation 4 and Xbox One) and are not present in the previous generation versions (PlayStation 3 and Xbox 360).&amp;#10;&amp;#10;NHL Collision Physics is EA's revamped player physics and allows for secondary collisions, player pileups, and net scrambles. In the next generation, this applies to all 12 players on the ice, meaning that all players are affected by physics. This allows for pileups involving all 12 players. In the previous generation, not all 12 players are affected by physics, and pileups do not involve all of them.&amp;#10;Revamped puck physics leads to authentic and unpredictable puck bounces, rolls and goals in the next generation versions. Everything on the ice controls puck physics. According to NHL 15 producer Sean Ramjagsingh, EA hired a software engineer who worked on the Large Hadron Collider (LHC) to help make the puck physics as realistic as possible.&amp;#10;New modeling system for players and equipment allows for dynamic cloth technology in the next generation, with the players' clothes moving and affecting physics.&amp;#10;Authentic NHL arenas: For the next generation versions, EA is re-creating 28 NHL arenas (PNC Arena and The United Center excluded) in extensive detail, making each arena unique and enabling larger crowds at NHL games.&amp;#10;NBC Sports Game Day Presentation: As part of a new partnership with NBC Sports, the next generation versions will feature a broadcast package that closely resembles The NHL on NBC broadcasts.[&amp;#10;New commentary: Play-by-play announcer Gary Thorne and color commentator Bill Clement have been replaced by NBC Sports commentators Mike &amp;quot;Doc&amp;quot; Emrick and Ed &amp;quot;Eddie&amp;quot; Olczyk, respectively. Additionally, in the next generation versions, TSN analyst Ray Ferraro will give game insights at ice level. Ferraro's proximity to EA's development studios in Vancouver allows EA to call him midseason to update the game with new insights as the 2014&amp;ndash;15 season progresses. Emrick and Olczyk were recorded in front of a green screen and have been directly put into the virtual studio in the next generation versions, which eliminates lip syncing.&amp;#10;Living crowds: On the next generation, the crowd is more alive with individuals holding up player signs, wearing costumes, and reacting authentically to plays. Over 9,000 new crowd models produces various different types of fans.&amp;#10;In the next generation, Vision AI makes non-human-controlled players more aware of what is happening on the ice, including potential plays.&amp;#10;Group celebration returns to the NHL series for the first time since NHL 11, allowing goalscorers to celebrate with teammates in the next generation versions. New individual player celebrations have also been added.&amp;#10;Ultimate Edition: On June 30, 2014, EA confirmed that buyers can purchase an &amp;quot;Ultimate Edition&amp;quot; of the game for 10 extra dollars than the normal version would cost. Buyers of this exclusive edition will receive special content for the game's &amp;quot;Ultimate Team&amp;quot; mode, a popular game mode across all of EA's sports games, and will be playable in NHL 15.&amp;#10;&amp;#10;Features removed&amp;#10;&amp;#10;Both EASHL and GM Connected are not included in the PlayStation 4 and Xbox One versions of the game, however they are available for the PlayStation 3 and Xbox 360 versions. EA plans on reintroducing an improved EASHL game mode in future versions of the game. Online Team Play will not be available for PS4 and Xbox One at launch, however the mode is planned to be added in a future content update for the game. You will also not be able to control who you draft in Be a GM Mode, which is a huge part of building a successful team. Another feature removed from the Xbox One and PlayStation 4 versions of the game was the more involved Be A Pro game mode titled Live the Life, which was originally introduced in NHL 14. Live the Life will be included in the Xbox 360 and PlayStation 3 versions of NHL 15. The less involved game mode, Be A Pro, will be included in NHL 15 on Xbox One and PlayStation 4, though there will be no minor league teams involved, a random draft position for players, a lack of customization for players, and players will no longer have the ability to simulate between shifts during games. In light of the removed features for Xbox One and PlayStation 4, EA Sports NHL producer Sean Ramjagsingh confirmed via Twitter that a content update will later fix and improve the drafting feature.&amp;#10;&amp;#10;Operation Sports created a complete list of missing modes/features that were available in last year's installment of the series but are either not included in the game at all for PS4/Xbox One, or were not spotted during the early access period.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;NHL 15&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4435" value="PlayStation 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="21674" value="PlayStation 4" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4407" value="Xbox 360" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="22574" value="Xbox One" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2157" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2367" value="Sports - Hockey" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="4899" value="NHL" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="0" />
+						               				<releasedate value="2014-09-09" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="12297" value="EA Canada" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="12296" value="EA Sports" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="6" />
+			<average value="6.51667" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="6070" bayesaverage="5.55398" />
+																				<rank type="family" id="4407" name="xbox360" friendlyname="Xbox 360 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4435" name="ps3" friendlyname="PlayStation 3 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="21674" name="playstation4" friendlyname="PlayStation 4 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="22574" name="xboxone" friendlyname="Xbox One Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.949415" />
+			<median value="0" />
+			<owned value="17" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="2" />
+			<numcomments value="3" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

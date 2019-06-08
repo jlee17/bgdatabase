@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166611">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/LCPiIvt2sXPeeAO3YrtRPXThFZc=/fit-in/200x150/pic2800646.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/ojh87neN8jKmSp_npudNcWWGcXo=/0x0/pic2800646.png</image>
+                                     				
+				<name type="primary" sortindex="5" value="The Vanishing of Ethan Carter" />
+			
+						                               				
+				<name type="alternate" sortindex="5" value="The Vanishing of Ethan Carter Redux" />
+			    				
+				<name type="alternate" sortindex="1" value="Zaginięcie Ethana Cartera" />
+			
+						               													<description>The Vanishing of Ethan Carter is an adventure video game created by the independent development studio The Astronauts. The game was released in September 2014.&amp;#10;&amp;#10;The story of the game revolves around a detective with paranormal powers investigating the fictional Red Creek Valley. At the start of the game the detective receives a letter from a young boy named Ethan Carter who claims to be in danger. It is now up to the detective to explore Red Creek Valley and investigate its dark secrets.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;The Vanishing of Ethan Carter&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="21674" value="PlayStation 4" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2753" value="Walking Simulator" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2355" value="Detective / Mystery" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2328" value="Occult" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="27676" value="Better Description Needed" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-09-26" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28216" value="The Astronauts" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28216" value="The Astronauts" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="30" />
+			<average value="7.02" />
+			<bayesaverage value="6.10413" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="2045" bayesaverage="6.10413" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="1154" bayesaverage="6.21604" />
+											<rank type="family" id="21674" name="playstation4" friendlyname="PlayStation 4 Rank" value="188" bayesaverage="6.57493" />
+												</ranks>
+
+			<stddev value="1.93415" />
+			<median value="0" />
+			<owned value="88" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="7" />
+			<numcomments value="16" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167375">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/W3EFuFd9Yp_fhJA8YVYSEALv5Jg=/fit-in/200x150/pic2497001.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/ZuKZ2MmdMOUrAoD_G5W5LI7szBE=/0x0/pic2497001.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Flower Shop: Winter In Fairbrook" />
+			
+						                           
+						               													<description>The Flower Shop is a visual novel series by Winter Wolves.&amp;#10;&amp;#10;The game offers a mix of classic visual novel gameplay, with dialogues and many choices to make, with a farming minigame. In The Flower Shop - Summer In Fairbrook the player has to grow crops and sell them to get money. It is possible to use fertilizer to speed up the growing process. In The Flower Shop - Winter In Fairbrook the principle is the same, however, this time the player has to grow flowers. The games offer a gallery where the player can watch the achieved endings again. There are nine different endings in each of the games.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;The Flower Shop&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6063" value="Android" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6826" value="iPad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4443" value="iPhone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5248" value="Linux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2713" value="Visual Novel" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2494" value="Romance / Relationships" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="28165" value="The Flower Shop" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2011-12-08" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="22606" value="Winter Wolves" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="22606" value="Winter Wolves" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6826" name="ipad" friendlyname="iPad Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

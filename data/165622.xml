@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165622">
+                                     				
+				<name type="primary" sortindex="1" value="Elminage: Priestess of Darkness and the Ring of the Gods" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Elminage DS Remix: Priestess of Darkness and the Ring of the Gods" />
+			    				
+				<name type="alternate" sortindex="1" value="Elminage DS Remix: Yami no Miko to Kamigami no Yubiwa" />
+			    				
+				<name type="alternate" sortindex="1" value="Elminage Original" />
+			    				
+				<name type="alternate" sortindex="1" value="Elminage: Yami no Miko to Kamigami no Yubiwa" />
+			    				
+				<name type="alternate" sortindex="1" value="エルミナージュ 〜闇の巫女と神々の指輪〜" />
+			
+						               													<description>User Summary&amp;#10;&amp;#10;Elminage: Priestess of Darkness and the Ring of the Gods is a turn-based first-person 6 character party dungeon crawler with 12 character races and 16 classes, and sets the player on a quest to recover the 6 &amp;quot;God Rings&amp;quot; that protect the world from demonic forces.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4734" value="Nintendo DS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4434" value="PlayStation 2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4432" value="PSP" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2155" value="RPG" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2278" value="Anime" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="25797" value="Elminage" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2008-03-27" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="11991" value="Opera House" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="17094" value="Starfish" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="17094" value="Starfish" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="12408" value="UFO Interactive Games, Inc." />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4432" name="psp" friendlyname="PSP Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4434" name="playstation2" friendlyname="PlayStation 2 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4734" name="ds" friendlyname="Nintendo DS Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165421">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/cj1bCrbNEGv1aY0-2n2KG5Mys1c=/fit-in/200x150/pic2247682.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/jb8l1q4S6fa0OL0LRVjttJ7p3SU=/0x0/pic2247682.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Warbarons" />
+			
+						                           
+						               													<description>Summary for VGG by one of the creators&amp;#10;&amp;#10;Warbarons is a turn based strategy game set in a fantasy world. Play with friends against other teams or computer enemies. Train minotaurs, dragons, elves, orcs and other armies to lead in battle against the other warbarons.&amp;#10;&amp;#10;Warbarons is multiplayer oriented game, we love challenging clever strategy games where you will beat your opponent by being smart, patient, planning, reading the other players movement and reacting to them.&amp;#10;&amp;#10;Play as a team or by your self. Compete on our ladder and measure your skill against the best players or play for fun games.&amp;#10;&amp;#10;The strategy here is about moving armies on the map to secure production, and making cleaver estimates of what it will take to capture the next city. Will you split your forces and try to take 2 cities or play safe and go for one? Should you save gold for a powerful unit or produce many weaker units fast?&amp;#10;In order to come out with victory you have 35 unique creatures and armies choose from each with its own particular strength and usage. You also have a set of heroes that you can hire to lead your armies. Heroes gain experience points and level up giving you the chance to improve their skills. Heroes can also find equipment that improves their leadership skills.&amp;#10;&amp;#10;You can also build fortifications to seal of passages or make a non aggression pact with and enemy to kill of another one.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5084" value="Web Browser" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2402" value="Classic Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2458" value="Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2158" value="Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2410" value="Asynchronous Multiplayer" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="8" />
+						               				<releasedate value="2010-01-01" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="14029" value="(Self-Developed Video Game)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="10" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="5084" name="webbrowser" friendlyname="Web Browser Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="2" />
+			<numweights value="3" />
+			<averageweight value="4.3333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

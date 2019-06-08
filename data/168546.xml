@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="168546">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/3TrcPSsC04cH-JHMp5yu1k2A77I=/fit-in/200x150/pic3116997.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/LoCI3pT2kj-5_DPZ3ZBEs_FZ4nU=/0x0/pic3116997.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Interstellar Marines" />
+			
+						                           
+						               													<description>&amp;#10;&amp;#10;&amp;#10;    &amp;#10;        &amp;#10;UNRELEASED GAME &amp;ndash; AVAILABLE&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;        &amp;#10;This game is still either in Early-Alpha or Beta (or any status in between) but IS already available for sale / early access, so CAN BE PLAYED.&amp;#10;&amp;#10;    &amp;#10;&amp;#10;&amp;#10;Interstellar Marines resurrects the old school tactical FPS, offering a unique blend of co-op, role-playing and nonlinear gameplay. Set in a believable future, you take on the role of an elite soldier handpicked to join Project IM, a top secret military program being assembled to protect mankind from all dangers outside our solar system.&amp;#10;&amp;#10;Source: The Developer Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2167" value="Shooter" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2331" value="Space" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="21970" value="(Unreleased Games - Available)" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2313" value="Cooperative" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="3" />
+						               				<releasedate value="2013-07-02" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28506" value="Zero Point Software" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28506" value="Zero Point Software" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="8" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

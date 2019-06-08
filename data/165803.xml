@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165803">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/J2iUdAKl4LoPXOjPHF-boXYr6_Q=/fit-in/200x150/pic2347610.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/w3XrsNJ9R17A7hbctWLrY74mmsM=/0x0/pic2347610.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Planetary Annihilation" />
+			
+						                           
+						               													<description>Planetary Annihilation is a real-time strategy computer game developed by Uber Entertainment, whose staff include several industry veterans who worked on Total Annihilation and Supreme Commander.&amp;#10;&amp;#10;In interviews with PC Gamer and Joystiq, lead game developer Jon Mavor commented that the game's complexity and playtime can vary, from half-hour, 2-player battles to lengthy matches with potentially 40-players. However, at release 40-player matches are not yet availble. Planetary Annihilation features a planet-based map system, different types of planets and asteroids. Players will be able to conquer other planets and even entire systems on maps said to include &amp;quot;hundreds of worlds,&amp;quot; through the Galactic War. These planets are dynamic in that they can be 'annihilated' using asteroids, a major focus for Uber Entertainment. The game's creators have also stated that Planetary Annihilation will resemble something of the 1997 RTS Total Annihilation as its focus is more towards 'macro' gameplay as opposed to 'micro' gameplay. In development updates, Mavor has commented that &amp;quot;a million&amp;quot; in-game units is a design goal of the development team. The player(s) lose when the last commander is destroyed.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Planetary Annihilation&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5248" value="Linux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2166" value="Real Time Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2331" value="Space" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2318" value="War - Future" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="36316" value="Planetary Annihilation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2313" value="Cooperative" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="10" />
+						               				<releasedate value="2014-09-05" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="14224" value="Uber Entertainment" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="14224" value="Uber Entertainment" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5" />
+			<average value="7.06" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="4806" bayesaverage="5.69549" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.417612" />
+			<median value="0" />
+			<owned value="37" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="3" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

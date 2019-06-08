@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166004">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/eFD6cPwoSbN40UJchiNysiu59-c=/fit-in/200x150/pic2281291.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/MtretjWbjLVG0yrGUMgtYcoN8AY=/0x0/pic2281291.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Nightmares from the Deep: The Siren`s Call" />
+			
+						                           
+						               													<description>The rain slicked off his coat in rolling sheets as if compelled by the dark malevolence of the night itself. Lightning flashed at scattered intervals, and the thunderclaps carried on the wind were harsh and wanton. But there was no turning back. Oddly enough, he was hopeful. He had to deliver the artifact, no matter what the cost. Sarah Black could change the course of his fate, and the fates of so many others&amp;hellip;&amp;#10;&amp;#10;When Sarah Black receives a package from a mysterious messenger, she doesn&amp;rsquo;t realize that by opening it and releasing its contents she has awoken an ancient conflict, and fallen headfirst into it. She is attacked and kidnapped by a dark, terrifying assailant, and suddenly Sarah finds herself trapped in yet another nightmare&amp;hellip; a nightmare of abyssal whispers from the places beyond where light touches&amp;hellip; a nightmare from the deep.&amp;#10;&amp;#10;Sarah finds herself in Kingsmouth, a secluded fishing town whose denizens are suffering from a curse that is slowly turning them into sea monsters.&amp;#10;&amp;#10;Will Sarah succeed in breaking the curse and saving the denizens of Kingsmouth from a fate worse than death? Will she find enough courage to traverse the haunted cemetery of ships, where she must ultimately face the archaic beasts and their commander, the corrupt Mayor Murray?&amp;#10;&amp;#10;Source: The Developer Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6063" value="Android" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6826" value="iPad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4443" value="iPhone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5248" value="Linux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="11423" value="Windows Phone" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2152" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2678" value="Hidden Object" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2328" value="Occult" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2341" value="Pirates" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2494" value="Romance / Relationships" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="27101" value="Nightmares from the Deep" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2013-07-24" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="22042" value="Artifex Mundi" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="22042" value="Artifex Mundi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="14933" value="G5 Entertainment" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="14" />
+			<average value="6.64286" />
+			<bayesaverage value="5.8272" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="3592" bayesaverage="5.8272" />
+																				<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="283" bayesaverage="6.10832" />
+											<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="652" bayesaverage="5.97155" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="1725" bayesaverage="5.90952" />
+											<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="264" bayesaverage="6.13786" />
+											<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="182" bayesaverage="6.1745" />
+											<rank type="family" id="6826" name="ipad" friendlyname="iPad Rank" value="286" bayesaverage="6.11753" />
+											<rank type="family" id="11423" name="windowsphone" friendlyname="Windows Phone Rank" value="10" bayesaverage="6.64255" />
+												</ranks>
+
+			<stddev value="0.874818" />
+			<median value="0" />
+			<owned value="26" />
+			<trading value="1" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="5" />
+			<numweights value="1" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

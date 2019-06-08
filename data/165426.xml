@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165426">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/HTg6yQvwQOefWzc0C-90GzC3n18=/fit-in/200x150/pic4048344.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/cjAlOrDyI5BcGL3QjFxl3-p8-zg=/0x0/pic4048344.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Fairy Fencer F: Advent Dark Force" />
+			
+						                           
+						               													<description>Fairy Fencer F Advent Dark Force is an enhanced remaster of the original game for PlayStation 4 and PC. It features extended fights, updated graphics, rebalancing, new story routes and character endings.&amp;#10;&amp;#10;Source: Wikipedia &amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="21674" value="PlayStation 4" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2155" value="RPG" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="25769" value="Fairy Fencer F" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2015-11-05" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="14725" value="Compile Heart" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="14725" value="Compile Heart" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="12406" value="Idea Factory" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="9" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="21674" name="playstation4" friendlyname="PlayStation 4 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="5" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

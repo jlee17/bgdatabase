@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="168373">
+                                     				
+				<name type="primary" sortindex="1" value="ClockWerx" />
+			
+						                           
+						               													<description>ClockWerx is a computer game created by Callisto Corporation that was released in 1995.&amp;#10;&amp;#10;The game was originally released by Callisto under the name Spin Doctor. Later, with some game play enhancements, it was published by Spectrum HoloByte as Clockwerx.&amp;#10;&amp;#10;The object of the game is to solve a series of increasingly difficult levels by swinging a rotating wand from dot to dot until the player reaches the &amp;quot;goal&amp;quot; dot. Enemy wands that kill the player if touched march in predetermined patterns around each level's grid. The design is such that, with careful timing, the player can swing through seemingly impassable groups of enemies. Players can also swing from the same dot as an enemy by staying on the opposite side of it, since most enemy wands rotate at the same speed. At higher levels, more enemies are introduced, such as doors that open and close when the player's wand passes over a switch, hyperdots that send players to a different dot, and drops of acid that follow the player around.&amp;#10;&amp;#10;The player's wand is in continuous motion; the only control is to reverse its direction of rotation, or to swing to another dot. Players can also swing to another dot and reverse rotation at the same time. All player motion is controlled by just four keys (reverse direction immediately, &amp;quot;bounce&amp;quot; (reverse direction when your wand passes by another dot), move to another dot, and move and reverse direction simultaneously).&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;ClockWerx&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6826" value="iPad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4443" value="iPhone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2165" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2455" value="Abstract" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2337" value="Cute Fantasy" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="1995-07-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="3320" value="(Unknown)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28486" value="Callisto Corporation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="3320" value="(Unknown)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="13246" value="Spectrum Holobyte" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6826" name="ipad" friendlyname="iPad Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

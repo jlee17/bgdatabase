@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="165046">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/Nhr9c4YYOCJ37weZTdXzopGP90M=/fit-in/200x150/pic2231960.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/yFoCIoPlttn3tokeu9iZ8W25gm8=/0x0/pic2231960.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Slavika: Equinox" />
+			
+						                           
+						               													<description>Slavika: Equinox is both a standalone game and an expansion to the game Slavika. Players lead powerful families of the fantastic world Slavika, or &amp;mdash; if they want &amp;mdash; the new faction: Christians.&amp;#10;&amp;#10;Each player has a team of six heroes. During the game, the heroes travel to different regions, fight monsters, and gain treasures. The larger the contribution of player's heroes in defeating monsters, the more glory points for the player's family.&amp;#10;&amp;#10;The Pomeranian Regions are ruled by the eternal cycle of light and darkness,day and night, summer and winter. As time passes, depending on the current phase of the cycle, monsters will be weaker or stronger. According to the will of the princess of Slavika, the player whose family has the most glory at the end of the game earns the right to govern the Pomeranian Regions!&amp;#10;&amp;#10;Integrates with&amp;#10;&amp;#10;    Slavika&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="4">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+			
+		<results>		
+					<result level="41" value="No necessary in-game text" numvotes="0" />
+					<result level="42" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="43" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="44" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="45" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Control / Area Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction/Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="26482" value="Marcin Welnicki" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="38447" value="Jarek Nocoń" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="77741" value="Dawid Urbaniak" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="105" />
+			<average value="6.71714" />
+			<bayesaverage value="5.58008" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7179" bayesaverage="5.58008" />
+												</ranks>
+
+			<stddev value="1.30672" />
+			<median value="0" />
+			<owned value="187" />
+			<trading value="5" />
+			<wanting value="3" />
+			<wishing value="20" />
+			<numcomments value="16" />
+			<numweights value="5" />
+			<averageweight value="2.6" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

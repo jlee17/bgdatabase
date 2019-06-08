@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166605">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/BOcZUVMF5iQOt-LkqtFMEK2EkTw=/fit-in/200x150/pic2633895.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/tE_Dcl5eyP1aeTrFRthe3Cv0qTA=/0x0/pic2633895.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Neverending Nightmares" />
+			
+						                           
+						               													<description>Neverending Nightmares is a video game developed by Infinitap Games. It is a horror game drawing inspiration from the lead designer Matt Gilgenbach's personal struggles with obsessive&amp;ndash;compulsive disorder and depression; in an interview he said he is &amp;quot;trying to create that feeling [of bleakness and hopelessness] in Neverending Nightmares&amp;quot;.&amp;#10;&amp;#10;The player takes the role of Thomas, a man who &amp;quot;wakes up&amp;quot; from a nightmare only to find he is still asleep. They navigate this character through a series of increasingly worse nightmares, exploring the environments and avoiding the horrifying monsters lurking within them.&amp;#10;&amp;#10;The game features a 2D hand-drawn line art style heavily influenced by the works of Edward Gorey. It uses a minimalist user interface, forgoing onscreen prompts and loading screens during play in order to increase immersion.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Neverending Nightmares&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6063" value="Android" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5248" value="Linux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="21998" value="OUYA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2161" value="Action Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2753" value="Walking Simulator" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2353" value="Morbid" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-09-26" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28213" value="Infinitap Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28213" value="Infinitap Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="6" />
+			<average value="6.16667" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="5701" bayesaverage="5.5978" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.34371" />
+			<median value="0" />
+			<owned value="20" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="5" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

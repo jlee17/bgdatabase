@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogameexpansion" id="167695">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/5A50cn6wtY5g3dotR9PegJ8T9C0=/fit-in/200x150/pic2307594.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/xdsbj7POhvraPPn-3pzSToZ_Hew=/0x0/pic2307594.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Pack 1: The Legend of Zelda x Mario Kart 8" />
+			
+						                           
+						               													<description>User Summary&amp;#10;&amp;#10;This is the first DLC pack for Mario Kart 8. The DLC includes:&amp;#10;&amp;#10;2 New Cups with 4 Tracks Each&amp;#10;&amp;#10;    Egg Cup&amp;#10;         Yoshi Circuit from Mario Kart Double Dash!!&amp;#10;         Excitebike Arena - All New&amp;#10;         Dragon Driftway - All New&amp;#10;         Mute City - All New&amp;#10;    &amp;#10;     Triforce Cup&amp;#10;         Wario's Gold Mine from Mario Kart Wii&amp;#10;         Rainbow Road from Super Mario Kart&amp;#10;         Ice Ice Outpost - All New&amp;#10;         Hyrule Circuit - All New&amp;#10;    &amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;3 New Racers&amp;#10;&amp;#10;     Tanooki Mario&amp;#10;     Cat Peach&amp;#10;     Link&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;4 New Karts&amp;#10;&amp;#10;     Blue Falcon from F-Zero&amp;#10;     B Baser from Mario Kart DS and Mario Kart Wii&amp;#10;     Master Cycle base on Epona from the Legend of Zelda series&amp;#10;     Tanooki Kart&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;2 New Kart Parts&amp;#10;&amp;#10;     Triforce Tires - a new pair of tires based on the Legend of Zelda series.&amp;#10;     Hylian Kite - a new glider based on the Legend of Zelda series.&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="10763" value="Wii U" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2154" value="Racing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2337" value="Cute Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="4868" value="Mario" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="4874" value="Mario Kart" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="12" />
+						               				<releasedate value="2014-11-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="1326" value="Nintendo Co., Ltd." />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="1326" value="Nintendo Co., Ltd." />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameexpansion" id="143976" value="Mario Kart 8" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="12" />
+			<average value="8.625" />
+			<bayesaverage value="6.17929" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="1813" bayesaverage="6.17929" />
+																				<rank type="family" id="10763" name="wiiu" friendlyname="Wii U Rank" value="73" bayesaverage="7.0617" />
+												</ranks>
+
+			<stddev value="1.17482" />
+			<median value="0" />
+			<owned value="41" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="2" />
+			<numweights value="1" />
+			<averageweight value="4" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

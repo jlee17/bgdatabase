@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="168165">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/FmnDVgQMATvo_vD8zjtJcW13iEY=/fit-in/200x150/pic2521373.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/TzlxAzRsKu2GSFXdOw2oM05yeFw=/0x0/pic2521373.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Switch: The Game of Ups and Downs" />
+			
+						                           
+						               													<description>Switch is the exciting game in which three to five players race to play cards in sequence. But watch out! Letters and numbers can go up, down, or stay the same... and switch at any time. Be the first player out of cards and win!&amp;#10;&amp;#10;Switch (the predecessor to Qwitch) consists of a deck of 64 cards, each containing one of eight numbers (1&amp;ndash;8) and one of eight letters (A&amp;ndash;H), and a die with plus, minus, and equals symbols. After hands are dealt, one player turns a card from the deck face up and rolls the die. Players race to play the next card from their hands, determined by the symbol on the die.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2001" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="5+">		
+				</results>					
+	</poll> 			               				<playingtime value="5" />
+						               				<minplaytime value="5" />
+						               				<maxplaytime value="5" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="3725" value="Qwitch" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="617" value="Maureen Hiron" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="48" value="Out of the Box Publishing" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="5.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.5" />
+			<median value="0" />
+			<owned value="14" />
+			<trading value="2" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="1" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

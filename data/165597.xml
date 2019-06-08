@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165597">
+                                     				
+				<name type="primary" sortindex="1" value="Hamster Monogatari 64" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Hamster Story 64" />
+			    				
+				<name type="alternate" sortindex="1" value="ハムスター物語64" />
+			
+						               													<description>Hamster Monogatari 64 (&amp;#227;&amp;#131;&amp;#143;&amp;#227;&amp;#131;&amp;#160;&amp;#227;&amp;#130;&amp;#185;&amp;#227;&amp;#130;&amp;#191;&amp;#227;&amp;#131;&amp;#188;&amp;#231;&amp;#137;&amp;#169;&amp;#232;&amp;#170;&amp;#158;64 lit. &amp;quot;Hamster Story 64&amp;quot;) is a life simulation game for the Nintendo 64 where the player must raise and look after hamsters. It was released only in Japan in 2001.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Hamster Monogatari 64&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4836" value="Nintendo 64" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2470" value="Life Simulation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2471" value="Animals" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2001-04-06" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="14412" value="Culture Brain Inc." />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="14412" value="Culture Brain Inc." />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4836" name="nintendo64" friendlyname="Nintendo 64 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

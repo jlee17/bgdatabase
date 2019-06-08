@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogamecompilation" id="166252">
+                                     				
+				<name type="primary" sortindex="1" value="Wing Commander: Privateer (CD-ROM Classics Compilation)" />
+			
+						                           
+						               													<description>Wing Commander: Privateer was also released in a CD-ROM Classics edition that included the Righteous Fire expansion and full speech throughout the game, more than what the Speech Pack alone provides. The actor voicing the main character also changes between the Speech Pack and CD-ROM edition of the game.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Wing Commander: Privateer&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2295" value="Flight Simulator" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2658" value="Aliens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2514" value="Flight" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2331" value="Space" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2318" value="War - Future" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="5392" value="Wing Commander" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="1995-00-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="12359" value="Origin Systems Inc." />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11469" value="Electronic Arts Inc. (EA)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="79611" value="Wing Commander: Privateer" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="95803" value="Wing Commander: Privateer – Righteous Fire" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

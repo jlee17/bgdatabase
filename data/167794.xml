@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167794">
+                                     				
+				<name type="primary" sortindex="1" value="OutRun Online Edition" />
+			
+						                           
+						               													<description>From Wikipedia,&amp;#10;&amp;#10;In OutRun Online Arcade, the player navigates a car from a rear third-person perspective to race through a selection of fifteen stages. At the end of each stage, the player is presented with a fork in the road that allows the player to choose one of two stages. The left route presents an easier stage, while the right provides a greater challenge. The game times the player's performance, and passing through checkpoints award the player with extra time. Once the timer reaches zero or the player completes the race, the game ends&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;OutRun Online Arcade&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4435" value="PlayStation 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4407" value="Xbox 360" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2154" value="Racing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2456" value="Driving" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="5999" value="OutRun" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="6" />
+						               				<releasedate value="2009-04-15" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="12287" value="Sumo Digital" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="5360" value="SEGA Corporation" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4407" name="xbox360" friendlyname="Xbox 360 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4435" name="ps3" friendlyname="PlayStation 3 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

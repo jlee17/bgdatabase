@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167383">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/P7kqzAIPnhNIZe80T8qq3S140Sc=/fit-in/200x150/pic2534078.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/9UMHuXLUOYGvLYb72DD2LqifOH0=/0x0/pic2534078.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Odyssey: The Compleat Apventure" />
+			
+						                           
+						               													<description>Odyssey: The Compleat Apventure was a videogame written by Robert Clardy and released by Synergistic Software in 1980. It was created for the Apple II platform and is considered one of the first microcomputer-based role-playing video games. The title was intentionally misspelled; Apventure is a reference to the Apple computer.&amp;#10;&amp;#10;A forerunner of Akalabeth and Ultima, Odyssey was a multi-part adventure game that placed the player in the role of the leader of an army who sets out to vanquish an evil wizard. Elements of Dungeons &amp;amp; Dragons can be found within the game, which combines elements of two earlier games written by Clardy: Dungeon Campaign and Wilderness Campaign.&amp;#10;&amp;#10;The game features several major sections. Except for the endgame section, the game play is presented in a top-down map format with limited animation and sound effects.&amp;#10;Source: Wikipedia, &amp;quot;Odyssey: The Compleat Apventure&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4978" value="Apple II" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2155" value="RPG" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="25998" value="Apventures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="1980-00-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="12321" value="Northwest Synergistic Software" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="12321" value="Northwest Synergistic Software" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="9" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4978" name="appleii" friendlyname="Apple II Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

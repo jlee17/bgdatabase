@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="168371">
+                                     				
+				<name type="primary" sortindex="1" value="Alida" />
+			
+						                           
+						               													<description>Alida is a point and click interactive graphical adventure game. The story centres around four young men in the band Alida that attained phenomenal success with their first CD release. Loads of money coupled with wild imagination resulted in construction of &amp;quot;Alida&amp;quot; - the theme park.&amp;#10;&amp;#10;It's an unusual place -&amp;#10;&amp;#10;a giant guitar 330 metres long!&amp;#10;&amp;#10;But these guys didn't stop there - the guitar can actually be played (assisted by machinery); the internal workings of the guitar can be accessed and manipulated (machine heads, switch, pots etc..)&amp;#10;&amp;#10;As Alida was nearing completion things got complicated, their popularity was waning and money stopped coming in. Distrust set in. Each of the band members claimed different areas of Alida for themselves where they devised weird and elaborate systems to protect their wealth. They retracted from each other finally leaving Alida uninhabited.&amp;#10;&amp;#10;Fifteen years later one of the guys is missing on Alida...&amp;#10;&amp;#10;Source: The Developer Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2152" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2165" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2459" value="Amusement Park" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2316" value="Music" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2351" value="Puzzle" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2004-04-19" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="14029" value="(Self-Developed Video Game)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="13975" value="Got Game Entertainment" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="10" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

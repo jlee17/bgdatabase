@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165386">
+                                     				
+				<name type="primary" sortindex="1" value="Standard Action: Legend of the Lonely Dragon" />
+			
+						                           
+						               													<description>&amp;#10;&amp;#10;&amp;#10;    &amp;#10;        &amp;#10;UNRELEASED GAME &amp;ndash; IN BETA&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;        &amp;#10;This game is in Beta and has not been fully released yet.&amp;#10;&amp;#10;    &amp;#10;&amp;#10;&amp;#10;User Summary&amp;#10;&amp;#10;Standard Action: Legend of the Lonely Dragon is a web browser RPG that is based on the fantasy comedy series Standard Action.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5084" value="Web Browser" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2155" value="RPG" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2509" value="Comedy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2284" value="Medieval" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="21970" value="(Unreleased Games - Available)" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2007-00-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="4" value="(Self-Published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28034" value="Dragonprime" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="5084" name="webbrowser" friendlyname="Web Browser Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

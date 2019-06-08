@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166542">
+                                     				
+				<name type="primary" sortindex="1" value="Hot Wheels: Mechanix" />
+			
+						                           
+						               													<description>back of box&amp;#10;&amp;#10;Hot Wheels Mechanix puts you behind the wheel of your favorite Hot Wheels race cars and lets you design your own racers.&amp;#10;&amp;#10;Before you rev your engine, customize your Mechanix car to add bigger tires, a powerful engine, turbo chargers, even wings.&amp;#10;&amp;#10;Modify your racer as much as your heart desires.&amp;#10;&amp;#10;Add-ons also accommodate this game's varied environments.&amp;#10;&amp;#10;Got snow? Add spike tires.&amp;#10;&amp;#10;And when you're through customizing, it's time for pulse-pounding racing and exciting wins.&amp;#10;&amp;#10;Win your races and you'll unlock over 18 vehicles, all based on original Hot Wheels designs.&amp;#10;&amp;#10;Seven 3-D race environments challenge your racing skills.&amp;#10;&amp;#10;Collect XTool points to buy even cooler upgrades for your Hot Wheels racer.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2154" value="Racing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2456" value="Driving" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="16925" value="Hot Wheels" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2001-09-27" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="11789" value="THQ" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11789" value="THQ" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

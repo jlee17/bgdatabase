@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="168177">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/9rfjq1QSEGmqsbWaYQpedHo7v6E=/fit-in/200x150/pic2330912.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/m7QnUmvrRrZ7ObaNf0Yn1bLf4dU=/0x0/pic2330912.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Guilty Gear Xrd -SIGN-" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Giruti Gia Iguzādo" />
+			
+						               													<description>Continuing the style of frantic fighting action from previous games, the game is now presented in cel-shaded graphics, which use limited animation to replicate the feel of 2D sprites whilst allowing for more dynamic camera movement. The game is set in 2187, one year after its predecessor, Guilty Gear 2: Overture.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Guilty Gear Xrd&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4781" value="Arcade" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4435" value="PlayStation 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="21674" value="PlayStation 4" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2159" value="Fighting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2278" value="Anime" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="5493" value="Guilty Gear" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						               				<releasedate value="2014-02-20" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="12011" value="Arc System Works Co., Ltd." />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="12237" value="Aksys Games, Inc" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="12011" value="Arc System Works Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="5360" value="SEGA Corporation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="7370" value="Sony Computer Entertainment (SCE)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5" />
+			<average value="8.2" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="4185" bayesaverage="5.75707" />
+																				<rank type="family" id="4435" name="ps3" friendlyname="PlayStation 3 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4781" name="arcade" friendlyname="Arcade Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="21674" name="playstation4" friendlyname="PlayStation 4 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.748331" />
+			<median value="0" />
+			<owned value="14" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

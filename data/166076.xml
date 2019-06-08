@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogameexpansion" id="166076">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/tEHwy7i2jUR1siomESrdCiw2wpM=/fit-in/200x150/pic2502703.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/5EF6K_wO2H1CulbyawrPyvEcCCU=/0x0/pic2502703.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Disney Infinity 2.0: Marvel Super Heroes" />
+			
+						                           
+						               													<description>Heroes and villains. Sorcerers and superheroes. Princesses and pirates. For generations, Disney storytelling and Marvel adventures have sparked our imaginations with characters and worlds of magic, action and adventure. Now, Disney Infinity invites you and your family to enter those worlds in game experiences only Disney, Marvel - and your imagination - can bring to life.&amp;#10;&amp;#10;Source: The Publisher Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4435" value="PlayStation 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="21674" value="PlayStation 4" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="10763" value="Wii U" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="22574" value="Xbox One" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2161" value="Action Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2315" value="Sandbox" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2319" value="Cartoon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2468" value="Children's" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2335" value="Fairy Tale" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2287" value="Superhero" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="5477" value="Disney" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="4855" value="Marvel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="17149" value="Pixar" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="28893" value="Disney Infinity" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						               				<releasedate value="2014-09-18" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="13627" value="Avalanche Software" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="12289" value="Disney Interactive Studios, Inc." />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameexpansion" id="141064" value="Disney Infinity" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="16" />
+			<average value="7.70625" />
+			<bayesaverage value="6.10941" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="2030" bayesaverage="6.10941" />
+																				<rank type="family" id="4435" name="ps3" friendlyname="PlayStation 3 Rank" value="499" bayesaverage="6.29485" />
+											<rank type="family" id="10763" name="wiiu" friendlyname="Wii U Rank" value="144" bayesaverage="6.59063" />
+											<rank type="family" id="21674" name="playstation4" friendlyname="PlayStation 4 Rank" value="162" bayesaverage="6.69699" />
+											<rank type="family" id="22574" name="xboxone" friendlyname="Xbox One Rank" value="90" bayesaverage="6.9566" />
+												</ranks>
+
+			<stddev value="1.3718" />
+			<median value="0" />
+			<owned value="57" />
+			<trading value="1" />
+			<wanting value="1" />
+			<wishing value="1" />
+			<numcomments value="9" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

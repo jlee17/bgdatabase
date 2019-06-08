@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgameexpansion" id="167989">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/sHlD5WOlyGwAhjR1Dn_G7nxGCB4=/fit-in/200x150/pic2290994.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/kENISJsA0gibV7xLoALLi8UCXJc=/0x0/pic2290994.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Pick-a-Dog: Polar Bear Expansion" />
+			
+						                           
+						               													<description>Expansion contains three additional cards with elements common with Pick-a-Dog and Pick-a-Polar Bear games. As those cards are rare and hard to match with other cards from the base game, players get more (2 or 3) points for them.&amp;#10;&amp;#10;The fourth card contains instruction with illustration of all cards matching with the expansion.&amp;#10;&amp;#10;This expansion was published as a promo for the SPIEL 2013. Fair's name and date is printed on the instruction card.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2013" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="5+">		
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1032" value="Action / Dexterity" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1037" value="Real-time" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2060" value="Pattern Recognition" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7265" value="Animals: Bears" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7349" value="Animals: Dogs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7379" value="Animals: Pigs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="39141" value="Jolly Pets" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="123885" value="Pick-a-Dog" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="145186" value="Pick-a-Polar Bear" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="150015" value="Pick-a-Polar Bear: Pig and Dog Expansion" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="8537" value="Torsten Landsvogt" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="61129" value="Ari Wong" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15983" value="Jolly Thinkers" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="12" />
+			<average value="6.41667" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.51153" />
+			<median value="0" />
+			<owned value="20" />
+			<trading value="1" />
+			<wanting value="5" />
+			<wishing value="8" />
+			<numcomments value="4" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

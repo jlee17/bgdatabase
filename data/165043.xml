@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgameexpansion" id="165043">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/JiKnvS4MI_pfM3TaCGfTpDbEBHs=/fit-in/200x150/pic1887742.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/4hdXbqI07CeIBc_bN6pgETMZdzw=/0x0/pic1887742.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Rivet Wars: War Room" />
+			
+						                           
+						               													<description>Battle with some of the greatest and most infamous heroes of Rivet Wars.&amp;#10;&amp;#10;Rivet Wars: War Room gives players access to some of the greatest and most infamous heroes of both the Allied and Blight forces. These larger than life characters will enhance your armies with new abilities as well as their own martial prowess. Whether it&amp;rsquo;s Dr. Vorne, Romler or Patston, Uncle Rivet or the Iron Chancellor, Cruel Minie or Terror Nova, you&amp;rsquo;ll know that you&amp;rsquo;re fielding some of the war&amp;rsquo;s most feared soldiers.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5601" value="Anime &amp; Manga" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="52433" value="Chibi" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="136000" value="Rivet Wars: Eastern Front" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="68953" value="Bill Podurgiel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="66052" value="Ted Terranova" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="39902" value="Peter Wocken" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21608" value="CMON Limited" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="53" />
+			<average value="7.09497" />
+			<bayesaverage value="5.56357" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.56357" />
+												</ranks>
+
+			<stddev value="1.15325" />
+			<median value="0" />
+			<owned value="430" />
+			<trading value="13" />
+			<wanting value="18" />
+			<wishing value="25" />
+			<numcomments value="17" />
+			<numweights value="4" />
+			<averageweight value="3.5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

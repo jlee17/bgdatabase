@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167781">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/SIN6xl137vDZnX9pQxwra8dCJ_0=/fit-in/200x150/pic3327750.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/TJFaLF5hM7-ecTCJD4fWQC7_1i4=/0x0/pic3327750.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="SUPERHOT" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Super Hot" />
+			    				
+				<name type="alternate" sortindex="1" value="Superhot" />
+			
+						               													<description>Superhot sets the player in a minimalistic environment, taking out hostile attackers that are trying to kill them. Weapons picked up by the player have limited ammunition, requiring the player to rely on defeating enemies to get more ammo, or making melee kills. Taking a single hit from an enemy bullet kills the player, requiring them to restart the level. Though the game mechanics are typical of most shooters, the distinguishing feature is that time only moves forward at normal speed when the player performs an action like moving or firing a gun, otherwise time moves very slowly; this is described in the game's tagline &amp;quot;Time Moves Only When You Move&amp;quot;.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Superhot&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5248" value="Linux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="22574" value="Xbox One" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2147" value="Action" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2160" value="First Person Shooter" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2455" value="Abstract" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="46749" value="SUPERHOT" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2016-02-25" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28418" value="Superhot Team" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28418" value="Superhot Team" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="31" />
+			<average value="7.7629" />
+			<bayesaverage value="6.51956" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="1052" bayesaverage="6.51956" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="261" bayesaverage="6.80875" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="607" bayesaverage="6.68052" />
+											<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="87" bayesaverage="7.09415" />
+											<rank type="family" id="22574" name="xboxone" friendlyname="Xbox One Rank" value="34" bayesaverage="7.44264" />
+												</ranks>
+
+			<stddev value="0.88299" />
+			<median value="0" />
+			<owned value="53" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="10" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

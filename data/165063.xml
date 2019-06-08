@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogamecompilation" id="165063">
+                                     				
+				<name type="primary" sortindex="1" value="Sega Vintage Collection: Alex Kid &amp; Co." />
+			
+						                           
+						               													<description>User Summary&amp;#10;&amp;#10;Sega Vintage Collection: Alex Kidd &amp;amp; Co. is a video game compilation that is Part of the Sega Vintage Collection series, the compilation includes Alex Kidd in Miracle World (for the Sega Master System), The Revenge of Shinobi (for the Sega Genesis), and Super Hang-On (for the arcades).&amp;#10;&amp;#10;Each game includes various features, such as time trial modes (where players complete a certain task in a certain part of the game), save states, replays (that can be shared with other players), stereoscopic 3D (for Super Hang-On), and the ability to choose the original Japanese dialogue (in The Revenge of Shinobi).&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4435" value="PlayStation 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4407" value="Xbox 360" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2161" value="Action Adventure" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2456" value="Driving" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2495" value="Ninjas" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="3" />
+						               				<releasedate value="2012-05-23" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="17990" value="M2 Co.,LTD" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="5360" value="SEGA Corporation" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="78273" value="Alex Kidd in Miracle World" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="75118" value="The Revenge of Shinobi" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="75122" value="Super Hang-On" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4407" name="xbox360" friendlyname="Xbox 360 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4435" name="ps3" friendlyname="PlayStation 3 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

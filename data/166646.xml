@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="166646">
+                                     				
+				<name type="primary" sortindex="5" value="The Beautiful Match" />
+			
+						                           
+						               													<description>Play a soccer match. In The Beautiful Match, players have a hand of seven offensive and defensive cards (5/2,4/3,3/4,2/5 chosen at start of the match) and two bonus cards. The players who controls the ball plays offensive cards which, combined with a die roll, give the result of action (move of the pawn on the pitch and possession). The defender can play defensive cards (challenge and closed down) which give a result with a die roll (die negative modifier for attack action, foul, take possession of the ball, etc.). When the pawn is near the goal you can shoot (roll dice; you read the result on a chart). All off soccer is here: substitutions, red cards, corners, free kicks,clearance,cross,...moreover the game could easily be modified with houserules&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2013" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1038" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5551" value="Sports: Football / Soccer" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="278" value="Terry Goodchild" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1259" value="Lambourne Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="7" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="2" />
+			<wishing value="2" />
+			<numcomments value="1" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

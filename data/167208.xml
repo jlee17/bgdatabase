@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167208">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/n-Nlr4Hon8lpfKfL-N3Ra3NMtYw=/fit-in/200x150/pic3004395.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/cmqCIsItNSJBFmDt_qDOxsF3pSA=/0x0/pic3004395.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Dungeon of Gain" />
+			
+						                           
+						               													<description>&amp;#10;&amp;#10;&amp;#10;    &amp;#10;        &amp;#10;UNRELEASED GAME &amp;ndash; AVAILABLE&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;        &amp;#10;This game is still either in Early-Alpha or Beta (or any status in between) but IS already available for sale / early access, so CAN BE PLAYED.&amp;#10;&amp;#10;    &amp;#10;&amp;#10;&amp;#10;User Summary&amp;#10;&amp;#10;You will go on an adventure in the hopes of unraveling the central mystery - what happened to the city in the past. You will kill monsters while exploring dungeons and you will find chests with weapons, armor and potions, as well as traps, riddles, and quests. There will be rewards too.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2155" value="RPG" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="21970" value="(Unreleased Games - Available)" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2015-07-15" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28306" value="Defroids team" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28306" value="Defroids team" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="3" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

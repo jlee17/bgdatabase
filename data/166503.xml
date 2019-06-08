@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166503">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/PHXqEHa8BGIyAnX1JHaWg1zh7RE=/fit-in/200x150/pic4250024.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/kUJGSQb9oeDDm-aFECobPyt77fg=/0x0/pic4250024.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Keep Talking and Nobody Explodes" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Keep Talking and Nobody Explodes VR" />
+			
+						               													<description>From the Official Website:&amp;#10;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;How it works:&amp;#10;&amp;#10;One player is trapped in a virtual room with a ticking time bomb they must defuse. The other players are the &amp;ldquo;Experts&amp;rdquo; who must give the instructions to defuse the bomb by deciphering the information found in the bomb defusal manual. But there&amp;rsquo;s a catch: the experts can&amp;rsquo;t see the bomb, so everyone will need to talk it out &amp;ndash; fast!&amp;#10;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#10;&amp;#9;&amp;#9;&amp;#9;&amp;#9;&amp;#9;Features&amp;#10;&amp;#10;&amp;#10;     Challenging puzzles that will test the limits of your communication skills&amp;hellip; and friendships?&amp;#10;     A different bomb every time! Procedurally generated puzzles keep the action fresh.&amp;#10;     Local multiplayer party game &amp;ndash; A great way to experience VR with all of your friends at the same time!&amp;#10;     Virtual Reality supported, but not required. Play with a regular monitor!&amp;#10;     Only one copy of the game needed! If you can talk to the bomb defuser, you can be their expert! Try using your favorite voice chat service and playing remotely.&amp;#10;&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6063" value="Android" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="21674" value="PlayStation 4" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2338" value="Party" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2165" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2280" value="Crime" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2313" value="Cooperative" />
+		
+									
+			
+
+			               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						               				<releasedate value="2015-07-16" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="31097" value="Steel Crate Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="31097" value="Steel Crate Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="56" />
+			<average value="7.81429" />
+			<bayesaverage value="6.7256" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="733" bayesaverage="6.7256" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="257" bayesaverage="6.81584" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="557" bayesaverage="6.73196" />
+											<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="47" bayesaverage="7.13029" />
+											<rank type="family" id="21674" name="playstation4" friendlyname="PlayStation 4 Rank" value="55" bayesaverage="7.37232" />
+												</ranks>
+
+			<stddev value="1.48726" />
+			<median value="0" />
+			<owned value="97" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="13" />
+			<numcomments value="14" />
+			<numweights value="5" />
+			<averageweight value="2.4" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

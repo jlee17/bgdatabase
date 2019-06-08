@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166853">
+                                     				
+				<name type="primary" sortindex="1" value="Kabobbers" />
+			
+						                           
+						               													<description>User Summary&amp;#10;&amp;#10;Kabobbers are strange (but cute) little creatures who just love wreaking havoc. Your objective is to send in your Buvskies to krush the Kabobbers before they krush you. You can have up to nine Buvskies onscreen at one time, but you have reserves waiting offscreen should one get krushed. You move your Bruvskies across the grid, jumping on enemy Kabobbers in order to defeat them and earn additional reserve Bruvskies. The baby Bruvskies become big ones when they defeat an enemy. The enemies get tougher and tougher, meaning very good timing is required in the later stages. Above all, you must reach Princess Buvsky before she reaches the rainbow energy at the other end of the level and devours it. A very unique game, but also somewhat fun.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4416" value="Atari 2600" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2165" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="1983-00-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="11786" value="Activision" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11786" value="Activision" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="182421" value="Activision Anthology Remix Edition" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4416" name="atari2600" friendlyname="Atari 2600 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

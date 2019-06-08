@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="168445">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/2zyqEr-RK00wwcjXCydsYuaoWF0=/fit-in/200x150/pic3323601.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/G1rEdJSB4w7ABX7njyXiU9mCM-c=/0x0/pic3323601.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Rama" />
+			
+						                           
+						               													<description>Four years ago, a gigantic cylindrical object entered the solar system. The International Space Agency (ISA) named it Rama and sent an expedition named 'Newton Team' to investigate and find its purpose and origins. They soon discovered that Rama is a hollow, rotating cylinder with enormous cities, populated by other alien species that have been collected during its travels: Myrmicats (seen in images but never encountered in the game), Avians, Octospiders. The 'native' beings of Rama are the Biots (biological robots) constructed by the aliens who built Rama, and are a part of it.&amp;#10;&amp;#10;Rama is a first-person adventure game developed and published by Sierra Entertainment in 1996. The game is based on Arthur C. Clarke's books Rendezvous with Rama and Rama II and supports both MS-DOS and Windows 95. It is the second Rama game to be produced. Earlier, a text adventure with low-resolution semi-static view graphics for every visited location was released in 1984 by Telarium (a sub-brand of Spinnaker Software, previously called Trillium until forced by a lawsuit to change the name) and ported to systems such as the Apple II and Commodore 64. In 1998 a PlayStation version was released in Japan.&amp;#10;&amp;#10;As in many Myst-like adventure games, the player is an anonymous character; an astronaut who is assigned to replace the late Valeriy Borzov who died during the mission under mysterious conditions, as the introduction explains. Much of the gameplay is done with the &amp;quot;wristcomp&amp;quot;, a device that is used for communication with other characters and mapping or transport to other locations. The player also has in possession a small android based on Puck which will comment and give descriptions of the surrounding objects or events (therefore used as an interface element for examining objects).&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Rama (video game)&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4714" value="DOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4433" value="PlayStation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2152" value="Adventure" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2658" value="Aliens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2331" value="Space" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="1996-00-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="12479" value="Dynamix" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="10274" value="Sierra Entertainment Inc." />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4433" name="playstation" friendlyname="PlayStation Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4714" name="dos" friendlyname="DOS Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

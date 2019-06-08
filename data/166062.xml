@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166062">
+                                     				
+				<name type="primary" sortindex="1" value="The Croods: Prehistoric Party!" />
+			
+						                           
+						               													<description>A video game based on the film, titled The Croods: Prehistoric Party!, was released on March 19, 2013. Developed by Torus Games, and published by D3 Publisher, it was adapted for Wii U, Wii, Nintendo 3DS and Nintendo DS. The game enables players to take the members of the Croods family on an adventure through 30 party-style mini-games. It received mainly negative reception.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;The Croods&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5857" value="Nintendo 3DS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4734" value="Nintendo DS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4441" value="Wii" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="10763" value="Wii U" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2338" value="Party" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2600" value="Ancient History" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						               				<releasedate value="2013-03-19" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="14201" value="Torus Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11806" value="D3 Publisher" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4441" name="wii" friendlyname="Wii Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4734" name="ds" friendlyname="Nintendo DS Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5857" name="nintendo3ds" friendlyname="Nintendo 3DS Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="10763" name="wiiu" friendlyname="Wii U Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

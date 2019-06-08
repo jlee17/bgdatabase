@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166773">
+                                     				
+				<name type="primary" sortindex="1" value="Apples To Apples" />
+			
+						                           
+						               													<description>User Summary&amp;#10;&amp;#10;Apples to Apples is a very simple game where a variable amount of players take turns choosing green apple cards with adjectives on them such as &amp;ldquo;explosive&amp;rdquo;, &amp;ldquo;repulsive&amp;rdquo; or &amp;ldquo;loud&amp;rdquo;. All the other players then choose from a hand of seven red apple cards with all sorts of words which endeavor to be like that green card, ranging from actions such as &amp;ldquo;running&amp;rdquo; to people like &amp;ldquo;Leonardo DeVinci&amp;rdquo;. The goal is to match the green card with a red card as best as possible, but Apples to Apples has always been a party game and party games love house rules, so some players may not play by the book. The XBLA version introduces a single player feature as well as a different variant to the game&amp;rsquo;s multiplayer, but at its core this is a game of comparisons.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4407" value="Xbox 360" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2338" value="Party" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2403" value="Board Game" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2410" value="Asynchronous Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						               				<releasedate value="2011-12-07" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="13123" value="ImaginEngine" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11789" value="THQ" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4407" name="xbox360" friendlyname="Xbox 360 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="46" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

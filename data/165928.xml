@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165928">
+                                     				
+				<name type="primary" sortindex="1" value="Spandex Force: Champion Rising" />
+			
+						                           
+						               													<description>Work, train, rescue old ladies distress and defeat villains and crooks in hex based match-3 puzzle battles where you use your powers and your skills. In your quest you will encounter the Heavy Mob, Countess Conundrum, Professor Aphasia, evil robots, corrupt government officials and heroes in need of anger management training - among many others. There's never a dull moment in the city of Vigilance Valley!&amp;#10;&amp;#10;Spandex Force: Champion Rising gives you full control over your hero's progress: you can focus on physical, elemental or mental powers, spend time raising your reputation rank, chase burglars and villains or perform odd jobs in the city to raise your skills. The choice is yours!&amp;#10;&amp;#10;Features&amp;#10;&amp;#10;     Hex based match-3 puzzles&amp;#10;     Seven exciting minigames&amp;#10;     Five acts of heroic action&amp;#10;     Four different endings&amp;#10;     Level up your superpowers with new effects&amp;#10;     30 villains and evildoers to defeat&amp;#10;     And much more...&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6063" value="Android" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2165" value="Puzzle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2155" value="RPG" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2509" value="Comedy" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-04-11" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28125" value="KarjaSoft" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28125" value="KarjaSoft" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167048">
+                                     				
+				<name type="primary" sortindex="1" value="Diamond Dash" />
+			
+						                           
+						               													<description>Diamond Dash &amp;#10;Get it Free on Android!&amp;#10;&amp;#10;Join over 100 million players racing against the clock to match as many colorful diamonds as possible!&amp;#10;&amp;#10;Award-winning Facebook and mobile game&amp;#10;Super-fast 60-second challenges&amp;#10;Beat your friends in Weekly Tournaments&amp;#10;Unlock and unleash magical mayhem&amp;#10;&amp;#10;Diamond Dash - Free on iPhone, iPad &amp;amp; iPod&amp;#10;&amp;#10;300,000+ five-star app reviews&amp;#10;Over 100 million players worldwide&amp;#10;Featured by iTunes in 120 countries&amp;#10;Facebook syncs friends, scores, and boosts!&amp;#10;&amp;#10;Best Social Game 2011 - European Games Award!&amp;#10;&amp;#10;Experience 60 thrilling seconds of arcade action! Match three or more colorful diamonds in this awesome gem rush. Fun magic powers, weekly tournaments and exciting challenges await you! Play it today!&amp;#10;&amp;#10;Source: The Developer Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6063" value="Android" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4443" value="iPhone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5084" value="Web Browser" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2147" value="Action" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2351" value="Puzzle" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2011-12-06" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="22375" value="Wooga" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="14516" value="Facebook" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="22375" value="Wooga" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5084" name="webbrowser" friendlyname="Web Browser Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

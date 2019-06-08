@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="165912">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/5qizr8CKqKsIQ1omA8DOOLnoxe4=/fit-in/200x150/pic2696594.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/yybmcl-RDab8WDAu4HbKIrLu45w=/0x0/pic2696594.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Disney Pictionary" />
+			
+						                           
+						               													<description>From the publisher:&amp;#10;&amp;#10;Disney Pictionary is the all new way to play in the world of pictures. With all play game modes, the entire family will be engaged during every moment. Players draw, use charades or make sound effects to get opponents to use the slap hands (with suction cups) to grab the correct card the fastest and win the game. With more than 400 clues and three ways to communicate, the entire family will have hours of fun with their favorite Disney icons. Includes 200 picture cards, 4 slap hands, 2 Mickey-styled dry erase boards, 2 dry erase markers, 1 die, 1 wipe cloth and instructions.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2012" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="0" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="0+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2039" value="Line Drawing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5597" value="Celebrities: Walt Disney" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6041" value="Pictionary" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="93" value="Mattel" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="7" />
+			<average value="5.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.16496" />
+			<median value="0" />
+			<owned value="35" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

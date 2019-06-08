@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165658">
+                                     				
+				<name type="primary" sortindex="1" value="Gigantic Army" />
+			
+						                           
+						               													<description>User Summary&amp;#10;&amp;#10;Gigantic Army is a run-and-gun in a similar style to Metal Slug. You are in control of a mech and can select your main and special weapon loadout each from three options prior to starting the game. Each weapon has different advantages and disadvantages, with varying powers, rate of fires, and targeting systems.&amp;#10;&amp;#10;The game follows a war between the humans and an alien race known as the Ramulons, and you are placed on the enemy homeworld in the front-line ground assault.&amp;#10;&amp;#10;The game differs from other run-and-guns in that you have a health bar and shield (with its own health bar) that are depleted as you are damaged, but between stages you do not fully heal as the repair corps has limited resources.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2352" value="Run-and-gun" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2658" value="Aliens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2508" value="Military" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-02-05" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="21388" value="ASTRO PORT" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="21387" value="Nyu Media" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="5.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.5" />
+			<median value="0" />
+			<owned value="6" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

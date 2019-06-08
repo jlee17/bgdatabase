@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="166931">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/UPSUNNmfpFIwFAApqhuf7zoXEbQ=/fit-in/200x150/pic2568722.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/3MKSF4nE5GwwAdsbgz3_G8N5D38=/0x0/pic2568722.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Ghost Blaster" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Fantômes piégés" />
+			    				
+				<name type="alternate" sortindex="1" value="Glibber-Gebibber" />
+			    				
+				<name type="alternate" sortindex="1" value="Glibbergebibber" />
+			    				
+				<name type="alternate" sortindex="1" value="Scova il fantasma" />
+			    				
+				<name type="alternate" sortindex="1" value="Temblor gelatinoso" />
+			
+						               													<description>The old clock tower is striking midnight! The three ghost hunters quickly reload their green goo ammunition in their handmade power pistols and enter the castle. Let the ghost hunt begin!&amp;#10;&amp;#10;Together in Ghost Blaster, the players try to hit and trap the ghosts with the right amount of goo. Players must roll the dice in sequence and reveal the ghosts using the ghost hunter cards. Once the players have three of the same ghost cards face up, this ghost is caught and can no longer escape. But careful! If the players accidentally uncover a keyhole card, the ghost hunter is caught in the trap and must then go into the dungeon. Players can free him but that takes up valuable time! Their objective is to capture all of the ghosts before the ghost hour is over.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="2">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="5" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="2" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="126" value="No necessary in-game text" numvotes="1" />
+					<result level="127" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="128" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="129" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="130" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1041" value="Children's Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1045" value="Memory" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7479" value="Ghosts" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3990" value="Wolfgang Dirscherl" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="61375" value="Marc Robitzky" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="384" value="HABA" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="76" />
+			<average value="6.10592" />
+			<bayesaverage value="5.53606" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10200" bayesaverage="5.53606" />
+												</ranks>
+
+			<stddev value="1.21666" />
+			<median value="0" />
+			<owned value="203" />
+			<trading value="7" />
+			<wanting value="3" />
+			<wishing value="22" />
+			<numcomments value="26" />
+			<numweights value="6" />
+			<averageweight value="1.3333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

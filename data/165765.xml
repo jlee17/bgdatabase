@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165765">
+                                     				
+				<name type="primary" sortindex="1" value="Minimum" />
+			
+						                           
+						               													<description>Set in a minimalistic stylized universe, Minimum features fast-paced, session-based combat that pits two teams of five against each other armed with powerful, craftable weapons. Each team has their own gigantic robotic Titan that they power up and support to help them fight and destroy the enemy&amp;rsquo;s base. At the core of Minimum is a blueprint crafting system with endless possibilities, where players collect building materials from fallen foes and creatures to craft armor upgrades and gather loot to build more damaging weapons and gear during kill streaks, enabling skilled warriors and Titans to become deadlier as matches progress.&amp;#10;&amp;#10;Source: Atari.com.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2147" value="Action" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2167" value="Shooter" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2319" value="Cartoon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2512" value="Surreal" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+			
+
+			               				<minplayers value="2" />
+						               				<maxplayers value="10" />
+						               				<releasedate value="2014-09-10" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="3634" value="Human Head Studios" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11465" value="Atari, Inc." />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

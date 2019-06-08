@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgameexpansion" id="166413">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/baoSJOnxOK_2rmnnam6TeVHBbmI=/fit-in/200x150/pic2249124.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/gpa_tjoV7wYwkqCVYLsZDuO6F74=/0x0/pic2249124.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Let Them Eat Shrimp: Shark v. Squid Expansion" />
+			
+						                           
+						               													<description>This is an expansion to Let Them Eat Shrimp and must be played with the base game. It consists of squid tiles and shark tokens. The squid tiles may be used to attack the shark, take shark tokens, and score points.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="5+">		
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7975" value="Animals: Fishes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7691" value="Animals: Sharks" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="146963" value="Let Them Eat Shrimp!" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10060" value="Steve Finn" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50670" value="Giorgio De Michele" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7978" value="Dr. Finn's Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="15" />
+			<average value="5.99667" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.8886" />
+			<median value="0" />
+			<owned value="209" />
+			<trading value="9" />
+			<wanting value="4" />
+			<wishing value="8" />
+			<numcomments value="21" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

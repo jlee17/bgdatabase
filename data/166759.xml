@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="166759">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/c7DcuDPXdkAGI9x34KCfmDLn64w=/fit-in/200x150/pic3792871.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/zh8x6zHupojq-pTem_d4HHihw4g=/0x0/pic3792871.jpg</image>
+                                     				
+				<name type="primary" sortindex="5" value="The Penguin Book of Patience" />
+			
+						                           
+						               													<description>From the dust jacket:&amp;#10;&amp;#10;David Parlett has produced the most original and complete collection of patience games for one player (and in some cases two) for nearly a century. In it he sets out to dispel the notion that patience is a therapeutic pastime for the simple-minded and the idle rich. Whereas previous compilations have tended to copy one another in jumbling good, bad, and indifferent games with no sense of order, the author has here adopted a systematic approach enabling the browser to pick out the type of game most appealing to his or her own taste and mood of the moment. Three major groups are distinguished. First come the attractive and simple games requiring care and patience to bring them out, then games requiring a balance of judgement and card sense and finally those which call for the type of positional analysis more usually associated with chess problems than card games. Each group is further subdivided in a way which generally proceeds from the small and simple to the large and complex.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1979" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1117" value="Book" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Solitaire Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="98" value="Traditional Card Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="166" value="David Parlett" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4200" value="Penguin Books" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4" />
+			<average value="7" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="3.67423" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

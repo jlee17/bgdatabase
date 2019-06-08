@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="166202">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/Z9Mb6QNr9NzoFHcUYD6jOGAHsLg=/fit-in/200x150/pic2246825.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/qb1r1WjLLhYP8-FaXjBG-sJb2HQ=/0x0/pic2246825.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Bomb Squad Academy" />
+			
+						                           
+						               													<description>This is the final field exam of your bomb disposal training course. The instructor has rigged three training bombs for you and your team to defuse, but little do you know that there is no way to actually defuse them! The bombs will explode eventually, and if you want to graduate at the top of the class then you&amp;rsquo;ll want to cut high-value wires without triggering the explosives! Grab your wire cutters and steady that shaky hand, because it&amp;rsquo;s going to be an explosive night!&amp;#10;&amp;#10;In Bomb Squad Academy there are four decks of cards representing the four &amp;ldquo;wires&amp;rdquo; of the bomb, and a trigger track next to each deck. Every round, each player secretly decides (then simultaneously reveals) the wire that they will cut this round (or perhaps they&amp;rsquo;ll chicken out, or even call &amp;ldquo;Wait!&amp;rdquo; preventing a wire from being cut). After actions are revealed, the chosen wires are &amp;ldquo;cut&amp;rdquo; by flipping cards from those decks. When a card is flipped, its value dictates how far the trigger moves down the trigger track and how many points are earned; cutting wires alone is worth a lot more than cutting the same wire as other players. Push the triggers too far and the bomb will explode! Whoever causes the bomb to explode loses points. Players earn useful Tools during the game that they can use to break the rules. Get through three gruelling bombs with the cleverest cuts to finish your final exam with the most points!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="13">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+	</poll> 			               				<playingtime value="40" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="40" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="196" value="No necessary in-game text" numvotes="0" />
+					<result level="197" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="198" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="199" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="200" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Press Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9731" value="Josh Cappel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="78067" value="Daniel Rocchi" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="9731" value="Josh Cappel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9499" value="Tasty Minstrel Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="419" />
+			<average value="6.44747" />
+			<bayesaverage value="5.72696" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3988" bayesaverage="5.72696" />
+												</ranks>
+
+			<stddev value="1.25089" />
+			<median value="0" />
+			<owned value="1474" />
+			<trading value="116" />
+			<wanting value="8" />
+			<wishing value="54" />
+			<numcomments value="147" />
+			<numweights value="13" />
+			<averageweight value="1.6923" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

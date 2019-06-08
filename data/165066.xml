@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogamecompilation" id="165066">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/Bm2Oam1HdO2ltXvnCwdDGnR6T8A=/fit-in/200x150/pic4136892.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/XAoH8TERtOY9SVtCNxv0kuVnPXU=/0x0/pic4136892.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Sega Vintage Collection: Streets Of Rage" />
+			
+						                           
+						               													<description>User Summary:&amp;#10;&amp;#10;Sega Vintage Collection: Streets of Rage is a video game compilation and part of the Sega Vintage Collection series, the compilation includes all three Sega Genesis games from the Streets of Rage franchise: Streets of Rage, Streets of Rage 2, and Streets of Rage 3.&amp;#10;&amp;#10;Each game includes various features, such as time trial modes (where players complete a certain task in a certain part of the game), save states, replays (that can be shared with other players), the ability to choose between North American, European, and Japanese versions (including the first worldwide release of the uncensored version of Bare Knuckle 3), and two-player online multiplayer (both co-operative and competitive) via Xbox Live.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4435" value="PlayStation 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4407" value="Xbox 360" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="22574" value="Xbox One" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2147" value="Action" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2342" value="Beat 'em Up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2493" value="Martial Arts" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2313" value="Cooperative" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						               				<releasedate value="2012-05-30" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="17990" value="M2 Co.,LTD" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="5360" value="SEGA Corporation" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="75124" value="Streets of Rage" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="79967" value="Streets of Rage 2" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="80985" value="Streets of Rage 3" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="10" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4407" name="xbox360" friendlyname="Xbox 360 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4435" name="ps3" friendlyname="PlayStation 3 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="22574" name="xboxone" friendlyname="Xbox One Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="6" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165942">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/6vdUHyyQR8NhCw4ryqHRxaeLAgA=/fit-in/200x150/pic2242862.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/Sa8MK89SSSWoCGj_izYpwRck_zw=/0x0/pic2242862.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Enigmatis: The Mists of Ravenwood" />
+			
+						                           
+						               													<description>Two years have passed since the terrifying events of Maple Creek. For the protagonist, who witnessed those events, the past months have been a nonstop chase after the demonic preacher &amp;ndash; the main perpetrator of the tragedy.&amp;#10;&amp;#10;The latest clue to his whereabouts is a harrowing one: there have been reports of people going missing in the rural Pacific Northwest of the United States. The detective&amp;rsquo;s suspicions are confirmed when she discovers a deserted RV abandoned on a lone stretch of highway in the middle of the woods. Giant claw marks mar the roof, and the items scattered around the vehicle suggest there was some kind of violent struggle only minutes before her arrival.&amp;#10;&amp;#10;All clues lead directly to the gates of Ravenwood Park, a mysterious heritage park which can&amp;rsquo;t be found on any map&amp;hellip;&amp;#10;&amp;#10;Behind the gate the detective is surprised by the beauty and placidity of the redwood forest, and the extraordinary kindness of its park&amp;rsquo;s residents. However, each step she takes gradually reveals more of the true face of Ravenwood Park and the dark secrets it holds - secrets insidiously linked to the events of Maple Creek...&amp;#10;&amp;#10;Can she determine who or what attacked the owners of the abandoned RV and what became of those gone missing? Or will the detective become a pawn in a game of illusions, stretching far beyond the borders of our own material world?&amp;#10;&amp;#10;Source: The Developer Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6063" value="Android" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6826" value="iPad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4443" value="iPhone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5248" value="Linux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="11423" value="Windows Phone" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2152" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2678" value="Hidden Object" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2280" value="Crime" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2328" value="Occult" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="27775" value="Enigmatis" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2013-09-25" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="22042" value="Artifex Mundi" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="22042" value="Artifex Mundi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="13200" value="Big Fish Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="6" />
+			<average value="6.66667" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="5027" bayesaverage="5.67115" />
+																				<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6826" name="ipad" friendlyname="iPad Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="11423" name="windowsphone" friendlyname="Windows Phone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.77169" />
+			<median value="0" />
+			<owned value="19" />
+			<trading value="2" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

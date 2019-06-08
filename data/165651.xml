@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="165651">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/JsD0oE7zA7ek_-VnTDs1TfCdtm4=/fit-in/200x150/pic2236402.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/CKsVLgPr33xjY9DQehnaR8vhPrc=/0x0/pic2236402.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Merry Yard" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Aia Gaia" />
+			
+						               													<description>Merry Yard is a simple and funny card game. Players are farmers trying to call to their farmyard the best and nicest animals. Each turn, players can draw new cards or play an animal card, making the sound of each animal, and using their unique effects in order to outwit their neighbour.&amp;#10;At the end of the game, the animals on the yard will provide players some points, as the cards left in their hand are subtracted to the total. Are you ready to build your Merry Yard?&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="8+">		
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1013" value="Farming" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2073" value="Acting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="196742" value="The Throne" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="34113" value="AiaGaia" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10026" value="Marco Valtriani" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="34069" value="Guido Favaro" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6123" value="Red Glove" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="34" />
+			<average value="5.62647" />
+			<bayesaverage value="5.50344" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13733" bayesaverage="5.50344" />
+												</ranks>
+
+			<stddev value="1.51993" />
+			<median value="0" />
+			<owned value="55" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="3" />
+			<numcomments value="2" />
+			<numweights value="2" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

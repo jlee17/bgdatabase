@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167938">
+                                     				
+				<name type="primary" sortindex="1" value="Pokedex 3-D" />
+			
+						                           
+						               													<description>User Summary&amp;#10;&amp;#10;Become the Pok&amp;eacute;mon master! Find out everything you want to know about your favorite Pok&amp;eacute;mon and see them in 3D with the new Pok&amp;eacute;dex 3D Pro!&amp;#10;&amp;#10;Features include:&amp;#10;&amp;#10;All Pok&amp;eacute;mon from previous generations, as well as Black Kyurem, White Kyurem, the Therian Formes of the Forces of Nature, both of Keldeo's forms, both of Meloetta's forms, and Genesect, are now featured in the application.&amp;#10;The application now features the voice talents of the current Pok&amp;eacute;dex voice actors in every available language.&amp;#10;There is now a Challenge mode that asks the player various identifying Pok&amp;eacute;mon questions and grades them based on accuracy. Once they are all completed, the Daily Challenge Quiz is unlocked, which is completely random.&amp;#10;When viewing multiple Pok&amp;eacute;mon through the AR viewer, they can be ranked according to various stats.&amp;#10;Photographs of Pok&amp;eacute;mon are kept track of, allowing the user to use the photographs they have taken instead of 3D models as the Pok&amp;eacute;dex display. When multiple photos of a Pok&amp;eacute;mon exist they will be shown as a slide show.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5857" value="Nintendo 3DS" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2482" value="Other" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2471" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="5252" value="Pokémon" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2012-11-08" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="13094" value="Creatures Inc." />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="1326" value="Nintendo Co., Ltd." />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="7" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="5857" name="nintendo3ds" friendlyname="Nintendo 3DS Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="4" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

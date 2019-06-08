@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167142">
+                                     				
+				<name type="primary" sortindex="1" value="LEGO Rock Raiders (Playstation)" />
+			
+						                           
+						               													<description>Lego Rock Raiders is a video game developed by Data Design Interactive and published by Lego Media for Microsoft Windows and PlayStation. It is based on the Lego theme of the same name. The Microsoft Windows version was released on November 15, 1999 with the PlayStation version following just under a year later.&amp;#10;&amp;#10;PlayStation version&amp;#10;&amp;#10;Unlike the PC version, the PlayStation version is an action and strategy game, in which the player controls a character instead of just commanding a squad. Also unlike the PC game, which was centered around constructing a base and mining, the PlayStation game centers around exploring.&amp;#10;&amp;#10;Most missions require the player to collect a certain amount of Energy Crystals, while some missions require the player to rescue Rock Raiders that have been trapped by landslides.&amp;#10;&amp;#10;There are eighteen campaign missions, and six multiplayer missions. The PAL version includes three bonus missions that are accessible after the campaign is completely finished.&amp;#10;&amp;#10;Rather than a percentage, at the end of each mission you receive either a bronze medal (minimum required objectives complete), a silver medal (most objectives complete), or a gold medal (all objectives complete in the required time).&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Lego Rock Raiders (video game)&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4433" value="PlayStation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2147" value="Action" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2739" value="Mining" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="4930" value="LEGO" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						               				<releasedate value="2000-08-17" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="13555" value="Data Design Interactive Ltd." />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28287" value="Lego Media" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="6.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4433" name="playstation" friendlyname="PlayStation Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.5" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

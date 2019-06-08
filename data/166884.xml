@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166884">
+                                     				
+				<name type="primary" sortindex="1" value="Caverns of Minos" />
+			
+						                           
+						               													<description>Caverns of Minos is an arcade shooting game for iOS devices developed by Jeff Minter and Ivan Zorzin of Llamasoft and published via the Apple App Store. It was announced on the Llamasoft blog on January 12, 2012. It is an extended version of the original game Caverns of Mars released for the Atari 8-bit family, with inspiration from Lunar Lander and Oids. It is the Minotaur Project game representing the Atari 8-bit family.&amp;#10;&amp;#10;Gameplay&amp;#10;&amp;#10;The gameplay resembles that of Caverns of Mars in that the player is required to descend to the bottom of a cavern, avoiding enemies along the way, and then to escape. Rather than blowing the cavern up, in Caverns of Minos the player's objective is to collect an object from the bottom of the cavern and deliver it to the &amp;quot;Mothersheep&amp;quot; that waits at the top of the cavern.&amp;#10;&amp;#10;Unlike the original Caverns of Mars, the ship in Caverns of Minos does not descend at a fixed rate: it is sped up gradually by gravity and the player can choose to fire thrusters to slow it down or move it upwards. As the ship moves down through the cavern, it encounters numerous enemies, some of which can be destroyed by firing at them. The ship fires continuously but the bullets fired can be steered by tilting the mobile device. The ship also encounters minotaurs which can be rescued by landing the ship on the ground near them. Landing without damage requires careful use of the thruster and smoother landings are rewarded with bonus points.&amp;#10;&amp;#10;The game supports four play modes, with a different ship provided to the player in each:&amp;#10;&amp;#10;Novice: the player's ship moves side-to-side and thrusts as normal, fires upwards and downwards, and has a strong shield.&amp;#10;Pilot: the player's ship is more maneuverable and has a more effective thruster, but has a lower shield.&amp;#10;Warrior: the player's ship fires from side to side as well as upwards and downwards, but has a lower shield.&amp;#10;Commander: the player's ship does not move side-to-side but rather rotates and thrusts directionally.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Caverns of Minos&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4443" value="iPhone" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2346" value="Scrolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2505" value="Shoot 'em Up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2331" value="Space" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2012-01-18" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="13026" value="Llamasoft" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="13026" value="Llamasoft" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

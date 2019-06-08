@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166358">
+                                     				
+				<name type="primary" sortindex="1" value="Ragnarok Tactics" />
+			
+						                           
+						               													<description>The game is considered a spin-off to the original game in the series, Ragnarok Online. However, unlike Ragnarok Online, which is a massively multiplayer online role-playing game, Ragnarok Tactics is a tactical role-playing game, playing more similarly to Final Fantasy Tactics. However, elements of the Ragnarok Online universe are still present, such as similar settings or the fact that crouching/sitting can restore character's health.&amp;#10;&amp;#10;The game is played on a grid, where the player must move characters strategically to cause damage to the opposing party, with the end goal usually to defeat the opposing side.&amp;#10;&amp;#10;Customization is strongly emphasized in the game; with characters' genders, statistics, skills, equipment all being customizable. Furthermore, the player can chose to join three different factions, and make different choices to take different paths throughout the game, leading to five different endings. The game does not require players to replay the game five times to see each ending, but rather, the player can opt to go back to crucial points in the game and chose a different path. Optional sidequests, largely unconnected to the main story characters, are also available to play at various points in the game.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Ragnarok Tactics&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4432" value="PSP" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2414" value="Tactical RPG" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="5402" value="Ragnarök" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2011-10-27" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28180" value="ApolloSoft" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="12237" value="Aksys Games, Inc" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="12340" value="GungHo Online Entertainment" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4432" name="psp" friendlyname="PSP Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

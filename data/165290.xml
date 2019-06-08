@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165290">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/74tvnx6QshoFFeKe01asIIhaWq4=/fit-in/200x150/pic3724109.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/6BbrAYFZU6ofbHRraIuQSRI-Bvc=/0x0/pic3724109.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Grid Autosport" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="GRID Autosport" />
+			    				
+				<name type="alternate" sortindex="1" value="GRID Autosport" />
+			
+						               													<description>Grid Autosport (styled as GRID Autosport) is a racing video game by Codemasters and is the sequel to 2008's Race Driver: Grid and 2013's Grid 2. The game was released for Microsoft Windows, PlayStation 3 and Xbox 360 on June 24, 2014. The game features the return of in-car view that was removed from Grid 2 and changed handling with 100 routes across 22 locations.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Grid Autosport&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4435" value="PlayStation 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4407" value="Xbox 360" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2154" value="Racing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2456" value="Driving" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="6940" value="TOCA Touring Car" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="0" />
+						               				<releasedate value="2014-06-24" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="12294" value="Codemasters" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="12294" value="Codemasters" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4" />
+			<average value="8.425" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4407" name="xbox360" friendlyname="Xbox 360 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4435" name="ps3" friendlyname="PlayStation 3 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.917537" />
+			<median value="0" />
+			<owned value="15" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

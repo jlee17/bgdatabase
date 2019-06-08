@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166618">
+                                     				
+				<name type="primary" sortindex="1" value="Just Dance 2015" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Just Dance 6" />
+			
+						               													<description>Just Dance 2015 is the sixth game in the Just Dance series developed by Ubisoft Paris and published by Ubisoft. It was officially announced at Ubisoft's Electronic Entertainment Expo 2014 press event on 9 June 2014 alongside with Just Dance Now. It is expected to be released on 21 October 2014 in North America, 23 October in Europe, and 24 October in the UK.&amp;#10;&amp;#10;The gameplay retains the same as in past Just Dance games where players follow the on-screen dancer to earn points. New to the series is the &amp;quot;Community Remix&amp;quot; mode where players dance to songs that have other players on the screen instead of the dancers. Modes from past games such as the &amp;quot;World Dancefloor&amp;quot; and the &amp;quot;Autodance&amp;quot; feature will appear in this game.&amp;#10;&amp;#10;Another game was also announced with Just Dance 2015 called Just Dance Now, an app that lets players play Just Dance anywhere after syncing up a device with the website on another screen connected to the internet.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Just Dance 2015&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4435" value="PlayStation 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="21674" value="PlayStation 4" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4441" value="Wii" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="10763" value="Wii U" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4407" value="Xbox 360" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="22574" value="Xbox One" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2163" value="Rhythm" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2510" value="Dancing" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="8337" value="Just Dance" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-10-21" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="11781" value="Ubisoft Entertainment S.A. (Ubisoft)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11781" value="Ubisoft Entertainment S.A. (Ubisoft)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="6" />
+			<average value="7.43333" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="5652" bayesaverage="5.60283" />
+																				<rank type="family" id="4407" name="xbox360" friendlyname="Xbox 360 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4435" name="ps3" friendlyname="PlayStation 3 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4441" name="wii" friendlyname="Wii Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="10763" name="wiiu" friendlyname="Wii U Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="21674" name="playstation4" friendlyname="PlayStation 4 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="22574" name="xboxone" friendlyname="Xbox One Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.39244" />
+			<median value="0" />
+			<owned value="24" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

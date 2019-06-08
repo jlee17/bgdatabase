@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167340">
+                                     				
+				<name type="primary" sortindex="1" value="NBA 2K15" />
+			
+						                           
+						               													<description>NBA 2K15 is a basketball simulation video game developed by Visual Concepts and published by 2K Sports. It is the sixteenth installment of the NBA 2K franchise. It was released on October 7, 2014 in North America for Microsoft Windows, Xbox One, Xbox 360, PS3 and PS4. It will be released on October 9, 2014 in Australia and October 10, 2014 in the rest of the world. Kevin Durant of the Oklahoma City Thunder, one of the three cover athletes of NBA 2K13, is the solo cover athlete of NBA 2K15. NBA 2K15 is the successor to NBA 2K14 in the NBA 2K series and also the 15th installment.&amp;#10;&amp;#10;The game will have a pre-order bonus pack which includes 5,000 Virtual Currency (VC), 2 MyTEAM card packs, your choice of an International MyTEAM card or rookie Kevin Durant , and MyPLAYER leg sleeves inspired by Durant. On August 6, 2014 it was announced that Crew mode will be back in the game, then on August 7, 2014 it was announced that the game will have a new mode called MyLEAGUE, which is similar to NBA 2K14's MyGM mode but with added customization and improvements. MyLEAGUE also has no RPG elements, such as the conversation system and press conferences. On September 17, 2014 it was announced a face scan will be introduced into the game. It takes 30 seconds. It doesn't capture an image but maps a 3d model of your face instantly adding your face into the game. There will be a MyNBA2K15 app that will come out along with the game, just like NBA 2K14 came out with MyNBA2K14. The app releases on the day of the game release.&amp;#10;&amp;#10;On August 13, 2014 it was announced that the PC version will have all the same features and graphics capacity as the Xbox One and PS4 versions.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;NBA 2K15&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4435" value="PlayStation 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="21674" value="PlayStation 4" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4407" value="Xbox 360" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="22574" value="Xbox One" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2157" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2361" value="Sports - Basketball" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="4849" value="2K Sports" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="7467" value="NBA" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="4852" value="NBA 2K" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="0" />
+						               				<releasedate value="2014-10-07" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="11864" value="Visual Concepts Entertainment" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11863" value="2K Sports, Inc." />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="6" />
+			<average value="7.7" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="4089" bayesaverage="5.76817" />
+																				<rank type="family" id="4407" name="xbox360" friendlyname="Xbox 360 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4435" name="ps3" friendlyname="PlayStation 3 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="21674" name="playstation4" friendlyname="PlayStation 4 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="22574" name="xboxone" friendlyname="Xbox One Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.428174" />
+			<median value="0" />
+			<owned value="17" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="3" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

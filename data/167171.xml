@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167171">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/e1mH1PhG4fH1BpSpNKeYvEQ4zjE=/fit-in/200x150/pic3494649.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/FDApE9Kd2Ts_6hYRfNP2uUlr95Q=/0x0/pic3494649.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Town of Salem" />
+			
+						                           
+						               													<description>Town of Salem is a browser-based game that challenges players on their ability to convincingly lie as well as detect when other players are lying.&amp;#10;&amp;#10;The game ranges from 7 to 15 players. These players are randomly divided into alignments - Town, Mafia, and Neutrals. If you are a Town member (the good guys) you must track down the Mafia and other villains before they kill you.&amp;#10;&amp;#10;The catch? You don't know who is a Town member and who is a villain. If you are an evil role, such as a Serial Killer, you secretly murder town members in the veil of night and try to avoid getting caught.&amp;#10;&amp;#10;Source: The Developer Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5084" value="Web Browser" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2155" value="RPG" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2158" value="Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2280" value="Crime" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+			
+
+			               				<minplayers value="7" />
+						               				<maxplayers value="15" />
+						               				<releasedate value="2014-05-07" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28294" value="BlankMediaGames LLC" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="1001" value="(Web published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28294" value="BlankMediaGames LLC" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="12" />
+			<average value="6.5625" />
+			<bayesaverage value="5.65033" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="5226" bayesaverage="5.65033" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="742" bayesaverage="5.78576" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="2047" bayesaverage="5.69247" />
+											<rank type="family" id="5084" name="webbrowser" friendlyname="Web Browser Rank" value="45" bayesaverage="5.9065" />
+												</ranks>
+
+			<stddev value="2.2317" />
+			<median value="0" />
+			<owned value="29" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="2" />
+			<numweights value="2" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

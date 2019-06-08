@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165026">
+                                     				
+				<name type="primary" sortindex="1" value="Ray Tracers" />
+			
+						                           
+						               													<description>Ray Tracers is an arcade-style auto racing and combat video game released by the Taito Corporation in 1997 for Sony's PlayStation game console.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Ray Tracers&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4433" value="PlayStation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4435" value="PlayStation 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="21674" value="PlayStation 4" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="10373" value="PlayStation Vita" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4432" value="PSP" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2147" value="Action" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2314" value="Arcade" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2456" value="Driving" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="25752" value="Chase H.Q." />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="25751" value="Chase H.Q." />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="1997-01-17" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="6468" value="Square Enix Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="11758" value="Taito" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="7370" value="Sony Computer Entertainment (SCE)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="6468" value="Square Enix Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11758" value="Taito" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11789" value="THQ" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4432" name="psp" friendlyname="PSP Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4433" name="playstation" friendlyname="PlayStation Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4435" name="ps3" friendlyname="PlayStation 3 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="10373" name="playstationvita" friendlyname="PlayStation Vita Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="21674" name="playstation4" friendlyname="PlayStation 4 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

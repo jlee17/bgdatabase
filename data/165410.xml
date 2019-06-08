@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="165410">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/vDOx1ivf27-69fO3TSeaWchK4ho=/fit-in/200x150/pic2232600.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/yrpl0zftHYKcRLpTT6zJhoGHncs=/0x0/pic2232600.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Dungeon Wars" />
+			
+						                           
+						               													<description>Dungeon Wars is a dungeon-crawl board game. The two players each get sets of characters (fighters, thieves, and mages) of specified levels and run them through short adventures. The characters may have to confront some monsters and traps, but primarily they fight each other while trying to complete the scenario objectives.&amp;#10;&amp;#10;One twist in this game is that each player has their own copy of the map for the scenario being played and cannot see the opponent's map, so the game is played double-blind. A game master is required to mediate; the GM tells each player when they can see the opposing characters. (The GM may also do other things to spice up the game at their discretion.)&amp;#10;&amp;#10;Another twist is that the scenario maps are 3D - the game comes with many sheets of cardboard which can be cut apart to make floors, walls, and doors. It also comes with stand-up cardboard figures for the characters and a large number of item and spell cards.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1997" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1020" value="Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2028" value="Role Playing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2016" value="Secret Unit Deployment" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="77817" value="William Deckard" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="77220" value="Bruce Hirst" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="77816" value="Bryan R. Fisher" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

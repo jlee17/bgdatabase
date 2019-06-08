@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167140">
+                                     				
+				<name type="primary" sortindex="1" value="LEGO Rock Raiders (Windows)" />
+			
+						                           
+						               													<description>Lego Rock Raiders is a video game developed by Data Design Interactive and published by Lego Media for Microsoft Windows and PlayStation. It is based on the Lego theme of the same name. The Microsoft Windows version was released on November 15, 1999 with the PlayStation version following just under a year later.&amp;#10;&amp;#10;Windows version&amp;#10;&amp;#10;The PC version is a RTS similar to Dungeon Keeper, and was the first video game for the Rock Raiders theme. The game opens with optional training missions and one actual mission unlocked. Most missions require the player to collect a certain amount of Energy Crystals, the required amount starts low but gradually gets higher in later missions. Some missions require the player to locate Rock Raiders that have been trapped in landslides, or to find certain pieces of equipment and bring it back to their base. One of the game's features is the Priority Menu. With this menu, the player can set what order Rock Raiders carry out their tasks. For example, player can set whether Rock Raiders should collect Energy Crystals or Lego Ore first.&amp;#10;&amp;#10;At the end of each mission Chief would evaluate the player's work, examining various aspects of the mission. With all these taken into consideration, Chief would give a mission rating percentage.&amp;#10;&amp;#10;There are twenty-five missions total, each of them is in either a rock, lava/volcanic or ice cavern environment. It is not necessary to complete every mission with 100%, or even complete all the missions, to complete the campaign, however the player will unlock a &amp;quot;better&amp;quot; ending cutscene by completing the campaign in full.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Lego Rock Raiders (video game)&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2166" value="Real Time Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2739" value="Mining" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="4930" value="LEGO" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="1999-11-15" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="13555" value="Data Design Interactive Ltd." />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28287" value="Lego Media" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="8.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

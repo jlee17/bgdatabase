@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogameexpansion" id="165783">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/6Reh7tQoZqtmtA8kn0AEbBCORUA=/fit-in/200x150/pic2241290.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/P2TSxFKulBXdX6VRb4OfMBMkHY0=/0x0/pic2241290.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Harpoon Scenario Editor" />
+			
+						                           
+						               													<description>From the back of the game box:&amp;#10;&amp;#10;When you've mastered the existing Harpoon BattleSets exercise your imagination and expertise by modifying existing scenarios, or creating entirely new ones!  Scenario Editor is the only tool of its kind available to serious simulation strategy enthusiasts.  This is the same in-house programming tool used by Harpoon programmers to produce scenarios for all the commercially distributed battlesets.  Create groups and units for both sides, shift geographical locations, limit or expand available platforms and weapons using the complete Harpoon database, assign air and sea assets to base... the variables are endless, and you are in total control!&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4714" value="DOS" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2156" value="Simulation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2345" value="Historical" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2508" value="Military" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2542" value="Ocean / Sea" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2317" value="War - Modern" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="7262" value="Harpoon" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="1990-01-01" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="14208" value="Three-Sixty Pacific, Inc." />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="14208" value="Three-Sixty Pacific, Inc." />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameexpansion" id="82180" value="Harpoon" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameexpansion" id="83426" value="Harpoon Designer's Series II: Post Graduate Naval Operations and Tactics" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameexpansion" id="165756" value="Harpoon Designer's Series: Battleset Enhancer" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameexpansion" id="83409" value="Harpoon: Battleset 2 – North Atlantic Convoy" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameexpansion" id="95370" value="Harpoon: Battleset 3 – The Med Conflict" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameexpansion" id="83423" value="Harpoon: Battleset 4 – Indian Ocean / Persian Gulf" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="83425" value="Harpoon Challenger Pack" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4" />
+			<average value="8.125" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4714" name="dos" friendlyname="DOS Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.24373" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="2" />
+			<averageweight value="4.5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

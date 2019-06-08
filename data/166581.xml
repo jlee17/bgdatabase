@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166581">
+                                     				
+				<name type="primary" sortindex="1" value="Valhalla Knights 3" />
+			
+						                           
+						               													<description>Valhalla Knights 3 (Japanese: &amp;#227;&amp;#131;&amp;#180;&amp;#227;&amp;#130;&amp;#161;&amp;#227;&amp;#131;&amp;#171;&amp;#227;&amp;#131;&amp;#143;&amp;#227;&amp;#131;&amp;#169;&amp;#227;&amp;#131;&amp;#138;&amp;#227;&amp;#130;&amp;#164;&amp;#227;&amp;#131;&amp;#132;3?) is a role-playing video game for the PlayStation Vita published by Marvelous AQL. It is the sequel to Valhalla Knights 2 and is the third game in the Valhalla Knights video game series. The game was originally planned to be released in Japan on January 31, 2013, but was delayed, and eventually was released on May 23, 2013. XSEED Games published the game in North America on October 15, 2013, and Europe on October 23, 2013.[3] An enhanced version of the game titled Valhalla Knights 3 Gold (&amp;#227;&amp;#131;&amp;#180;&amp;#227;&amp;#130;&amp;#161;&amp;#227;&amp;#131;&amp;#171;&amp;#227;&amp;#131;&amp;#143;&amp;#227;&amp;#131;&amp;#169;&amp;#227;&amp;#131;&amp;#138;&amp;#227;&amp;#130;&amp;#164;&amp;#227;&amp;#131;&amp;#132;3 Gold?) was released in Japan on February 27, 2014; however, XSEED Games announced that they have no plans to release Gold in other regions.&amp;#10;&amp;#10;The player creates a battle team and then can challenge other players in a 7-on-7 battle. The game features seven character races, which are Human, Elf, Hobbit, Dwarf, Nightmare, Beast and Machine, and seven character classes, which are Fighter, Mage, Prisoner, Thief, Priest, Akatoki, and Archer.[5] Each character also has eight &amp;quot;active&amp;quot; skills and four &amp;quot;passive&amp;quot; skills, the skills depending on the character type. Additionally, there are also different personality traits, which are given at random to a character. The character's personality influences their behavior. By winning, the player obtains arena points which can be used to buy weapons and armor. The game also features a &amp;quot;red light district&amp;quot; where the player can recruit female party members by paying them then raising their affection, as well as trigger side-quests. The player must also earn skill points, which are necessary to upgrade and unlock abilities for his/her team.&amp;#10;&amp;#10;Valhalla Knights 3 uses real-time battle system which allows the player-controlled protagonist to instruct other characters. Enemy leaders are also in charge of ordering their party; thus if the player takes down the leader the other enemies will become easier to kill. However, less experience is gained that way. In XSEED Games' version, online multiplayer is supported (as opposed to the ad-hoc connectivity of the original release); the gameplay has also been made easier. The game also features downloadable content, including character costumes from the No-Rin anime and light novel series.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Valhalla Knights 3&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="10373" value="PlayStation Vita" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2155" value="RPG" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="18383" value="Valhalla Knights" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						               				<releasedate value="2013-05-23" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="14162" value="K2 Co., Ltd." />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="26808" value="Marvelous AQL" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="12103" value="XSEED Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="10373" name="playstationvita" friendlyname="PlayStation Vita Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

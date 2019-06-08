@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166994">
+                                     				
+				<name type="primary" sortindex="1" value="Gridrunner iOS" />
+			
+						                           
+						               													<description>Eurogamer who called it the best shooter on iOS.&amp;#10;ArcadeLife who rated the game 94/100 and said it was pure arcade classic reinvention on a touch-screen device.&amp;#10;Touch Arcade who called it a retro remake done right.&amp;#10;    &amp;#10;Gridrunner was a much-loved and popular game on the Commodore Vic-20 and Commodore 64 back in 1982. Here the game is reimagined by its original author in the style of an early 1980s coin-op arcade machine.&amp;#10;&amp;#10;Source: The Developer Website.&amp;#10;&amp;#10;Gridrunner iOS is an arcade style Shoot 'em up video game developed by Jeff Minter and Ivan Zorzin of acclaimed independent UK software house Llamasoft and published via the Apple App Store. It is the latest incarnation in a series of Gridrunner games from Llamasoft that began in 1982[3] with the original Gridrunner for the Vic-20. It is the Minotaur Project game representing the Namco System 86.&amp;#10;&amp;#10;In August 2012, a Mac OS X port was released via the Mac App Store.&amp;#10;&amp;#10;The player controls a small, constantly firing, ship that can be steered around the whole of the playfield with swipes of the iOS touchscreen. Various enemies appear on the playfield and will attack the player's ship. The game is divided into a number of levels (or grids) with set patterns of enemy attack on each grid. At the end of each level a bonus life is awarded and the next grid begins. To aid the player shooting certain enemies will release spinning coloured disks that increase the player's attacking powers, these power-ups are short-lived but collecting multiple disks will increase the potency and/or duration of the power-up. More enemy types are introduced as the player moves through the levels of the game, enemies also become more dangerous as the game progresses.&amp;#10;&amp;#10;The game can be played in Pure or Casual mode. In Pure mode the player has to start at the first level and progress through each level consecutively until all his lives are lost, after level 4 and every 4th level thereafter the game will create a save point. In Casual mode the player can resume the game at any of the save points he has created when playing in Pure mode with his score and lives set to his best performance at that point. Pure and Casual modes have separate high score tables.&amp;#10;&amp;#10;Two control modes are available, novice and expert which adjust the sensitivity of the player's ship to the swipes on the touchscreen.&amp;#10;&amp;#10;Gridrunner iOS is normally played with the device in portrait orientation, however rotating the device to the left or right will switch the game from Gridrunner iOS to a version of the game as seen on the Vic-20 or Commodore 64, high score tables and achievements are available for both of these additional versions.&amp;#10;&amp;#10;Gridrunner iOS also supports the iCade.&amp;#10;&amp;#10;Further details of the game's background and gameplay can be found in Jeff's blog on the Llamasoft web site.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4443" value="iPhone" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2505" value="Shoot 'em Up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2331" value="Space" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2012-02-24" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="13026" value="Llamasoft" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="13026" value="Llamasoft" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

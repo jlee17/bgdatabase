@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="165946">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/ApViJ_TfmiuNhoEeJsAZBVIVsi8=/fit-in/200x150/pic2526366.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/-9gCkFpJSMPAQ2W9FtnZIkLjK_A=/0x0/pic2526366.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Green Berets: Vietnam" />
+			
+						                           
+						               													<description>Green Beret: Vietnam gives you command of a Green Beret team in the Central Highlands before and during the Vietnam War. Your duty is to lead your men on a variety of randomly generated missions (representing orders direct from high command), choose weapons and equipment that are best suited for the mission, decide on how to posture your team, plan your approach, and a method of extraction.&amp;#10;&amp;#10;However, it is not quite that simple; you must choose weapons and equipment that do not expose your team, and do not cause unintended escalation (if the US military must divert regular combat units to your area to quell enemy activity, the value of the Green Berets will be called into question by the &amp;ldquo;traditionalists&amp;rdquo; at the Pentagon); Your goal is to disrupt the enemy&amp;rsquo;s freedom of action in your area of operations with a minimal &amp;ldquo;footprint&amp;rdquo;, and minimal cost.&amp;#10;&amp;#10;Modern War #18, Jul-Aug 2015.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="0" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1109" value="Vietnam War" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hex-and-Counter" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="20084" value="Magazine: Modern War" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8164" value="Solitaire Wargames" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3878" value="Eric R. Harvey" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="3878" value="Eric R. Harvey" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11699" value="Brandon Pennington" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="1893" value="Joe Youst" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="102" value="Decision Games (I)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="24" />
+			<average value="7.29167" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.27407" />
+			<median value="0" />
+			<owned value="156" />
+			<trading value="4" />
+			<wanting value="23" />
+			<wishing value="45" />
+			<numcomments value="24" />
+			<numweights value="3" />
+			<averageweight value="2.3333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

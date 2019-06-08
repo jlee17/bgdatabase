@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="167466">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/-jA7vtd_VxBqAP-lgXqZlZV-8Wk=/fit-in/200x150/pic2266424.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/SMGG_M-tDUNFXkmvZU5-HbOHBEs=/0x0/pic2266424.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Zum Kuhkuck" />
+			
+						                           
+						               													<description>Can you grab the right cow-tending equipment that you need in Zum Kuhkuck?&amp;#10;&amp;#10;To start play, lay the 59 cards of the deck face down on the table and mix them thoroughly. Each player now takes turns, and on a turn you can either draw a card from the table and add it to your hand or score points for one of your colors in hand. If you draw one of the five storm cards, then you must discard your hand and start anew next turn.&amp;#10;&amp;#10;When you score, you receive points based on the number of cards in hand &amp;mdash; the more, the better &amp;mdash; as well as two points for each card of the color of your choice. Note that you can score each of the five colors only once! You then discard your hand of cards and start building a new hand next turn.&amp;#10;&amp;#10;As soon as one player has scored for all five colors, the game ends. For each color in which both players have scored, the player with the higher sum receives a ten point bonus. Players then tally their scores, and whoever has the most points wins!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7530" value="Animals: Cattle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56257" value="NSV Middys series" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26805" value="Nürnberger Kuh" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="12" value="Reinhard Staupe" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11901" value="Oliver Freudenreich" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="66181" value="Sandra Freudenreich" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1020" value="Nürnberger-Spielkarten-Verlag" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="41" />
+			<average value="5.77927" />
+			<bayesaverage value="5.50911" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="13137" bayesaverage="5.50911" />
+												</ranks>
+
+			<stddev value="1.35705" />
+			<median value="0" />
+			<owned value="89" />
+			<trading value="4" />
+			<wanting value="0" />
+			<wishing value="5" />
+			<numcomments value="8" />
+			<numweights value="2" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

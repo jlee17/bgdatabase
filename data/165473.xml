@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165473">
+                                     				
+				<name type="primary" sortindex="1" value="Spy-Trek Adventure" />
+			
+						                           
+						               													<description>User Summary&amp;#10;Spy-Trek Adventure is a text adventure. As a spy, named Mike, you have to travel to several European contries, trying to get your hands on some important plans. As a spy the player also need to use fake ID to get to other countries, the end destination in the game is Venice. The game in played with standard commands as directions, get, use, wear etc, and most locations have graphical screens. The game was written by Peter Torrance using GAC.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5203" value="Amstrad CPC" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4950" value="ZX Spectrum" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2168" value="Text Adventure" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2283" value="Spy / Espionage" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="1986-00-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="14029" value="(Self-Developed Video Game)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="38922" value="Americana Software Limited" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="12607" value="Mastertronic" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4950" name="zxspectrum" friendlyname="ZX Spectrum Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5203" name="amstradcpc" friendlyname="Amstrad CPC Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

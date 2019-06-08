@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166805">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/kkuF3zE91TV-MRtB7wJAWrIOKNo=/fit-in/200x150/pic4211834.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/jH7-uKMiMkl0FmkZZDIeUOnc6yI=/0x0/pic4211834.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Iron Horse" />
+			
+						                           
+						               													<description>User Summary&amp;#10;&amp;#10;Side scrolling platform cowboy train-robber game. Select between fists, pistols or a whip and then work your way down the steam train killing the bad guys and collecting money and special weapons. Cowboy music score.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4781" value="Arcade" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4420" value="Commodore 64" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2352" value="Run-and-gun" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2267" value="Western" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						               				<releasedate value="1986-00-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="1288" value="Konami" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="1288" value="Konami" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4420" name="commodore64" friendlyname="Commodore 64 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4781" name="arcade" friendlyname="Arcade Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

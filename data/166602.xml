@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166602">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/ogl1zk9v9moZaPiKp2IXPw1iQKE=/fit-in/200x150/pic2654835.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/XM8UX4n9al26hTpjO-gb00_nE3c=/0x0/pic2654835.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Massive Chalice" />
+			
+						                           
+						               													<description>Massive Chalice is a strategy video game for Xbox One, Microsoft Windows, OS X, and Linux by Double Fine Productions, which was funded through Kickstarter. The project leader of the game is Brad Muir, who was previously the project leader of Iron Brigade. An alpha version was released at the end of 2014. The completed version was released June 1, 2015.&amp;#10;&amp;#10;The goal of Massive Chalice is to defend a land against invading forces for 300 years. The defense force consists of heroes. Since heroes tend to live for about 70 years, the player needs to set up &amp;quot;bloodlines&amp;quot;, families that regularly produce heroes. By &amp;quot;breeding&amp;quot; families with good traits, strong heroes can be produced. Major decisions for the player encompass whether to use a hero as breeding stock (taking him or her out of the defense pool) or for their combat abilities. The heroes that do best in combat may earn a nickname for themselves, and if they were using a basic weapon during their career, that weapon may become a relic, a family heirloom that possesses special features and is passed on to future generations.&amp;#10;&amp;#10;In May 2013, Massive Chalice became the focus of Double Fine's second Kickstarter campaign, after Broken Age (formerly known as Double Fine Adventure) in 2012. The Double Fine team had learned from their mistakes on the first kickstarter and opted to not show as much exclusive material to backers, as this created a rift between the backers and non-backers, as well as members of the press. Kickstarter backers influenced the development of the game when the ability for same sex marriage was added to the game after a number of requests. Brad Muir stated that backer input before development was one of the advantages of Kickstarter, since a feature such as this might not have been thought about until the game was almost completed, making it harder to implement. He also went on to state that if the game was made under a traditional publisher agreement, the publisher might not have allowed the feature to be added to the game in order to avoid controversy.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Massive Chalice&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5248" value="Linux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="22574" value="Xbox One" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2158" value="Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="21970" value="(Unreleased Games - Available)" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-11-11" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="12309" value="Double Fine Productions" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="12309" value="Double Fine Productions" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="24" />
+			<average value="6.44792" />
+			<bayesaverage value="5.83247" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="3557" bayesaverage="5.83247" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="672" bayesaverage="5.92571" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="1621" bayesaverage="5.96362" />
+											<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="308" bayesaverage="5.8483" />
+											<rank type="family" id="22574" name="xboxone" friendlyname="Xbox One Rank" value="191" bayesaverage="5.76882" />
+												</ranks>
+
+			<stddev value="2.06153" />
+			<median value="0" />
+			<owned value="58" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="11" />
+			<numweights value="1" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166468">
+                                     				
+				<name type="primary" sortindex="1" value="Hot Wheels: Stunt Track Challenge" />
+			
+						                           
+						               													<description>Hot Wheels: Stunt Track Challenge is a video game published by THQ. It was released on November 9, 2004 and appeared on PlayStation 2, Game Boy Advance, and Windows. It is a stuntman game show that consists of drivers competing in death-defying stunt challenges and win fast races to stay on the show. Sometimes, you will get to play mini games with special tasks, usually involving collecting icons in a limited amount of time. Races take place on one of 12 tracks,and players compete to finish first. The game's 24 stunt challenges reward players for performing daring deeds from the controller. The game also has an online mode for playing all of these game-modes. The online is hosted by GameSpy and is still in service.&amp;#10;&amp;#10;A sequel to this game, entitled Hot Wheels: All Out, was released for Game Boy Advance in 2006.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Hot Wheels: Stunt Track Challenge&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4423" value="Game Boy Advance" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4434" value="PlayStation 2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4442" value="Xbox" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2154" value="Racing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2456" value="Driving" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="16925" value="Hot Wheels" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="6" />
+						               				<releasedate value="2004-11-09" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="11782" value="Climax Group" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="17372" value="Razorback Developments" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11789" value="THQ" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="166469" value="Hot Wheels: Stunt Track Challenge / Hot Wheels: World Race" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4423" name="gameboyadvance" friendlyname="Game Boy Advance Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4434" name="playstation2" friendlyname="PlayStation 2 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4442" name="xbox" friendlyname="Xbox Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

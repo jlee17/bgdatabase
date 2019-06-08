@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="167445">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/UYFgCLQB1zwReeIu_NF4dmgpkCU=/fit-in/200x150/pic2295048.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/zaKtbLYuRlwzN5Y33iqiI2FhrCw=/0x0/pic2295048.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Number Strategy Solitaire" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Combination" />
+			    				
+				<name type="alternate" sortindex="1" value="Number Strategy Solitaire" />
+			
+						               													<description>Number Strategy Solitaire is a simple solitaire game and is an alternative to patience.&amp;#10;&amp;#10;It uses a standard pack of playing cards with the picture cards removed. After shuffling 16 cards are placed down in a 4 x 4 grid and the remaining are placed in a deck face up.&amp;#10;&amp;#10;The player draw one card at a time and place it down on top of one of the cards in the grid, but at the same time the player can see what the next card is so he can plan ahead.&amp;#10;&amp;#10;When a card is place its value has to be two cards adjacent which adds up the same value or equals ten above its value.&amp;#10;&amp;#10;Number Strategy Solitaire was first published as Combination in Strategy and Tactics Magazine (1970, issue 22) and republished in Games International Magazine (May 1990, Issue 14).  Published as Number Strategy Solitaire in the Big Book of Games (1984).&amp;#10;&amp;#10;The Games International edition has a typo in the example of play which was corrected on the letter page in issue #16.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1970" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="1+">		
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Card Drafting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Solitaire Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="98" value="Traditional Card Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4" value="Sid Sackson" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3320" value="(Unknown)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5155" value="Games International" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="120" value="SPI (Simulations Publications, Inc.)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

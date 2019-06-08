@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167033">
+                                     				
+				<name type="primary" sortindex="1" value="Zombies, Run!" />
+			
+						                           
+						               													<description>Zombies, Run! is a video game developed and published by Six to Start with Naomi Alderman for iOS and the Android platform. It was released worldwide for iOS on February 27, 2012. The game was funded by a Kickstarter campaign which raised more than five times what was expected, a total of $72,627 from 3464 backers in October 2011. The game was pre-released for some Kickstarter funders on February 12, 2012.&amp;#10;&amp;#10;Zombies, Run! is an immersive running game. Players act as the character &amp;quot;Runner 5&amp;quot; through a series of missions, during which they run and listen to various audio narrations to uncover the story. While running, the player collects supplies such as ammunition, medicine and batteries, which can be used to build and expand their base. The app can record the distance, time, pace, and calories burned on each mission through the use of the phone's GPS or accelerometer. When using the GPS feature, the user can also opt to participate in a zombie chase which requires the player to run faster for a short period of time or be caught by zombies and lose their supplies, or even fail the mission. The app has 23 missions for season 1. Season 2 has over 60 missions.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Zombies, Run!&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6063" value="Android" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4443" value="iPhone" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2724" value="Augmented Reality" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2294" value="Fitness" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2659" value="Zombies" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2012-02-27" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28268" value="Six to Start" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28268" value="Six to Start" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="4" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

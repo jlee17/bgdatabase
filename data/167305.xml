@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgameexpansion" id="167305">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/vRLMHxLwep_lz5dOOtZoTCsi6PA=/fit-in/200x150/pic2266375.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/_77Je9xapy3oTkVYHtXpIlYdTk8=/0x0/pic2266375.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Qwixx gemixxt" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Qwixx Le grand Mix!" />
+			    				
+				<name type="alternate" sortindex="1" value="Qwixx Mixx" />
+			
+						               													<description>Qwixx gemixxt consists of two new blocks of scoresheets for use with Qwixx. The rules of the game remain the same &amp;mdash; with players trying to mark off as many numbers as possible from left to right &amp;mdash; but one pad has the colors split across the rows of numbers while the other pad has the numbers in non-numerical order. Heresy!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="5">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="171" value="No necessary in-game text" numvotes="3" />
+					<result level="172" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="173" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="174" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="175" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="46217" value="Qwixx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="41222" value="Roll-and-write" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="131260" value="Qwixx" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="151835" value="Qwixx: Das Kartenspiel" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11781" value="Steffen Benndorf" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11901" value="Oliver Freudenreich" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="66181" value="Sandra Freudenreich" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="155" value="Gigamic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1020" value="Nürnberger-Spielkarten-Verlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="466" />
+			<average value="6.69824" />
+			<bayesaverage value="5.83022" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.83022" />
+												</ranks>
+
+			<stddev value="1.20869" />
+			<median value="0" />
+			<owned value="1207" />
+			<trading value="7" />
+			<wanting value="12" />
+			<wishing value="49" />
+			<numcomments value="98" />
+			<numweights value="16" />
+			<averageweight value="1.0625" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

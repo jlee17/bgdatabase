@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="168530">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/4y4VEJwCFTkmFNbiubxAQbOOEgU=/fit-in/200x150/pic2291811.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/b7ve5nj3B6erMeODY-gnMS72_Pg=/0x0/pic2291811.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Traveller Ascension: Imperial Warrant" />
+			
+						                           
+						               													<description>&amp;ldquo;The Long Night ends, the Ascension begins!&amp;rdquo; &amp;ndash; CLEON, EMPEROR OF THE IMPERIUM&amp;#10;  &amp;#10;It is the dawn of the Third Imperium. The Solomani War has ended, and the vast Terran empire claimed from the Valani has finally crumbled. Worlds spread throughout distant sub-sectors of space have lost all communications; they either survived or fell into darkness during the Long Night. The Valani empire has been biding its time, licking its wounds from the war. At last, the Emperor has decreed the Ascension; a reclamation of lost, but not forgotten, worlds the Solomani left behind. It is through you that the Emperor will reach out and reclaim what was once his. &amp;#10; Traveller Ascension&amp;trade;: Imperial Warrant lets you take the helm of untold adventures, space-faring exploration and the thrill of uncovering long-lost riches left from the First Imperium. Granted an Imperial Warrant from the Emperor, you will Expand, Explore and Exploit any surviving world and bring it back into the Imperium&amp;rsquo;s fold. Rewards come only to those who are bold enough to seize this once-in-a-lifetime opportunity.re, to Expand and to Exploit this new area for the glory of the Imperium&amp;hellip; and for your own fame and glory.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1113" value="Space Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Card Drafting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="271229" value="Traveller Ascension: Imperial Warrant – Expansion 1" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="272038" value="Traveller Ascension: Imperial Warrant – Expansion 2" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="44280" value="Terry Coleman" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28504" value="Daring Play" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="7" />
+			<average value="6.64286" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="2.48875" />
+			<median value="0" />
+			<owned value="33" />
+			<trading value="1" />
+			<wanting value="8" />
+			<wishing value="34" />
+			<numcomments value="7" />
+			<numweights value="3" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

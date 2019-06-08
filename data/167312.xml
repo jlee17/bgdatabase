@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167312">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/z0ngkiyGZpSqYxo8j2bEZ8pZHgY=/fit-in/200x150/pic2344270.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/J7B1ulc9NS5QnCIY-TtWqutZ4aA=/0x0/pic2344270.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Dungeons: The Eye of Draconus" />
+			
+						                           
+						               													<description>Are you ready for a multiplayer, early 90's, arcade brawler experience? Then mount up, charge your abilities and ready yourself for a Golden Axe parody, with a serious pair of unicorn balls!&amp;#10;&amp;#10;Dungeons the Eye of Draconus is a one to three player retro arcade style brawler, with both local and online multiplayer support, complete with mounts; multiple attacks, and varied gameplay, all reminiscent of Battle Toads and TMNT Arcade.&amp;#10;&amp;#10;With a variety of enemies filling every stage, boredom is kept at bay as you and your friends battle through a bizzare fantasy world. A hilarious story, complete with cut scenes, dialogue sequences and professional voice acting.&amp;#10;&amp;#10;Join Gleobryn the cleric, Rose the thief and Bolax the barbarian as they journey through ancient mountains, fight primitive Kobolds, raid an orkish fraternity and deal with all kinds of crazy characters in, &amp;quot;Dungeons the Eye of Draconus&amp;quot;.&amp;#10;&amp;#10;Source: The Developer Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2147" value="Action" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2152" value="Adventure" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2509" value="Comedy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="3" />
+						               				<releasedate value="2014-08-11" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28329" value="SuckerFree Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28329" value="SuckerFree Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="3" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166232">
+                                     				
+				<name type="primary" sortindex="1" value="RPG Maker 3" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="RPG Tsukuru" />
+			
+						               													<description>RPG Maker 3 is the third PlayStation version of the RPG Maker series. It is the second game in the series released on the PlayStation 2. It is a Role Playing Game.&amp;#10;&amp;#10;RPG Maker 3 features a major change from its predecessors switching from traditional bitmap graphics to 3D graphics. The game also features an advanced trigger system, different layouts for areas, and a variety of other features that requires extensive time to learn. 'Event' commands return, with several upgrades, such as 'conditional' events.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;RPG Maker 3&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4434" value="PlayStation 2" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2155" value="RPG" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2315" value="Sandbox" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2004-12-16" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28168" value="Runtime" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="12104" value="Agetec" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="10063" value="Enterbrain" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4434" name="playstation2" friendlyname="PlayStation 2 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="4" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

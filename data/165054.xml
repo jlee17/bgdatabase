@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165054">
+                                     				
+				<name type="primary" sortindex="1" value="Totally Spies!" />
+			
+						                           
+						               													<description>From Wikipedia,&amp;#10;&amp;#10;Totally Spies will allow you to play with the 3 typical Beverly Hills girls who secretly work for the WOOHP (World Organization Of Human Protection). Jerry will provide you some high-tech gadgets as the lipstick-microphone or the multi-function Charm Bracelet. Your mission is to prevent earth from a global crisis: infiltrating a chemical site, pursuing on a snow bike criminal, saving hostages, and protecting celebrities.&amp;#10;&amp;#10;http://en.wikipedia.org/wiki/Totally_Spies!_(video_game)&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4423" value="Game Boy Advance" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2147" value="Action" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2164" value="Platform" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2283" value="Spy / Espionage" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="25772" value="Totally Spies!" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2005-11-15" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="17252" value="Mistic Studios" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11465" value="Atari, Inc." />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4423" name="gameboyadvance" friendlyname="Game Boy Advance Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

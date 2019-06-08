@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165441">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/qFj9TsVIJokCG_pPZn07gR9kjJQ=/fit-in/200x150/pic3113129.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/A3T7ljh_bzJc1isOakoP0GMYAwk=/0x0/pic3113129.jpg</image>
+                                     				
+				<name type="primary" sortindex="5" value="The Desolate Hope" />
+			
+						                           
+						               													<description>User Summary&amp;#10;&amp;#10;The Desolate Hope mixes several gameplay styles from a platformer to an 8-bit overhead dungeon crawler to a JRPG style battles.&amp;#10;&amp;#10;An unmanned research vessel sent from Earth constructed the Lun Infinus station that was designed to explore possibilities of human colonization, with five sentient computers, Derelicts. The project was later abandoned. During the years, a strange computer virus has emerged and the virus of unknown origins has been slowly ravaging the Derelicts. More than 30 years later, Coffee is the last mobile resident of the station, a small service robot who spends his days keeping the station and the Derelicts operational, while fighting the virus attacks.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2152" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2164" value="Platform" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2155" value="RPG" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-05-05" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="14029" value="(Self-Developed Video Game)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="6.75" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.25" />
+			<median value="0" />
+			<owned value="8" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167327">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/KnyZJHFtap_vOWSuGbjUVncTpNY=/fit-in/200x150/pic3465367.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/LB1RJDcAECkW_b5_-zfBoHRX5qo=/0x0/pic3465367.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Florensia" />
+			
+						                           
+						               													<description>&amp;quot;Florensia is a free-to-play role playing game and a fantasy game with islands and the vast ocean. &amp;#10;In this free-to-play MMORPG fantasy game, you can choose between 12 character classes and build your own ship by selecting from five different ship types.&amp;#10;&amp;#10;In the online role playing game Florensia, you can discover the various islands while increasing your land and sea level. &amp;#10;Meet the international community in Florensia, post in the forum and be friends with players from the entire Western Global world in Florensia&amp;rsquo;s anime fantasy game forum with fun and great discussions about the game.&amp;quot;&amp;#10;&amp;#10;Source: The Publisher Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2162" value="MMO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2155" value="RPG" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2278" value="Anime" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2341" value="Pirates" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2327" value="Massively Multiplayer" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="0" />
+						               				<releasedate value="2008-10-16" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="35822" value="AHA Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28339" value="NETTS Co., Ltd." />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28337" value="alaplaya" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="35821" value="GamesInFlames" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="6" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

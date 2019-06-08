@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167206">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/kRkIy_GbcOYjsZHtwzQXmLeo-uE=/fit-in/200x150/pic2623646.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/zZ2gs6iDWWGtfH6YfN-Ga2_Inak=/0x0/pic2623646.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="In Exilium" />
+			
+						                           
+						               													<description>In Exilium is a hack &amp;amp; slash role playing game in the same vein as games like Diablo, yet focuses on minimalism, exploration and discovery as opposed to creating an expansive RPG environment.  It is a simple, exploration driven experience, comprised of action based combat, character attribute customization and random item generation to accommodate many diverse play styles. There are many enemies and bosses to defeat as well as plenty of puzzles to solve and secrets to explore. There is no hand-holding throughout the game, everything must be discovered by the player.&amp;#10;&amp;#10;You play as a king who has been exiled to a strange, hostile world by an unknown force. There are no other characters and no quests to help you along the way. Only through exploration can you learn why you were exiled and how to return&amp;hellip;&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;User addition&amp;#10;&amp;#10;The game has a single-player campaign and an online multiplayer battlefield, which functions as competitive matches.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5248" value="Linux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2339" value="Action RPG" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="0" />
+						               				<releasedate value="2014-08-25" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28305" value="Conflux Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28305" value="Conflux Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

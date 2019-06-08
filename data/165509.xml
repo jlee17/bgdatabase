@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165509">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/cXnX1Qy6NzXTf3UQpip2l76g1AQ=/fit-in/200x150/pic2673361.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/JplJHF0GbntUR9qY5vH9pSL7glM=/0x0/pic2673361.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="LYNE" />
+			
+						                           
+						               													<description>Deceptively simple. Infinitely complex. LYNE is a minimalist puzzle game that will knot your brain as it calms your soul. Connect the shapes. Fill the board. Lose yourself in the interflowing paths of LYNE.&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6063" value="Android" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6826" value="iPad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4443" value="iPhone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5248" value="Linux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2165" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2455" value="Abstract" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="0" />
+						               				<releasedate value="2014-03-17" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="12" />
+			<average value="7.16667" />
+			<bayesaverage value="5.90305" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="3013" bayesaverage="5.90305" />
+																				<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="239" bayesaverage="6.2879" />
+											<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="572" bayesaverage="6.09929" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="1530" bayesaverage="6.01289" />
+											<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="218" bayesaverage="6.3296" />
+											<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="152" bayesaverage="6.38179" />
+											<rank type="family" id="6826" name="ipad" friendlyname="iPad Rank" value="238" bayesaverage="6.30087" />
+												</ranks>
+
+			<stddev value="1.26381" />
+			<median value="0" />
+			<owned value="30" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

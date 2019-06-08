@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166234">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/4xLvMswTqZynTr9u79n-L5UheiI=/fit-in/200x150/pic2357796.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/O6Fnqfa41ZUkfQyyA3xKPl4W3lw=/0x0/pic2357796.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Lexica" />
+			
+						                           
+						               													<description>The unique word puzzle which combines the skill of Sudoku with the knowledge of Scrabble&amp;reg;. Lexica has been featured in a number of UK daily newspapers but is now available for the first time in an interactive form.&amp;#10;Slide the letters into position to form words and solve the puzzle. It&amp;rsquo;s easy to get started, watch the tutorial, pick a level of difficulty to suit you and get puzzling. Improve your times, work through the levels and become a Lexica word master. Lexica is packed with word puzzles in 3 levels of difficulty.&amp;#10;&amp;#10;Key Features&amp;#10;&amp;#10;Great interactive tutorial to help you learn the ropes quickly and easily&amp;#10;&amp;#10;12 puzzles per pack with 8 packs for each difficulty level!&amp;#10;&amp;#10;3 levels of difficulty &amp;ndash; easy, medium and hard &amp;ndash; take you from novice to expert&amp;#10;&amp;#10;A total of 288 rounds to play throughout!&amp;#10;&amp;#10;Measure your progress with live stats and ratings&amp;#10;&amp;#10;Run in small window mode for a quick challenge while using other applications&amp;#10;&amp;#10;Complete all 13 Steam achievements to prove your skills to friends!&amp;#10;&amp;#10;Source: The Developer Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2165" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2455" value="Abstract" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-07-04" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="27412" value="Merge Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="27412" value="Merge Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4" />
+			<average value="4.75" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.29904" />
+			<median value="0" />
+			<owned value="9" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="1" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

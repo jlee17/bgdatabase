@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166118">
+                                     				
+				<name type="primary" sortindex="1" value="Darkfall Unholy Wars" />
+			
+						                           
+						               													<description>Darkfall Unholy Wars is a massively multiplayer online role-playing game developed by Aventurine SA. It was announced on 18 September and is a sequel to Darkfall. It is a PvP MMORPG where players are encouraged to form clans and battle for dominance across Agon, the fantasy world in which the game takes place.&amp;#10;&amp;#10;The initial launch date was 20 November 2012, but it was postponed.&amp;#10;&amp;#10;On 28 November 2012, Darkfall Unholy Wars was submitted on Steam Greenlight. Two days later, the game was greenlit by the community.&amp;#10;&amp;#10;On 11 December, Aventurine announced another launch delay due a several internal and external factors. Instead of commercial release, the company decided to offer beta access to all customers who would pre-order the game. After a lengthy 5-month beta, the game was released on 16 April 2013.&amp;#10;&amp;#10;Interface&amp;#10;&amp;#10;The Darkfall Unholy Wars Graphical User Interface was mostly based on First-person shooter and action games.&amp;#10;&amp;#10;Character progression&amp;#10;&amp;#10;The character progression system in Darkfall Unholy Wars is based on prowess. Prowess can be gained from any game interaction. The amount of prowess that a player gains depends on the difficulty or rarity of each achievement. It can be used as a form of currency to acquire different skills and boosters while spending prowess is the only way to improve the character's attributes, combat, and harvesting skills.&amp;#10;&amp;#10;Roles and skills&amp;#10;&amp;#10;The new roles system introduced in Darkfall Unholy Wars requires the player to pick up a role, along with 2 schools from that specific role. One of the schools is set by the player as the primary and the other as the secondary, and each school contains 4 skills/spells, and the ultimate, the most powerful in that school.The biggest difference between the primary and secondary schools is that you can only use the ultimate from your primary school. The skills/spells available in the secondary school have full potential, but require more mana and stamina, and have increased cooldowns and charging times compared to the primaries.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Darkfall Unholy Wars&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2339" value="Action RPG" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2162" value="MMO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2155" value="RPG" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="0" />
+						               				<releasedate value="2013-04-25" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="14942" value="Aventurine S.A." />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="14942" value="Aventurine S.A." />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167016">
+                                     				
+				<name type="primary" sortindex="1" value="Speed Kings" />
+			
+						                           
+						               													<description>User Summary&amp;#10;&amp;#10;Speed Kings is an arcade racer featuring motorcycles.  The game draws it's inspiration from the Road Rash series, but adds plenty of new features including: stunts, unlockable tracks, and mirror image courses.  The game features several game modes to get you into the action:&amp;#10;&amp;#10;-Single Race: Just jump right in and run a quick race against several brutal &amp;#10;-License: Practice and perfect the twitch skills you'll need to be competitive  on the track.&amp;#10;-Meets: Compete in a 3 track series, to be the best. Unlock additional tracks by finishing high enough&amp;#10;-Trick Attack:  Pull off the required stunts within the time limit&amp;#10;-Time Attack:  Race against the clock&amp;#10;-Head to head: You against your opponent in a one on one race to see who is the true speed king&amp;#10;-Multiplayer: All of the above against up to 4 other players&amp;#10;-Grand Prix: an unlockable mode with up to 40 races&amp;#10;&amp;#10;The game includes 22 different sport bikes; customizable Alpinestar leathers and Shoei helmets; new tracks; and a respect system where you earn points for completing in-race challenges.&amp;#10;&amp;#10;In addition to having to beat other racers, Speed Kings challenges you to maintain control of your bike while dealing with traffic, having to fight other riders, avoid obstacles, and even powerslide under tractor trailers.  You'll have to have good reflexes to avoid being a greasy spot on the pavement, much less win a race.  Jumps, powerslides, and even police chases will keep you on your toes in Speed Kings.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4425" value="GameCube" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4434" value="PlayStation 2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4442" value="Xbox" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2154" value="Racing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2546" value="Sports - Motorcycling" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						               				<releasedate value="2003-05-01" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="12825" value="Climax Entertainment" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="3233" value="Acclaim Entertainment Inc." />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="6.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4425" name="gamecube" friendlyname="GameCube Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4434" name="playstation2" friendlyname="PlayStation 2 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4442" name="xbox" friendlyname="Xbox Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

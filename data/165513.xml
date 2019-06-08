@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165513">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/umAEFoFrW9vHX50bEwdX-X7MY6w=/fit-in/200x150/pic3436240.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/C_flmfdGpxaqrYaFfZ3BNisrZzg=/0x0/pic3436240.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Velocity 2x" />
+			
+						                           
+						               													<description>User Summary&amp;#10;&amp;#10;An action game mixing shoot-em'up with run'n gun sections, Velocity 2X is the sequel to Velocity Ultra and features 50 levels. The main concepts behind the game are speed-running and collectibles. Indeed, levels are generally not hard to complete, the real challenge lying in perfecting them by shooting all enemies, collecting all items and reaching the end within a strict time limit.&amp;#10;&amp;#10;The story involves Kai Tana, a female pilot, who is captured by Aliens and must escape them. She'll be helped by the unique bond she has formed with her spaceship, as well as teleporting abilities.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="21674" value="PlayStation 4" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="10373" value="PlayStation Vita" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2147" value="Action" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2164" value="Platform" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2505" value="Shoot 'em Up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2331" value="Space" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="25824" value="Velocity" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-09-02" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="25532" value="FuturLab" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="25532" value="FuturLab" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="10274" value="Sierra Entertainment Inc." />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5" />
+			<average value="7.2" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="4642" bayesaverage="5.71303" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="10373" name="playstationvita" friendlyname="PlayStation Vita Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="21674" name="playstation4" friendlyname="PlayStation 4 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.6" />
+			<median value="0" />
+			<owned value="34" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="4" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="168203">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/6RsgBzKsAIIdHZtW_5M7jUqDW4Y=/fit-in/200x150/pic2288238.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/_VzOQWX3OoCUJK7yQuUzY3APNno=/0x0/pic2288238.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Wilde Wikinger: Schatzjagd" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Feroces vikingos: ¡A la caza del tesoro!" />
+			    				
+				<name type="alternate" sortindex="1" value="Super Mini Redoubtables: Vikings" />
+			    				
+				<name type="alternate" sortindex="1" value="Vichinghi selvaggi: Caccia al tesoro!" />
+			    				
+				<name type="alternate" sortindex="1" value="Wild Vikings: Treasure Hunt" />
+			    				
+				<name type="alternate" sortindex="1" value="Wilde Vikingen: Schattenjacht" />
+			
+						               													<description>Played with a grid of 30 tiles, each showing either a colored treasure or the Loch Ness monster. Players take turns rolling a die, then revealing as many tiles as they wish. The player may keep all treasures that match the color on the die. If at any point the player reveals the Loch Ness monster, then her turn ends and the tiles are returned face-down to the table.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2012" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll> 			               				<playingtime value="10" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="10" />
+						               				<minage value="5" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1041" value="Children's Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1045" value="Memory" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11506" value="HABA Superminis series" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5613" value="Vikings" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="3990" value="Wolfgang Dirscherl" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11825" value="Michael Menzel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="384" value="HABA" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="8" />
+			<average value="7.075" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.51719" />
+			<median value="0" />
+			<owned value="16" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

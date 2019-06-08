@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogamecompilation" id="165606">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/Fbxwa5t--vgRpXvcNvehIEsctRw=/fit-in/200x150/pic4359465.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/IGkVkJ3y7V_xGipJt-lybCDLvH8=/0x0/pic4359465.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Stronghold HD" />
+			
+						                           
+						               													<description>A re-release of Stronghold made for modern monitor resolutions. In addition, the Stronghold Excalibur Pack (a free extra download) is directly included in the game.&amp;#10;&amp;#10;A patch is available from the publisher to turn the original game into this version.&amp;#10;&amp;#10;&amp;#10;Stronghold HD updates the classic castle building game from Firefly Studios with high definition graphics, allowing generals to view an entire battlefield on a single screen.&amp;#10;&amp;#10;With 21 missions to test your mettle and four renegade lords to defeat, it is up to you to reunite medieval England. Missions range from breaking sieges and capturing enemy castles to raising gold and holding off enemy attacks. Also featured is an economic campaign, with missions revolving around gathering resources and building weapons within a time limit.&amp;#10;&amp;#10;Are your peasants revolting? Well if you don't look after them they will be! As a Lord you will need to build up enough resources to keep your population happy and your taxes paid. Making sure your subjects have a house to sleep in, food on the table and a job to do is vital for keeping them happy and maintaining your popularity rating. A decent supply of ale and a small amount of entertainment will also help! Don't forget the Ale. Your villagers all like a drink.&amp;#10;&amp;#10;With new high resolution graphics players also have more control over their soldiers than ever before. The new HD battlefield view allows you to zoom out and play in real-time, with the whole map on one screen. Advance on the castle gates while flanking the enemy from behind, feign retreat and lead your foe into a deadly trap or just sit back and watch the destruction unfold.&amp;#10;&amp;#10;&amp;#10;     Feel the atmosphere of real medieval warfare&amp;#10;     Fight through 21 story-based military missions and a second economic campaign&amp;#10;     Besiege famous historical castles in unique game modes&amp;#10;     Play through the Excalibur Expansion Pack, with new historical castles, invasions and user-created maps&amp;#10;     Experience classic Stronghold gameplay in HD and view the entire battlefield on a single screen&amp;#10;     Flank the enemy without having to take your eyes off your attacking soldiers&amp;#10;&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2458" value="Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2166" value="Real Time Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2345" value="Historical" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2284" value="Medieval" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="6894" value="Stronghold" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="8" />
+						               				<releasedate value="2012-11-01" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="13870" value="Firefly Studios" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="13870" value="Firefly Studios" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="78846" value="Stronghold" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="7.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.5" />
+			<median value="0" />
+			<owned value="29" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="3" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

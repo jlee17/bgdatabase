@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="167878">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/_t97heGCY9kT8CDx6-cLs0JuvFo=/fit-in/200x150/pic2276078.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/x6--Vc7Xx0r9C5G8Yy-irN5nRno=/0x0/pic2276078.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Quick Backgammon" />
+			
+						                           
+						               													<description>Quick Backgammon is two games in one box. The first game is QuickGammon, a scaled down variant of backgammon that has fewer pieces and fewer points on the board, and uses d4 dice. Quickgammon is an introductory game to teach children and beginners the principles of backgammon.&amp;#10;&amp;#10;Also included in the box is a standard backgammon board, and the game includes d6 dice and enough pieces to play the standard game.&amp;#10;&amp;#10;[User summary from game box and rules.]&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1997" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="5" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2035" value="Roll / Spin and Move" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="4023" value="Gammon" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="78676" value="Joe Miccio" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2309" value="Amerigames International" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3" />
+			<average value="6.33333" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="3.85861" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

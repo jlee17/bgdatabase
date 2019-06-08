@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="rpgitem" id="165486">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/_ij4VND1-3ehr1BHNht1v1khD7g=/fit-in/200x150/pic2233238.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/0KrHGXOOtJFHZG_S8rDMYW3D9WA=/0x0/pic2233238.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="CyberFUDGE" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="rpg" id="204" value="Fudge" />
+		
+									
+			
+
+			               													<description>from the Introduction&amp;#10;&amp;#10;Hello. My name is David Jaquith Jr. I&amp;iacute;ve been making RPGs for quite a long time now.  This is the first one that I&amp;iacute;m actually going to try to publish on the web. I hope it meets your expectations. I wanted to take a basic Fantasy RPG and cross it with my favorite genre, Cyberpunk. I hope I mix the two genres nicely.&amp;#10;&amp;#10;</description>
+										               				<yearpublished value="2002" />
+						      				
+		 			
+
+			
+		
+					<link type="rpggenre" id="961" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpggenre" id="164" value="Science Fiction (Cyberpunk)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			               				<seriescode value="" />
+						      				
+		 			
+
+			
+		
+					<link type="rpgcategory" id="2083" value="Core Rules (min needed to play)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="rpgmechanic" id="2680" value="Dice (Primarily Fudge/dF)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgmechanic" id="2100" value="Point Based (allocate points to get skills, powers, etc)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgmechanic" id="2094" value="Skill Based (buy or gain skills)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="rpgpublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="rpgdesigner" id="77833" value="David Jaquith, Jr." />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="rpgartist" id="3" value="(Uncredited)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="rpgproducer" id="77833" value="David Jaquith, Jr." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="16" name="rpgitem" friendlyname="RPG Item Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

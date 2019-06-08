@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="168097">
+                                     				
+				<name type="primary" sortindex="1" value="Arlan&#039;s Happy Birthday Adventure" />
+			
+						                           
+						               													<description>This is a choose-your-own-adventure story about Arlan's Birthday.&amp;#10;&amp;#10;Like many choose-your-own-adventures, the majority of the choices lead to death because there is only one option the author really wants you to get, so he makes the story end if you don't choose the one he wanted you too -- or because it was too much writing for the author to make every choice actually lead somewhere and he was too stupid to make there be fewer, but more meaningful choices.&amp;#10;&amp;#10;Most likely, due the low-budget nature of most choose-your-own-adventures, there will be miss-linked paged, unfinished paths, and copiuos typos.&amp;#10;&amp;#10;So you will embark, thinking the idea of a story where you can choose your path sounds cool, and finish irritated at having wasted your time on a storytelling gimmick that just doesn't work.&amp;#10;&amp;#10;But its really funny and cool, trust me. Reviewers raved. Happy Birthday.&amp;#10;&amp;#10;Source: The Publisher Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6178" value="Software Interpreter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5084" value="Web Browser" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2168" value="Text Adventure" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2509" value="Comedy" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-09-20" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="14029" value="(Self-Developed Video Game)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28416" value="textadventures.co.uk" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="5084" name="webbrowser" friendlyname="Web Browser Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6178" name="softwareinterpreter" friendlyname="Software Interpreter Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

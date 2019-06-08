@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="167566">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/YU2h_9XCsOb-CEVbWsXgCHbitNA=/fit-in/200x150/pic2698855.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/T3hRiBYLgGsGxbx4WPvZnxWIiko=/0x0/pic2698855.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Jiku Kansho" />
+			
+						                           
+						               													<description>Jiku Kansho is a game about controlling the future by affecting the present and the past. Players choose and keep special properties which potentially affect the future. These properties would bring you more properties, avoid an unexpected future, or block your rivals. When the farthest future is reached, the player with the most valuable properties wins the game. However your aim isn't just to have more and more properties. The value of a property will be chosen by the future. So, choose your future!&amp;#10;&amp;#10;What's the meaning of the title Jiku-Kansho?&amp;#10;The direct translation of the title is 'Interfere of Time and Space'. Jiku = Time and Space, Kansho = Interfere.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Route/Network Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2079" value="Variable Phase Order" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="71197" value="Tomoki Motohashi" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71197" value="Tomoki Motohashi" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26061" value="Takoashi Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="12" />
+			<average value="7.54167" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.39132" />
+			<median value="0" />
+			<owned value="35" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="3" />
+			<numcomments value="2" />
+			<numweights value="1" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

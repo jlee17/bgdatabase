@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166230">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/rFSa7T8rWdfKa7USqv8LRYF1dYg=/fit-in/200x150/pic3740997.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/ckyoFb1immH8eYpIgZU1l0IK07I=/0x0/pic3740997.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="RPG Maker 2" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="RPG Tsukuru 5" />
+			
+						               													<description>RPG Maker 2 is the second PlayStation version of the RPG Maker series, following RPG Maker 1, and is the first version of the series to be released for the PlayStation 2. Later, RPG Maker 3 would be released, becoming the second game in the series for PlayStation 2.&amp;#10;&amp;#10;RPG Maker 2 was the first RPG Maker game to use fully 3D graphics, however, the graphical quality of the game suffered&amp;mdash;during movement, a visible 'blur' was present. The game uses super deformed character models outside of battle, and more realistic (though still fairly cartoony) models in battle.&amp;#10;&amp;#10;By going online, or using the Prima guide, users can access various fan pages, and (with practice and effort) create a playable game.&amp;#10;&amp;#10;FuMa is the sample game given in RPG Maker 2. The purpose of the game is to give the player an idea of how a fully completed game operates. To edit Fuma in the editor, press Circle, X, Up, Left, Down, Right, Square, Triangle after selecting Fuma in the Load Data menu. The Fuma information is to help the user learn how to master the complex scripts involved in basic events such as inns, shops, boss battles, and others.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;RPG Maker 2&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4434" value="PlayStation 2" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2155" value="RPG" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2315" value="Sandbox" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2002-08-08" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="21963" value="Kuusou Kagaku" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="12104" value="Agetec" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="10063" value="Enterbrain" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4434" name="playstation2" friendlyname="PlayStation 2 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="5" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

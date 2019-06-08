@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165407">
+                                     				
+				<name type="primary" sortindex="1" value="Pro Cycling Manager Season 2011: Le Tour de France" />
+			
+						                           
+						               													<description>Pro Cycling Manager 2011 is a cycling video game, released on June 23, 2011. The game is being released for Windows (management game). For the first time ever the game will also come to the PlayStation 3 and Xbox 360 consoles.&amp;#10;&amp;#10;Some new features in the 2011 edition moves the focus onto the race protagonists themselves: the riders.[4] The 3D rider models have been made more realistic. Bike geometries have, in turn, been adapted to the new graphics and now a wide variety of frames and wheels are displayed. The more lifelike appearance of riders was mirrored by more lifelike behaviour, brought about by improvements to the game AI and race physics. The management part of &amp;quot;Pro Cycling Manager - Season 2011&amp;quot; has also received an updated interface. Inside this new management GUI the player will have greater interaction with the sponsors inside the game. Online multi-player mode will also return.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Pro Cycling Manager 2011&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2154" value="Racing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2156" value="Simulation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2545" value="Sports - Bicycling" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="10377" value="Pro Cycling Manager" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="0" />
+						               				<releasedate value="2011-07-23" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="12894" value="Cyanide Studio" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="12888" value="Focus Home Interactive" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

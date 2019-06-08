@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165770">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/6QeWdAX4vb3dDYHZydrb_tPdaLE=/fit-in/200x150/pic4019279.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/6f_hLnwNCtnmbhfhDqPDc8FR3tA=/0x0/pic4019279.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Overgrowth" />
+			
+						                           
+						               													<description>Overgrowth picks up where Lugaru left off, with the world in a state of de facto anarchy. After killing the corrupted king, Turner refused to take his place, instead choosing to leave the monarchy headless and wander the island in search of some new purpose.&amp;#10;&amp;#10;Overgrowth's setting appears to build on that premise, as concept art shows a chaotic world with tall structures overrun by vegetation, and inhabited by fierce rabbits, wolves, rats, cats and dogs, trying to survive with simple weapons and makeshift armor.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;[en.wikipedia.org/wiki/Overgrowth Overgrowth]&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2161" value="Action Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2155" value="RPG" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2336" value="Furries / Talking Animals" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="25819" value="Lugaru" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2017-10-16" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="13744" value="Wolfire Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="13744" value="Wolfire Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="14" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="3" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

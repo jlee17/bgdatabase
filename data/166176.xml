@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166176">
+                                     				
+				<name type="primary" sortindex="1" value="We Sing UK Hits" />
+			
+						                           
+						               													<description>The gameplay is similar to the SingStar set of video games. Players are required to sing along with music in order to score points, matching pitch and rhythm. The game has anticheat technology whereby tapping or humming will register on the screen but no points will be awarded. We Sing UK Hits also contains the addition of 'Star Notes' that allow the player to score even more points by matching the pitch and rhythm of certain hard to score parts of songs.&amp;#10;&amp;#10;40 full licensed songs with music videos where available&amp;#10;Solo Mode&amp;#10;Multiplayer modes - Group Battle, We Sing, Versus, Pass the Mic, First to X, Expert, Blind, Marathon.&amp;#10;Real Karaoke mode&amp;#10;Jukebox mode&amp;#10;Singing Lessons&amp;#10;Award System&amp;#10;Customisable backgrounds&amp;#10;Four Microphones&amp;#10;Integrates with a USB hub&amp;#10;Due to hardware limitations with the Wii only having two USB ports, a USB hub is shipped with certain retail versions to add more USB ports. The game uses the standard logitech USB microphone for the Wii.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;We Sing UK Hits&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4441" value="Wii" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2163" value="Rhythm" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2316" value="Music" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="7583" value="We Sing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						               				<releasedate value="2011-09-30" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="13468" value="Le Cortex" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="13469" value="Nordic Games Publishing AB" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4441" name="wii" friendlyname="Wii Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

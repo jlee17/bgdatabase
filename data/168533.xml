@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgameexpansion" id="168533">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/86yFSsCWi3rSjh17t7CrT9WBwCI=/fit-in/200x150/pic2291308.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/5f2opkwjfZLpF0Htx3mIIeKknYs=/0x0/pic2291308.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Saint Petersburg (second edition): The Exclusive Spieleschmiede Expansion" />
+			
+						                           
+						               													<description>A set of five counters, one in each player color. Each counter allows a player once during the game to refill the display up to 10 cards (only during the nobles or exchange rounds), or is worth 3VP at the end of the game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="5+">		
+				</results>					
+	</poll> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="286" value="No necessary in-game text" numvotes="1" />
+					<result level="287" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="288" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="289" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="290" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2726" value="Age of Reason" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Card Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22135" value="Crowdfunding: Spieleschmiede" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="156943" value="Saint Petersburg (second edition)" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="133" value="Hans im Glück" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="23" />
+			<average value="6.34783" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.34677" />
+			<median value="0" />
+			<owned value="191" />
+			<trading value="4" />
+			<wanting value="28" />
+			<wishing value="36" />
+			<numcomments value="8" />
+			<numweights value="1" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

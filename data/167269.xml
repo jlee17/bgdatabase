@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167269">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/LAYgu9_da6zOM8kLIRHNHR23QZ0=/fit-in/200x150/pic3025009.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/GqwFtvIDhLOlBS1GTjWfS-eUMK8=/0x0/pic3025009.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="8BitBoy" />
+			
+						                           
+						               													<description>8BitBoy - A tribute to my favorite games!&amp;#10;&amp;#10;Growing up in the late eighties, I guess it&amp;rsquo;s no secret where I got my inspiration from. My favorite games from that era were Giana Sisters, Wonderboy in Monsterland, Psycho Fox, Rick Dangerous, Megaman, Super Mario Bros and Sonic the Hedgehog. Each of these games has contributed to 8BitBoy in one way or another. 8BitBoy doesn&amp;rsquo;t feel like any of the mentioned games in particular, but has elements from each of them.&amp;#10;&amp;#10;It was crucial to me that this was going to be a full featured game and not some kind of short app game that is finished in an hour or two. So the game ended up having 12+ hours of main story gameplay and a lot of replay value and on top of that more than 200 hidden locations. Half way through making the game, I realized that this was a pretty ambitious decision to make for a one man indie title. Now I know why most platform games are a lot shorter. That said I&amp;rsquo;m really proud of sticking with my initial plan and finishing this massive game.&amp;#10;&amp;#10;A personal story behind 8-Bit Boy&amp;#10;&amp;#10;The games storyline is somewhat based on my own story. Our hero is this depressed and unemployed 32-year old guy, who hasn&amp;rsquo;t been able to get a job after finishing his exams one year ago. Our hero gets sucked into this happy, vivid and colorful 8-bit world where he has to overcome many obstacles to help him out of the status quo of unemployment and help him support his family. So this is a personal story that deals with some adult issues like unemployment and feeling inadequate. Combine that with a vivid and colorful 8-bit world and you get something very different.&amp;#10;&amp;#10;This pretty much sums up my own story and I felt I had to do something about my own situation. To keep myself from going crazy from unemployment &amp;ndash; I started programming 8BitBoy while looking for a job. So you might say that I also got sucked into this parallel 8-bit world of my own.&amp;#10;&amp;#10;I really hope you will enjoy 8BitBoy as much I did making it.&amp;#10;&amp;#10;Source: The Developer Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2164" value="Platform" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2337" value="Cute Fantasy" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-05-05" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28322" value="AwesomeBlade" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28322" value="AwesomeBlade" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="4.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.5" />
+			<median value="0" />
+			<owned value="16" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

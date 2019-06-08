@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167169">
+                                     				
+				<name type="primary" sortindex="5" value="The Agent Saga: Rover Rescue" />
+			
+						                           
+						               													<description>Tying in with the Agent Saga universe, Rover Rescue is a prelude to The Agent Saga: Fractured.&amp;#10;&amp;#10;The Unified Earth organisation is one of a few government collectives, representing over 35 countries all working together for the common goal of human expansion throughout the solar system. The UE has a nascent human presence across most of the planets. Due to a &amp;ldquo;solar event&amp;rdquo;, contact has been lost with all the colonies, and the solar system is being bombarded with a system-wide meteor shower.&amp;#10;&amp;#10;With the colonies in an extremely perilous position, dangerously short on food and supplies, the UE Anaeis, carrying a fleet of UE Model D Rescue Craft, has been sent across all the planets to rescue as many of the colonists and civilians as possible. As one of the Commanders on board the UE Anaeis, you must guide all the escape vehicles to the nearest UE-D RC, protect them all from meteors, and save as many people as you can!&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6826" value="iPad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4443" value="iPhone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2147" value="Action" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2166" value="Real Time Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2013-09-21" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28292" value="Pointscape" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="26852" value="KISS Ltd" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6826" name="ipad" friendlyname="iPad Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

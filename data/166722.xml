@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166722">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/Fl6yrmMYoCxanJA-lyH7JwFUCwk=/fit-in/200x150/pic4349287.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/sbeeCUyAbeycyYRdN4pCN0Sb0A8=/0x0/pic4349287.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Meridian: New World" />
+			
+						                           
+						               													<description>User Summary&amp;#10;&amp;#10;You will be playing as Daniel Hanson, commander of the first expedition to planet Meridian. Uncover the dark secrets it holds, shape the world around you with every decision you make. Are you ready to shape the history of galactic colonization?&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2166" value="Real Time Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="44456" value="Meridian" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-04-04" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28242" value="Elder Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="15623" value="Headup Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="27412" value="Merge Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="8" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

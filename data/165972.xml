@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165972">
+                                     				
+				<name type="primary" sortindex="1" value="Pro Evolution Soccer 2013" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="PES 2013" />
+			
+						               													<description>Pro Evolution Soccer 2013 (also known as World Soccer: Winning Eleven 2013 in Japan and South Korea) is an association football video game and the latest edition of the Pro Evolution Soccer series, developed and published by Konami. The game was announced by Konami on April 18, 2012. For the first time of the series, all 20 teams from the Brazilian national league, Campeonato Brasileiro Serie A, are included in the game series. The UEFA Champions League features in the game. This is the last game to feature the current game engine.&amp;#10;&amp;#10;Release&amp;#10;&amp;#10;The demo version was released on 25 July 2012, followed by the retail version on 20 September 2012 in Europe (excluding the UK where it was released on September 21, 2012), and in North America on 25 September 2012. Cristiano Ronaldo from Real Madrid is featured for the front cover.&amp;#10;&amp;#10;The New Data Pack 4.00 was released on 7 March 2013 which includes all the January transfers.&amp;#10;&amp;#10;Reception&amp;#10;&amp;#10;Pro Evolution Soccer 2013 received fairly positive reviews, receiving an aggregated score of 81% from Metacritic. It also received 8.5 out of 10 from IGN for the PlayStation 3 and Xbox 360 version, as well as 8/10 from GameSpot.&amp;#10;&amp;#10;The game sold 399,000 copies in Japan in 2012&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Pro Evolution Soccer 2013&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5857" value="Nintendo 3DS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4434" value="PlayStation 2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4435" value="PlayStation 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4432" value="PSP" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4441" value="Wii" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4407" value="Xbox 360" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2157" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2373" value="Sports - Soccer" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="4910" value="Pro Evolution Soccer" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2313" value="Cooperative" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="16" />
+						               				<releasedate value="2012-09-25" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="1288" value="Konami" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="1288" value="Konami" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="7.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4407" name="xbox360" friendlyname="Xbox 360 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4432" name="psp" friendlyname="PSP Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4434" name="playstation2" friendlyname="PlayStation 2 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4435" name="ps3" friendlyname="PlayStation 3 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4441" name="wii" friendlyname="Wii Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5857" name="nintendo3ds" friendlyname="Nintendo 3DS Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.5" />
+			<median value="0" />
+			<owned value="7" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165569">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/gzBDFskOCDM4p4jLxJ_muJRL9ko=/fit-in/200x150/pic2644972.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/L8Pxbh-9BbzS1yKCMUGYuN_qj0o=/0x0/pic2644972.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Vitrum" />
+			
+						                           
+						               													<description>Vitrum is a 3D, first person, puzzle/platform game.&amp;#10;&amp;#10;The main character is an android designed to convert energy from crystals into powers. The android can absorb energy in each of his hands, allowing him to combine different powers. One of the coolest powers is the ability to invert the gravity, because it&amp;rsquo;s 3d and because the player can freely choose when and where to use it!&amp;#10;&amp;#10;Vitrum takes place in a desert laboratory full of different colored crystals. Some crystals grant powers, others are harmful to the android.&amp;#10;&amp;#10;The player will have to figure out how to use the crystals, solve the puzzles and finish each stage in Vitrum.&amp;#10;&amp;#10;Features:&amp;#10;&amp;#10;- Each crystal color represents a power, explore each color and discover every power the android can execute.&amp;#10;- Combine powers to solve more difficult puzzles.&amp;#10;- Explore 3D gravity inversion, materialization of crystal platforms, super high jumps and other powers.&amp;#10;- Avoid radioactive crystals, death crystals and others.&amp;#10;- Collect crystal shards to unlock Insane stages.&amp;#10;- More than 45 stages in the main campaign.&amp;#10;- Create and share your own stages using Vitrum Stage Editor.&amp;#10;- Play and rate others&amp;rsquo; stages.&amp;#10;&amp;#10;Source: The Developer Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2164" value="Platform" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2165" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2012-09-25" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28067" value="9heads Game Studios" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28067" value="9heads Game Studios" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="3" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogamecompilation" id="166671">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/X3bAj5Y4Q4RQ0HMJxll88KAksPc=/fit-in/200x150/pic778467.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/rPGcc_CHNy5lwvNonyTwDDm-OvI=/0x0/pic778467.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="LucasArts Archive Series: The Monkey Island Archives" />
+			
+						                               				
+				<name type="alternate" sortindex="5" value="The Monkey Island Bounty Pack" />
+			    				
+				<name type="alternate" sortindex="1" value="Monkey Island Collection" />
+			    				
+				<name type="alternate" sortindex="4" value="La Triologie Monkey Island" />
+			
+						               													<description>Later games published under the LucasArts Archives brand were budget-priced reissues of individual games, with the exception of Monkey Island Archives, which was a compilation of The Secret of Monkey Island, Monkey Island 2: LeChuck's Revenge, and The Curse of Monkey Island, released with The Curse of Monkey Island's box art.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;LucasArts Archives&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;User Summary&amp;#10;While the box and and wiki entry make it sound more like the first two games are included as distinct entities, the actual CDs in the box are Curse of Monkey Island and Monkey Island Madness (which is a compilation of the first two games).&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4714" value="DOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2152" value="Adventure" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2509" value="Comedy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2341" value="Pirates" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="5844" value="Monkey Island" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="5072" value="Monkey Island" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="0" />
+						               				<releasedate value="0000-00-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="12108" value="LucasArts" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="12108" value="LucasArts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11789" value="THQ" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="70952" value="The Curse of Monkey Island" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="165978" value="Monkey Island Madness" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="8" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4714" name="dos" friendlyname="DOS Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

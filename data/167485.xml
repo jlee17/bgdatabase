@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167485">
+                                     				
+				<name type="primary" sortindex="1" value="Cannon Brawl" />
+			
+						                           
+						               													<description>Cannon Brawl is a 2D action strategy game with big explosions and destructible terrain. Command the action from your airship to build cannons, capture mines, expand your territory and more. Choose from a multitude of buildings, cannons and towers to assemble a force that will rain destruction from the sky and defeat your enemy! Advance your military campaign across the map in single player mode, or duke it out in multiplayer mode.&amp;#10;&amp;#10;Key Features&amp;#10;&amp;#10;&amp;#10;     Completely destructible terrain and many ways to destroy it&amp;#10;     Full campaign mode with 20 missions, 10 puzzle levels, nightmare mode&amp;#10;     1v1 Local multiplayer&amp;#10;     Online Multiplayer&amp;#10;     10+ Unlockable airships, each with their own unique perk&amp;#10;     7 Multiplayer maps&amp;#10;     Choose from 15+ different weapons and defenses&amp;#10;     Keyboard and Gamepad support&amp;#10;     Dynamic battle music from Rich Vreeland&amp;#10;&amp;#10;&amp;#10;Source: The Publisher Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5248" value="Linux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2166" value="Real Time Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2284" value="Medieval" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="0" />
+						               				<releasedate value="2014-09-19" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28371" value="Turtle Sandbox" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28371" value="Turtle Sandbox" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

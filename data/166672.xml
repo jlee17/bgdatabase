@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166672">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/CvrX68ugzVFBV-PE3rt7KRLCy1o=/fit-in/200x150/pic3002642.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/WhkUHECJJEaFMmrdfxxwUpiZNnY=/0x0/pic3002642.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="OlliOlli2: Welcome to Olliwood" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="OlliOlli 2: Welcome to Olliwood" />
+			
+						               													<description>User Summary&amp;#10;&amp;#10;OlliOlli2 is the sequel to OlliOlli and continues to feature skateboarding and similar features to the first.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="21674" value="PlayStation 4" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="10373" value="PlayStation Vita" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2157" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2370" value="Sports - Skateboarding" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="25928" value="OlliOlli" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2015-03-03" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="26807" value="Roll7" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="26807" value="Roll7" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="205064" value="OlliOlli: Epic Combo Edition" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4" />
+			<average value="5.875" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="10373" name="playstationvita" friendlyname="PlayStation Vita Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="21674" name="playstation4" friendlyname="PlayStation 4 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.88331" />
+			<median value="0" />
+			<owned value="23" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogameexpansion" id="165756">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/3OuWjDoY3jB4FMmyxFgJuT7u1hQ=/fit-in/200x150/pic3865468.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/ql8TK9meiiPD7VkgGcnlJ-Yu0WU=/0x0/pic3865468.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Harpoon Designer&#039;s Series: Battleset Enhancer" />
+			
+						                           
+						               													<description>From the back of the box&amp;#10;&amp;#10;Now you can enhance the ultimate naval simulation and provide yourself with hours of exciting new Harpoon challenges! The Harpoon Designer's Serie creates new and enhanced version of the Harpoon BattleSets you already own (Harpoon BattleSets are each sold separately).  Each enhanced BattleSet contains 12 new scenarios giving you the ability to possess up to 48 additional scenarios created by experienced Harpoon Scenario Designers.&amp;#10;Additional countries and hundreds of new ship, submarine, and aircraft platforms give the veteran Harpoon user the ability to command naval and air forces that reflect the geopolitical changes of today's world.  Use the Harpoon Scenario Editor (also sold separately) to create your own scenarios using the new platforms and features of these enhances BattleSets.  A &amp;quot;must have&amp;quot; product for Harpoon users and scenario designers!&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4714" value="DOS" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2166" value="Real Time Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2158" value="Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2427" value="Alternate Historical" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2508" value="Military" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2542" value="Ocean / Sea" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2317" value="War - Modern" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="7262" value="Harpoon" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="1992-01-01" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="14208" value="Three-Sixty Pacific, Inc." />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="14208" value="Three-Sixty Pacific, Inc." />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameexpansion" id="165783" value="Harpoon Scenario Editor" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameexpansion" id="82180" value="Harpoon" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="9.25" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4714" name="dos" friendlyname="DOS Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.75" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="2" />
+			<averageweight value="5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="168265">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/t0vFpiFMC4RCEt_yL8owslqsKzE=/fit-in/200x150/pic2293879.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/-8HUpyKMcP0BNIVRfM1UVZduJRc=/0x0/pic2293879.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="oddball Aeronauts 2: Double the Trouble" />
+			
+						                           
+						               													<description>oddball Aeronauts 2 : Double the Trouble can be played standalone out of the box or it forms an addition to the oddball Aeronauts card game - a simple, light strategy, played-in-the-hand (no surface required) card game of hi-jinks airship dogfights, set in an oddball fantasy world. Players take their airship officers, crew and bots, and go head-to-head in a duel in the sky of an oddball, steampunk-esque world.&amp;#10;&amp;#10;oddball Aeronauts 2 : Double the Trouble adds 2 new factions to the game - the Mechinauts and the Free Kingdoms - as well as rules for 3 or 4 players.&amp;#10;&amp;#10;Note - by downloading the rules to the original oddball Aeronauts game, you can play oddball Aeronauts 2 : Double the Trouble as a 2 player game right out of the box with no need to purchase the original game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="3">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="9" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="106" value="No necessary in-game text" numvotes="0" />
+					<result level="107" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="108" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="109" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="110" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56318" value="No table needed" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26155" value="oddball Realms" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="175786" value="Oddball Aeronauts: Snowtide Event Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="175787" value="Oddball Aeronauts: Snowtide Mercenary Cards" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="142687" value="oddball Äeronauts" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="11130" value="Nigel Pyne" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11129" value="Lloyd Ash Pyne" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25167" value="maverick muse" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="80" />
+			<average value="6.70962" />
+			<bayesaverage value="5.5664" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="7857" bayesaverage="5.5664" />
+												</ranks>
+
+			<stddev value="1.43353" />
+			<median value="0" />
+			<owned value="333" />
+			<trading value="15" />
+			<wanting value="11" />
+			<wishing value="43" />
+			<numcomments value="34" />
+			<numweights value="6" />
+			<averageweight value="1.8333" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

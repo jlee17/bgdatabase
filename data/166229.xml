@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166229">
+                                     				
+				<name type="primary" sortindex="1" value="Three Fourths Home" />
+			
+						                           
+						               													<description>In her mid-20's, Kelly has moved back into her parents' house. Back to the flat expanse of Nebraska, that seemingly endless sea of rustling cornstalks peppered by rusty silos and rustier towns. A typically intense Midwestern storm is approaching while Kelly is out; she needs to get home.&amp;#10;&amp;#10;In Three Fourths Home, players assume the role of Kelly while she is driving home during this thunderstorm. The focus of the game is its narrative, conveyed through an extended conversation Kelly has with her parents and younger brother. The player must navigate the conversation while driving through a stylized representation of rural Nebraska set against rumbling thunder and the music playing from the car's tape deck.&amp;#10;&amp;#10;Three Fourths Home is a look into a specific moment of these characters' lives and their relationships with one another. The narrative touches on a variety of issues affecting Kelly and her family, including disability, adulthood, familial obligation, nostalgia, and loss.&amp;#10;&amp;#10;Neutrino Effect provides the soundtrack.&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5248" value="Linux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="21674" value="PlayStation 4" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="10373" value="PlayStation Vita" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="22574" value="Xbox One" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2713" value="Visual Novel" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2466" value="Other" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-07-14" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28166" value="[bracket]games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28166" value="[bracket]games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="27618" value="Digerati Distribution" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="8" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="10373" name="playstationvita" friendlyname="PlayStation Vita Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="21674" name="playstation4" friendlyname="PlayStation 4 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="22574" name="xboxone" friendlyname="Xbox One Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="5" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

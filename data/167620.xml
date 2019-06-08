@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167620">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/NRBa4jAWfMzrl8rZVN9BGlZ5XI0=/fit-in/200x150/pic4165210.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/oqaCHpymB1hH99rBLnpMAffIJ_Q=/0x0/pic4165210.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Word Kingdom" />
+			
+						                           
+						               													<description>User Summary&amp;#10;&amp;#10;Word Kingdom is an interesting little RTS/word-puzzle game.  The goal is to conquer all of the WordLand using an army assembled in the game.  The heart of the game is based around collecting resources.  Such resources are collected by making words from a 6x6 grid of letters.  The letters are on tiles made of stone, wood, meat, or gold.  Unlike other words games, letters do not have to be touching in order to be made into words.  Every word made gives the player resources based on what resource tiles the letters were on.  There are also special words that when spelled give bonuses to certain resources.  Longer words also create larger resource bonuses - but there is a word limit.&amp;#10;&amp;#10;Players use resources to build up their kingdom.  Players can build a castle, market, mage guild, barracks and a number of other buildings.  Each building made gives the players new abilities.  The barracks, for instance, gives several different types of soldiers.  But, as with the buildings, these soldiers need resources in order to be trained.&amp;#10;&amp;#10;In later levels, while the player is finding words and collecting resources, a battle rages at the top of the screen, where various enemy armies are trying to storm your castle to defeat you.  Players must use their resources to aid their army while the army fights back.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5084" value="Web Browser" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2165" value="Puzzle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2166" value="Real Time Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2284" value="Medieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2564" value="Words" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2009-07-21" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28384" value="Wandah.com" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="7.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="5084" name="webbrowser" friendlyname="Web Browser Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

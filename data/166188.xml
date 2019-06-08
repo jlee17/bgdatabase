@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166188">
+                                     				
+				<name type="primary" sortindex="1" value="The Adventures of Darwin" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Darwin" />
+			    				
+				<name type="alternate" sortindex="1" value="Simple 2000 Series Vol. 99: The Genshijin" />
+			
+						               													<description>From back of the Box (North American edition)&amp;#10;&amp;#10;If you want to survive life in a hostile world, you must evolve! Drive the evolution of your village from a small group of simple primates to a powerful, intelligent colony of humans. Lead your tribe on adventures, teach them to hunt, teach them to build, and teach them the power of language. Are you the leader of the evolution, or doomed to a life of monkey business?&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4434" value="PlayStation 2" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2147" value="Action" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2165" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2471" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2286" value="Prehistoric" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2006-04-27" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="14965" value="Vingt-et-un Systems" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11806" value="D3 Publisher" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="18101" value="Essential Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="7" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4434" name="playstation2" friendlyname="PlayStation 2 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165180">
+                                     				
+				<name type="primary" sortindex="1" value="The Rhythm Of Fighters" />
+			
+						                           
+						               													<description>User Input,&amp;#10;&amp;#10;A game packed with legendary SNK tracks! &amp;#10;&amp;ldquo;THE RHYTHM OF FIGHTERS&amp;rdquo; features tons of fan-favorite tracks from many SNK&amp;rsquo;s traditional game series such as &amp;ldquo;THE KING OF FIGHTERS&amp;rdquo;, &amp;ldquo;FATAL FURY&amp;rdquo;, &amp;ldquo;SAMURAI SHODOWN&amp;rdquo;, &amp;ldquo;ART OF FIGHTING&amp;rdquo;, and &amp;rdquo;METAL SLUG&amp;rdquo;, but also special arrangements of classics especially made for this game by their original composers. Moreover, &amp;ldquo;THE RHYTHM OF FIGHTERS&amp;rdquo; will be updated regularly with more and more nostalgic tracks!&amp;#10;&amp;#10;Unleash your favorite special moves and combos following the frenzied rhythm!&amp;#10;Play to the rhythm of the music to make your character unleash fan-favorite moves and combos on the opponent! Take advantage of the &amp;ldquo;Rhythm Battle System&amp;rdquo; for astronomical scores! Let&amp;rsquo;s enjoy the ultimate blend of rhythm &amp;amp; fighting game genres for a unique game!&amp;#10;&amp;#10;A game system that can be enjoyed by everyone!&amp;#10;Game controls:&amp;#10;With its user-friendly controls that allow you to tap anywhere on the game screen, &amp;ldquo;THE RHYTHM OF FIGHTERS&amp;rdquo; can be played and enjoyed by everyone!&amp;#10;&amp;#10;Level up your characters!&amp;#10;Keep playing and clearing stages in order to strengthen your character&amp;rsquo;s abilities for more damage!&amp;#10;&amp;#10;Call Support Characters for assistance!&amp;#10;More than 30 Support Characters originated from various SNK titles will assist you in the game in many ways.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6063" value="Android" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6826" value="iPad" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2163" value="Rhythm" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2493" value="Martial Arts" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="4918" value="The King of Fighters" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-08-28" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="11467" value="SNK Corporation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11467" value="SNK Corporation" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6826" name="ipad" friendlyname="iPad Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

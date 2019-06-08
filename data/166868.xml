@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166868">
+                                     				
+				<name type="primary" sortindex="1" value="Spiker! Super Pro Volleyball" />
+			
+						                           
+						               													<description>User Summary&amp;#10;&amp;#10;Spiker! Super Pro Volleyball was an attempt to more realistically recreate the game of volleyball for the Intellivision. To do this, more attention was payed to the speed and movements of the game and some basic rules were followed such as the first team to fifteen points wins a game as long as they have a two point advantage and best three out of five wins the match. The player may choose one of two main modes available. These modes are a two-on-two outdoor game and a six-on-six game in a gymnasium. There is also a special two-player mode to allow player-on-player matches or two players to go up against the computer. The player controls one character at a time but can switch between any available characters at any time.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4427" value="Intellivision" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2157" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2450" value="Sports - Volleyball" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="6" />
+						               				<releasedate value="1989-00-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="14225" value="INTV Corp." />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="14225" value="INTV Corp." />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4427" name="intellivision" friendlyname="Intellivision Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

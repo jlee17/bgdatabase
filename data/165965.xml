@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165965">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/wA4D5ujM15oujaydoW931-pcEQk=/fit-in/200x150/pic2333186.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/YaUZlA7wHhtJHCm6ifcF3vtmXo4=/0x0/pic2333186.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Wayward Souls" />
+			
+						                           
+						               													<description>Wayward Souls is an action-adventure dungeon crawler with randomized levels and permanent death. It features quick, twitch-based combat where tactics, positioning, and timing matter, controlled through touchscreen gestures. Two years in the making, it&amp;rsquo;s designed for quick playthroughs and lots of replay value.&amp;#10;&amp;#10;Battle through hordes of monsters as six different player characters, each with their own playstyle. Customize each character with their own upgrades and equipment that changes their abilities. Learn their stories and find out what happened in the cursed tower you find yourself in.&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6063" value="Android" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6826" value="iPad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4443" value="iPhone" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2339" value="Action RPG" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-04-24" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="15577" value="RocketCat Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="15577" value="RocketCat Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3" />
+			<average value="4.83333" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6826" name="ipad" friendlyname="iPad Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.62361" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

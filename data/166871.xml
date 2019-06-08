@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166871">
+                                     				
+				<name type="primary" sortindex="1" value="Thwocker" />
+			
+						                           
+						               													<description>User Summary&amp;#10;&amp;#10;In Thwocker, the object is to gather the musical notes in the correct order as indicated in the status area, while also avoiding the flying musical instruments. To control your bouncing character, move the joystick left or right for direction, and move it up to increase the height of your bounce. Be sure to push up just when you bounce, don't press up continuously. Press and hold the fire button to decrease the height of your bounce (push the joystick down at the same time to decrease height even faster). Once you have collected the proper musical notes, grab the large note at the top of the level. At that point, a tune will begin playing and you can now grab all the remaining musical notes, as well as the musical instruments.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4416" value="Atari 2600" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2482" value="Other" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2316" value="Music" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="1984-00-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="11465" value="Atari, Inc." />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11465" value="Atari, Inc." />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="182421" value="Activision Anthology Remix Edition" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4416" name="atari2600" friendlyname="Atari 2600 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

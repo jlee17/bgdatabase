@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166893">
+                                     				
+				<name type="primary" sortindex="1" value="Dwelvers" />
+			
+						                           
+						               													<description>&amp;#10;&amp;#10;&amp;#10;    &amp;#10;        &amp;#10;UNRELEASED GAME &amp;ndash; AVAILABLE&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;        &amp;#10;This game is still either in Early-Alpha or Beta (or any status in between) but IS already available for sale / early access, so CAN BE PLAYED.&amp;#10;&amp;#10;    &amp;#10;&amp;#10;&amp;#10;Dwelvers is a real time strategy game inspired by the old time classics 'Dungeon Keeper' and 'The Settlers'. The player takes the form of an evil Dungeon Lord who needs to guide their minions in digging out paths and rooms, and claiming them for themselves, growing their dungeon. The game will be based on creating your minions and keeping them pleased in various ways. Then you will lead them into battle to defeat your enemy and claim victory! The most challenging part for the player will be creating advanced production chains so as to have enough food to keep their creatures well fed, enough weapons and armour to outfit their army as a force to be reckoned with, and of course enough beer to keep them satisfied with you as their master. A drunk minion is a happy minion! The theme of the game will have a lot of dark humour, and each creature will have its own personality, demands and fighting style; forcing the player to handle all the creatures in different ways in order to max out their potential. A happy minion is a useful minion!&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2166" value="Real Time Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2156" value="Simulation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="21970" value="(Unreleased Games - Available)" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-09-10" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="14029" value="(Self-Developed Video Game)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28258" value="Dancing Devils" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="1" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

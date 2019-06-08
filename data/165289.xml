@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165289">
+                                     				
+				<name type="primary" sortindex="1" value="Transformers: Rise of the Dark Spark" />
+			
+						                           
+						               													<description>Transformers: Rise of Dark Spark is an action-adventure video game based on the Transformers toy franchise. It was developed primarily by Edge of Reality, with the Nintendo 3DS version developed by WayForward Technologies. It was published by Activision and released worldwide on June 24, 2014. It is the third installment in the War for Cybertron series and the fourth installment in the movie game series. The game was released on June 24, 2014 for Microsoft Windows, Nintendo 3DS, PlayStation 3, PlayStation 4, Wii U, Xbox 360, and Xbox One. The game serves as both a prequel to Transformers: Fall of Cybertron and the film Transformers: Age of Extinction.&amp;#10;&amp;#10;The console and Microsoft Windows versions of Transformers: Rise of the Dark Spark are a third-person shooter, much like its predecessors from High Moon Studios Transformers: War for Cybertron, Transformers: Fall of Cybertron, and Transformers: Dark of the Moon. The game has a single-player campaign. Escalation, the online multiplayer mode where four players fend off waves of increasingly tough enemies, returned with the addition of upgradable defenses. The mode features over forty playable characters, and has levels based on both Cybertron and Earth. Escalation mode is absent in the Wii U and 3DS versions of the game. In addition, experience points collected by players in both single and multiplayer will be shared.&amp;#10;&amp;#10;The 3DS version of the game is a strategy RPG.[6] Melee combat is turn-based. The player is given three rounds to deplete their opponent's health. If successful, the enemy is removed from the overworld map. The player can choose from seven different attacks, each with their own recharge time after each use. Combat will use 3D rendered character models, while the overworld screen uses 2D sprites, similar to the 3DS game Fire Emblem Awakening.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Transformers: Rise of the Dark Spark&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5857" value="Nintendo 3DS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4435" value="PlayStation 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="21674" value="PlayStation 4" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="10763" value="Wii U" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4407" value="Xbox 360" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="22574" value="Xbox One" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2147" value="Action" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2161" value="Action Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2167" value="Shooter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2158" value="Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						               				<releasedate value="2014-06-24" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="13073" value="Edge of Reality" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="12514" value="WayForward Technologies" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11786" value="Activision" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4407" name="xbox360" friendlyname="Xbox 360 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4435" name="ps3" friendlyname="PlayStation 3 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5857" name="nintendo3ds" friendlyname="Nintendo 3DS Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="10763" name="wiiu" friendlyname="Wii U Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="21674" name="playstation4" friendlyname="PlayStation 4 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="22574" name="xboxone" friendlyname="Xbox One Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="4" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

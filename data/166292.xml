@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166292">
+                                     				
+				<name type="primary" sortindex="1" value="Crypt Killer" />
+			
+						                           
+						               													<description>Crypt Killer (known as Henry Explorers in Japan) (&amp;#227;&amp;#131;&amp;#152;&amp;#227;&amp;#131;&amp;#179;&amp;#227;&amp;#131;&amp;#170;&amp;#227;&amp;#131;&amp;#188;&amp;#227;&amp;#130;&amp;#168;&amp;#227;&amp;#130;&amp;#175;&amp;#227;&amp;#130;&amp;#185;&amp;#227;&amp;#131;&amp;#151;&amp;#227;&amp;#131;&amp;#173;&amp;#227;&amp;#131;&amp;#188;&amp;#227;&amp;#131;&amp;#169;&amp;#227;&amp;#131;&amp;#188;&amp;#227;&amp;#130;&amp;#186; Henr&amp;#196;&amp;#171; Ekusupur&amp;#197;&amp;#141;r&amp;#196;&amp;#129;zu) is an arcade video game produced by Konami.&amp;#10;&amp;#10;The players are &amp;quot;crypt raiders&amp;quot; guided by Galazon, the spirit of travels, who resembles a floating head to travel through variously themed caves, temples and crypts in search of the &amp;quot;Eyes of Guidance&amp;quot; which would open the doors of fate. On their journey they are armed with a shotgun to fend off many mythical enemies, such as mummies, skeletons, fish-men, Gargoyles, and an array of other monsters.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Crypt Killer&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4781" value="Arcade" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4714" value="DOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4433" value="PlayStation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4439" value="SEGA Saturn" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2506" value="Light Gun Shooter" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2265" value="Horror" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2313" value="Cooperative" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="3" />
+						               				<releasedate value="1995-00-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="1288" value="Konami" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="11910" value="Konami Computer Entertainment Tokyo (KCET)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="1288" value="Konami" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4433" name="playstation" friendlyname="PlayStation Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4439" name="segasaturn" friendlyname="SEGA Saturn Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4714" name="dos" friendlyname="DOS Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4781" name="arcade" friendlyname="Arcade Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="5" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

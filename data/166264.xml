@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="rpgitem" id="166264">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/-J42teV_AOXPfkxR43Z3aZkjpDM=/fit-in/200x150/pic2247031.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/CJaQNkfRwV1a57eIBAiKYlU_H7I=/0x0/pic2247031.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="First Contact: X-Corps" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="First Contact: XCorps" />
+			
+						      				
+		 			
+
+			
+		
+					<link type="rpg" id="25862" value="First Contact: XCorps" />
+		
+									
+			
+
+			               													<description>PUBLISHER BLURB&amp;#10;&amp;#10;First Contact: XCorps (FCX) is a roleplaying game set in the present, in a world in which humanity is faced with a terrible fate. A hostile alien race has come to our planet with dark intentions: the Chandra. The Security Council UN launches initiative to organize the defense of humanity including the creation of a militarized multinational force will face this threat: Global Defense, whose members are known colloquially as XCorps.&amp;#10;&amp;#10;WEB DE LA EDITORA&amp;#10;&amp;#10;First Contact: XCorps (FCX) es un juego de rol ambientado en la actualidad, en un mundo en el que la humanidad se enfrenta a un terrible destino. Una especie alien&amp;iacute;gena hostil ha llegado a nuestro planeta con oscuras intenciones: los Chandra. El Consejo de Seguridad de la ONU pone en marcha una iniciativa para organizar la defensa de la humanidad incluyendo la creaci&amp;oacute;n de una fuerza multinacional militarizada que har&amp;aacute; frente a esta amenaza: Global Defense, cuyos miembros son conocidos coloquialmente como los XCorps.&amp;#10;&amp;#10;</description>
+										               				<yearpublished value="2014" />
+						      				
+		 			
+
+			
+		
+					<link type="rpggenre" id="940" value="Action / Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpggenre" id="954" value="Crime (Conspiracy)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpggenre" id="177" value="Crime (Spy / Espionage)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpggenre" id="952" value="Politics / Government" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			               				<seriescode value="" />
+						      				
+		 			
+
+			
+		
+					<link type="rpgcategory" id="2083" value="Core Rules (min needed to play)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="rpgmechanic" id="2101" value="Attribute/Stat Based (STR, CON, PER, etc)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgmechanic" id="2112" value="Dice (Primarily d6)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgmechanic" id="2129" value="Exploding Dice (Die may 'explode' into a second roll)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgmechanic" id="2094" value="Skill Based (buy or gain skills)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="rpgpublisher" id="9806" value="Le 7ème Cercle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgpublisher" id="22332" value="Holocubierta Ediciones" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="rpgdesigner" id="62385" value="José Manuel Palacios Rodrigo" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="rpgartist" id="47502" value="Borja Pindado Arribas" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgartist" id="71947" value="Victor Bravo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgartist" id="78265" value="Sandra Callejas" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgartist" id="27926" value="Jose David Lanza Cebrian" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgartist" id="65053" value="Christian Granero" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgartist" id="14643" value="Jérôme Huguenin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgartist" id="78266" value="Simon Labrousse" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgartist" id="49383" value="David Lecossu" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgartist" id="51300" value="Antonio José Manzanedo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgartist" id="78264" value="Eloi Molas" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgartist" id="60429" value="Jorge Carrero Roig" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="rpgproducer" id="78232" value="Judith Brustlein" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgproducer" id="70230" value="Ismael de Felipe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgproducer" id="73727" value="Yohann Delalande" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgproducer" id="78234" value="David Delseray-Pousse" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgproducer" id="78233" value="Gregory Fiot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgproducer" id="17104" value="Florrent" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgproducer" id="70231" value="Juan Emilio Herranz" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgproducer" id="60170" value="Denis Huneau" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgproducer" id="17106" value="Neko" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgproducer" id="65283" value="José Luis Porfírio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgproducer" id="68093" value="José Joaquín Rodríguez" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgproducer" id="78261" value="Paula Sepúlveda" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5" />
+			<average value="8.3" />
+			<bayesaverage value="5.75663" />
+
+			<ranks>
+															<rank type="subtype" id="16" name="rpgitem" friendlyname="RPG Item Rank" value="5875" bayesaverage="5.75663" />
+												</ranks>
+
+			<stddev value="1.32665" />
+			<median value="0" />
+			<owned value="22" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="1" />
+			<numcomments value="1" />
+			<numweights value="2" />
+			<averageweight value="3.5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

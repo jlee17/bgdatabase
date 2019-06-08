@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgameexpansion" id="167901">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/ogmRmOBy1XvFd6ymbEvP4Us2BGo=/fit-in/200x150/pic2292205.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/bkndLJjO4mND3H2nh5S4eJ9DR98=/0x0/pic2292205.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Time Masters: Promo Cards" />
+			
+						                           
+						               													<description>A set of three promo cards that were given out with purchase of the game at Essen 2014.&amp;#10;&amp;#10;One card gives immunity from opponent spells, another makes opponent spells cost more, and the last one is a helpful effect that moves among the players.&amp;#10;&amp;#10;This Timer is the last Timer to build the big picture of Time Masters. Indeed, build with the 12 Timers of Time Masters a picture who is the &amp;quot;symbole&amp;quot; of the game.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll> 			               				<playingtime value="35" />
+						               				<minplaytime value="35" />
+						               				<maxplaytime value="35" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="46" value="No necessary in-game text" numvotes="0" />
+					<result level="47" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="48" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="49" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="50" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Card Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck / Pool Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6258" value="Time Travel" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="148759" value="Time Masters" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25989" value="MushrooM Games (II)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="9" />
+			<average value="5.44444" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.57135" />
+			<median value="0" />
+			<owned value="36" />
+			<trading value="3" />
+			<wanting value="1" />
+			<wishing value="2" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

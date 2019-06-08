@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167617">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/-N-_n894H90VFaz3vtuCl7EREKY=/fit-in/200x150/pic2287992.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/XwJq3VGNMnsmCAh4HyWoHDkCtts=/0x0/pic2287992.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="9 Clues: The Secret of Serpent Creek" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Nine Clues: The Secret of Serpent Creek" />
+			
+						               													<description>9Clues: The Secret of Serpent Creek is an original hidden-object puzzle-adventure game, in which a unique Detective Mode enhances the gameplay. This thrilling detective drama merges horror elements with the look and feel of 1950&amp;rsquo;s USA.&amp;#10;&amp;#10;A paranormal private investigator is contacted by her friend &amp;ndash; a reporter named Helen Hunter &amp;ndash; who pleas for help in a terrified voice. She urges the protagonist to come to the coastal town of Serpent Creek at once.&amp;#10;&amp;#10;Source: The Publisher Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6063" value="Android" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6826" value="iPad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4443" value="iPhone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5248" value="Linux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="11423" value="Windows Phone" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2678" value="Hidden Object" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2265" value="Horror" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="27783" value="9 Clues" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2013-07-18" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28386" value="Tap It Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="22042" value="Artifex Mundi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="14933" value="G5 Entertainment" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="7" />
+			<average value="5.85714" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="6039" bayesaverage="5.55967" />
+																				<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6826" name="ipad" friendlyname="iPad Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="11423" name="windowsphone" friendlyname="Windows Phone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.12486" />
+			<median value="0" />
+			<owned value="17" />
+			<trading value="1" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="3" />
+			<numweights value="1" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165415">
+                                     				
+				<name type="primary" sortindex="1" value="EA Sports UFC" />
+			
+						                           
+						               													<description>EA Sports UFC is a mixed martial arts fighting video game developed by Electronic Arts and SkyBox Labs[1] for the PlayStation 4 and Xbox One. It is based on the Ultimate Fighting Championship (UFC) brand and was released on June 17, 2014. A playable demo was released on the PlayStation Network and Xbox Marketplace on June 3, 2014, with Jon Jones and Alexander Gustafsson as playable fighters. It is the first UFC game since THQ sold the license to Electronic Arts.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;EA Sports UFC&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="21674" value="PlayStation 4" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="22574" value="Xbox One" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2157" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2493" value="Martial Arts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2374" value="Sports - Boxing" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="0" />
+						               				<releasedate value="2014-06-17" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="12296" value="EA Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11469" value="Electronic Arts Inc. (EA)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="5.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="21674" name="playstation4" friendlyname="PlayStation 4 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="22574" name="xboxone" friendlyname="Xbox One Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="2.5" />
+			<median value="0" />
+			<owned value="7" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

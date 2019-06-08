@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167319">
+                                     				
+				<name type="primary" sortindex="1" value="Tiamat X" />
+			
+						                           
+						               													<description>The evil Choazid Empire has launched a surprise attack on your homeworld, establishing a heavily fortified base from where their forward assault group burrows deep underground, capturing subterranean lifeforms and transforming them into vicious biomechs.&amp;#10;&amp;#10;With it being only a matter of time before the Choazids start converting your people, it&amp;rsquo;s up to you to take the controls of one of the few remaining Tiamat dragonship prototypes: the X class fighter, a craft capable of immense firepower &amp;ndash; provided you pick up enough upgrade caches during a mission where you must dodge and blast like there&amp;rsquo;s no tomorrow.&amp;#10;&amp;#10;Featuring six levels of intense shooting action, Tiamat X is a rip-snortin tribute to the side-scrolling shooters of yesteryear, and would be right at home blazing away on the screen of a booming, beer-stained arcade cabinet. As such, your PC, phone or tablet will have to do, and it is much to the designer&amp;rsquo;s regret that he can&amp;rsquo;t plumb a coin-slot into his rig for that truly authentic seaside amusement-park experience.&amp;#10;&amp;#10;Get some big speakers, though. Really, we do recommend them for this game.&amp;#10;&amp;#10;Features&amp;#10;&amp;#10;&amp;#10;     Auto fire &amp;ndash; this is primarily intended as an accessibility option and allows the player to not have to worry about using a fire button.&amp;#10;     Quick fire &amp;ndash; don&amp;rsquo;t like mashing buttons/keys, then this is for you. Press and hold to fire.&amp;#10;     Colour blind filter &amp;ndash; this filter adjusts the game thereby making it more colour blind friendly. We just hope we have got it right!&amp;#10;     Six levels of intense shooting action&amp;#10;     Original music score&amp;#10;&amp;#10;&amp;#10;Source: The Developer Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6063" value="Android" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="21998" value="OUYA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2314" value="Arcade" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2013-10-24" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28334" value="BBQ Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28334" value="BBQ Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

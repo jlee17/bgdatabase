@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167678">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/CYK9gp4HoCmwgFLfuGnzcCSKC_M=/fit-in/200x150/pic2447206.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/pdR_o4rz5t6W_vz0ps5WDE-90GY=/0x0/pic2447206.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Blast Em!" />
+			
+						                           
+						               													<description>The pounding soundtrack pulses in the background, you swear it&amp;rsquo;s keeping pace with your heart-beat and if it should stop then you would too. Wave upon wave of enemy comes flooding towards you, their missiles homing in on your position. You dodge out of the way determined to collide with the power-up just hanging there in space - you really need to top up the rapid fire.&amp;#10;It suddenly dawns on you that this didn't happen last time, are you playing the game or is it playing you? What&amp;rsquo;s going on? That momentary hesitation was all it took for that missile to collide with you causing your ship to explode into a shower of red sparks.&amp;#10;&amp;#10;At that exact moment a thought in the back of your head, a primal basic animal instinct that had been screaming for attention, forces it&amp;rsquo;s way to the front of the queue and asserts its authority: &amp;ldquo;I really need to blink&amp;rdquo;&amp;#10;&amp;#10;DESCRIPTION&amp;#10;Blast your way through wave upon wave of enemies trying to take you out. Survive for as long as you can and get to the top of the global high score table.&amp;#10;&amp;#10;HISTORY&amp;#10;Blast Em! is the latest game from Xiotex Studios and originally started with a conversation with the respected journalist Will Freeman in a Coffee bar in London one day. The developer, Byron Atkinson-Jones was getting Will's opinion on another game being developed called &amp;quot;So hungry&amp;quot; and the conversation drifted to Shoot-em-ups. from there the seed of Blast Em! was sown.&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5248" value="Linux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2505" value="Shoot 'em Up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-01-22" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28396" value="Xiotex Studios Ltd" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="12607" value="Mastertronic" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="4" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165454">
+                                     				
+				<name type="primary" sortindex="1" value="Mount &amp; Blade II: Bannerlord" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Mount &amp; Blade 2: Bannerlord" />
+			    				
+				<name type="alternate" sortindex="1" value="Mount and Blade 2: Bannerlord" />
+			    				
+				<name type="alternate" sortindex="1" value="Mount and Blade II: Bannerlord" />
+			
+						               													<description>&amp;#10;&amp;#10;&amp;#10;    &amp;#10;        &amp;#10;UNRELEASED GAME &amp;ndash; IN DEVELOPMENT&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;        &amp;#10;This game has not been released yet, therefore some of the information above may change in the future. Until this game is released, please don't submit images for it, nor add new releases.&amp;#10;&amp;#10;    &amp;#10;&amp;#10;&amp;#10;User Summary&amp;#10;&amp;#10;Mount &amp;amp; Blade II: Bannerlord acts as a prequel to Mount&amp;amp;Blade: Warband. The events of Bannerlord take place 200 years before the start of Warband, witnessing the last years of the Calradic Empire and the rise of the kingdoms from which Swadians, Rhodoks, Nords, Khergits, Vaegirs and Sarranids all claim descent.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2339" value="Action RPG" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2315" value="Sandbox" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2345" value="Historical" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2284" value="Medieval" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="7552" value="(Unreleased Games - Unavailable)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="6954" value="Mount &amp; Blade" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2018-00-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="13535" value="TaleWorlds Entertainment" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="12224" value="Paradox Interactive (I)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="3" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

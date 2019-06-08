@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165690">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/us7ouQrEgGLl70ukdQxjbHz5rqY=/fit-in/200x150/pic2617566.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/48FDiUdKXWnNQLfeCfbF1ZmNe6A=/0x0/pic2617566.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Half-Minute Hero: The Second Coming" />
+			
+						                           
+						               													<description>Half-Minute Hero: The Second Coming, (known as Y&amp;#197;&amp;#171;sha 30 Second (&amp;#229;&amp;#139;&amp;#135;&amp;#232;&amp;#128;&amp;#133;30 II Y&amp;#197;&amp;#171;sha Sanj&amp;#197;&amp;#171; II)?, lit. &amp;quot;Hero 30 Second&amp;quot; in Japan), is an action RPG developed by Opus and published by Marvelous. It is the sequel to Half-Minute Hero. It was initially released as a PlayStation Portable exclusive in Japan on August 4, 2011. It was later localized to English audiences and released on Steam for Microsoft Windows on April 4, 2014.&amp;#10;&amp;#10;Half-Minute Hero: The Second Coming's single player mode features 5 separate episodes, each of which is unlocked after completing the previous episode. Each episode takes place hundreds of years after the previous one, and they all feature the same type of gameplay as the Hero 30 game mode in Half-Minute Hero.&amp;#10;&amp;#10;Due to the various bosses in the game being able to cast a spell that kills the main character in 30 seconds, each hero is forced to make a contract with the Time Goddess that lets the player rewind time in exchange for increasing amounts of gold. The player must fight against the clock to defeat the boss as quickly as possible while completing various other objectives.&amp;#10;&amp;#10;The episodes of the game are called Overture, Judgement, Revolution, Ragnarok and Destiny.&amp;#10;&amp;#10;The plot of the game is largely comedic in nature, and parodies many classic RPG and anime series, including the Final Fantasy series, Chrono Trigger and Chrono Cross, and Gurren Lagann.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Half-Minute Hero: The Second Coming&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4432" value="PSP" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2155" value="RPG" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2337" value="Cute Fantasy" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="25807" value="Half-Minute Hero" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						               				<releasedate value="2011-08-04" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="12180" value="Marvelous Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="22182" value="Opus Studio Inc." />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="21058" value="Marvelous, Inc." />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3" />
+			<average value="7.66667" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4432" name="psp" friendlyname="PSP Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.17851" />
+			<median value="0" />
+			<owned value="5" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

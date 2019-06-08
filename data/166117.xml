@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166117">
+                                     				
+				<name type="primary" sortindex="1" value="Tiger Woods PGA Tour 14" />
+			
+						                           
+						               													<description>Tiger Woods PGA Tour 14 is a golfing simulation video game that is a part of the Tiger Woods PGA Tour series and was developed at EA Tiburon. Electronic Arts published the game for the PlayStation 3 and Xbox 360 in North America on 26 March 2013. On October 29, 2013, it was announced that Tiger Woods PGA Tour 14 would be the last game featuring Tiger Woods in the title for the video game series.&amp;#10;&amp;#10;Tiger Woods PGA Tour 14 includes Legends of the Majors mode, where players are able to compete in notable tournaments from the 1870s through to the present day; equipment physics and player outfits are changed to simulate the conditions and differences of each era. LPGA events (such as the Kraft Nabisco Championship) were also introduced to the Career mode for the first time in series history, and all four Men's major golf championships appear as well. Country Clubs will now be able to house up to 100 members, and a customizable day/night cycle is also included. A new &amp;quot;Quick Tournament&amp;quot; mode was also added, which simulates only the final round of a tournament.&amp;#10;&amp;#10;For the first time ever in the series, Tiger Woods PGA Tour 14 also adds support for playoffs in tournaments; Tiburon's developers considered the lack of support for playoffs to be a &amp;quot;long overdue&amp;quot; addition due to its complexity, as all of the playoff formats used by each Major tournament are implemented in-game. Due to complex issues surrounding player licensing and outcomes for playoffs, the strokes of other players are not shown.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Tiger Woods PGA Tour 14&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4435" value="PlayStation 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4407" value="Xbox 360" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2157" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2366" value="Sports - Golf" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="4901" value="Tiger Woods PGA Tour" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						               				<releasedate value="2013-03-26" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="13644" value="EA Tiburon" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="12296" value="EA Sports" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4407" name="xbox360" friendlyname="Xbox 360 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4435" name="ps3" friendlyname="PlayStation 3 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

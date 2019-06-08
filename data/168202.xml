@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="168202">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/eoJcb2cMovvWITsy3S0VKXWDCs8=/fit-in/200x150/pic2292623.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/AJFR4GCIb6xso6wKec4im4_VXMg=/0x0/pic2292623.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Tales of Tamar" />
+			
+						                           
+						               													<description>Publisher Info&amp;#10;&amp;#10;Tales of Tamar, or ToT for short, is a turn based massively multiplayer PBEM (Play By E-Mail) game. Thousands of players can play with and against each other on a fantasy world. Players send their turns to the server using the software client, the server computes the results and sends them back to the player. The fun is in interacting with the other players. Each player in this role playing game/rpg takes the role of the sovereign leader of a country and has to build from the small village to a large realm. You can trade, wage wars and use any diplomatic measure imaginable.&amp;#10;&amp;#10;Currently, up to 12000 players can take part in Tales of Tamar. There is one turn per day&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4415" value="Amiga" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5248" value="Linux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2158" value="Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2327" value="Massively Multiplayer" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2000-08-30" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28466" value="Eternity Software" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28466" value="Eternity Software" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="9" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4415" name="amiga" friendlyname="Amiga Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

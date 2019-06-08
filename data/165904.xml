@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165904">
+                                     				
+				<name type="primary" sortindex="1" value="Adventuring Company" />
+			
+						                           
+						               													<description>You've heard tales that a Red Dragon possesses immeasurable wealth and you're interesting in getting a piece. Accompanied by a motley crew of mercenaries, you must delve into the depths of the Red Dragon's lair. As your adventuring company descends into the depths, you'll battle goblins, centaurs, nagas and even the willpower of your crew, as your gold supplies dwindle -- mercenaries don't work for free, after all. Can you claim the treasure of the Red Dragon, or will you serve as morbid warning to future thieves?&amp;#10;&amp;#10;     Streamlined roguelike gameplay, designed for mobile&amp;#10;     6 heroes with unique abilities&amp;#10;     10 levels of dungeon crawling&amp;#10;     More than 10 different monsters to fight&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6063" value="Android" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2165" value="Puzzle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2413" value="Roguelike" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2013-12-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28121" value="Slothwerks" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28121" value="Slothwerks" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="6" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

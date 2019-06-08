@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="168404">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/gaDgWqgeBcqTOx9WL8sPHNI8Z6s=/fit-in/200x150/pic4170801.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/Xw5NlNHRxve4iK_4yrE0vcnS_ZI=/0x0/pic4170801.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Eden&#039;s Quest: The Hunt for Akua" />
+			
+						                           
+						               													<description>Eden Hunt, a famous archaeologist, had received a call from a mysterious man, the promoter of a treasure hunt, with a very large sum of money at stake! A godsend for Eden who wants to go digging. While all this is strange, she accepts...&amp;#10;&amp;#10;The initial goal of the player is to answer the puzzles to find the fabulous treasure of Akua. But sabotage and troubling disappearances will complicate everything, making the protagonists of this hunt more and more suspicious...&amp;#10;&amp;#10;Source: The Developer Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6826" value="iPad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2152" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2678" value="Hidden Object" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2165" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2600" value="Ancient History" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2330" value="Nature / Jungle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2351" value="Puzzle" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2010-03-17" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28492" value="OUAT Entertainment" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="13200" value="Big Fish Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="13968" value="WildTangent" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="8" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6826" name="ipad" friendlyname="iPad Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

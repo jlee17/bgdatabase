@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167439">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/T5vcKasMpT50bE5BLgTkhMZPTnY=/fit-in/200x150/pic2997518.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/LB1MhGjwlVsS3n9qHVEhVHOY03g=/0x0/pic2997518.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Towers of Altrac - Epic Defense Battles" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Towers of Altrac" />
+			
+						               													<description>Towers of Altrac brings new features of tower defense gameplay that will appeal to players of all skill levels. The lands of Altrac are invaded by the Morkul&amp;rsquo;al and it&amp;rsquo;s up to you to defense against the enemies. The lands are divided into three folks: The Dreoks, an engineering nation of humans. The Eldran, a forrest nation and the Kal&amp;rsquo;than, a magician nation. Each nation has an own campaign to go through and free up the lands.&amp;#10;&amp;#10;Beautiful 3D environments, spectacular effects, dynamic weather system, day and night time cycles and a lot more bring the world to life. With the wide variety of towers, enemies and maps, a long and interesting gameplay is ensured.&amp;#10; Features:&amp;#10;&amp;#10;- Co-Op mode (2-4 Players)&amp;#10;- 3 campaigns (singleplayer or Co-Op mode)&amp;#10;- 3 nations to play (Dreoks, Eldrans or Kal&amp;rsquo;than)&amp;#10;- S.A.D. A.I. System (Own developed Search and Destroy System)&amp;#10;- High Replayability (Approximately 45 hours of gameplay)&amp;#10;- Over 600 Enemies (50 enemy types, 15 boss types and 15 elementary enemies)&amp;#10;- 62 Unique Maps&amp;#10;- 57 Towers with 5 updates each&amp;#10;- 10 Special abilities and max. Level 60 characters&amp;#10;- Unique Environments (own landscape, way-system, dynamic weather system, day cycles and specials)&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5248" value="Linux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2147" value="Action" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2474" value="Tower Defense" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2313" value="Cooperative" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						               				<releasedate value="2015-01-05" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28360" value="Cybertron Design Studios" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28360" value="Cybertron Design Studios" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

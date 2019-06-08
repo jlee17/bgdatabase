@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="167780">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/hGjggjDY15jH-PWSTlN6ahCWOkA=/fit-in/200x150/pic2288430.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/CtQ6ojwzR6Cx_kz8wHf4hk-0ylI=/0x0/pic2288430.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Paper Toss" />
+			
+						                           
+						               													<description>Paper Toss is a fast, fun, new card game where players compete to deliver the most newspapers on their paper route.&amp;#10;&amp;#10;Paper Toss can be played by 2 to 6 players in anywhere from 10 to 30 minutes (more players make longer games), and the rules are simple and easy to learn, suitable for ages 5 and up.&amp;#10;&amp;#10;The comical art and theme, coupled with the silly, competitive nature of the game make it great for younger children and even the whole family.&amp;#10;&amp;#10;Draw cards from the blue &amp;quot;Paper Deck,&amp;quot; and take turns trying to toss your newspaper on a new doormat (by playing the &amp;quot;Paper Toss&amp;quot; card), as other players try to throw off your aim with hazards like angry dogs, sidewalk obstacles, and neighborhood kids. If you have the appropriate counter card, you can ignore the distraction.&amp;#10;&amp;#10;A simple discard mechanic adds a subtle layer of strategy: choose which cards to hold or discard, keeping your defensive cards, or going on the offense. Wild cards like &amp;quot;Flat Tire!&amp;quot; and &amp;quot;Bully!&amp;quot; help you stick it to your opponent and gain an upper hand.&amp;#10;&amp;#10;Once you throw your paper, turn over a card from the green &amp;quot;Toss Deck,&amp;quot; to see how good your throw was. With every successful paper toss, you gain a Paper Token. The first player to collect 10 Tokens wins the game! Can you be the first one to toss all your papers?&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="6+">		
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="5" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1079" value="Humor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="74535" value="Shane Butler" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="46478" value="Fábio Fontes" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="9" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

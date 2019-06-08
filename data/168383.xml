@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="168383">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/xvzOwq7J_2528PT_7mza0P7SyTc=/fit-in/200x150/pic2694812.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/FkOKv1UbE_hmP_4YGzmFQjWkQ9Y=/0x0/pic2694812.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Panzers East Solitaire" />
+			
+						                           
+						               													<description>Panzers East Solitaire (PES) is simulation that covers the advance of Germany&amp;rsquo;s Army Group Center, starting on the first day of Operation Barbarossa and potentially extending to the last day of August later that same summer. The design supports both strict historical and alternative history explorations. That is, at the end of July, when the AGC offensive was historically shut down in favor of supporting extended drives by the flanking army groups, it&amp;rsquo;s possible that, if you&amp;rsquo;ve done better up to then than your historical counterpart, Hitler may authorize a continued and immediate advance on Moscow. You command the German forces while the system directs the handling of Soviet forces. You win or lose based on the timely seizure of key areas on the map.&amp;#10;&amp;#10;Each game turn equals one-third of a month. Each hexagon represents 16 miles (24 km) from side to opposite side.&amp;#10;&amp;#10;Components: One 22&amp;quot; x 34&amp;quot; map &amp;amp; 280 counters&amp;#10;&amp;#10;World at War Magazine #45, DEC 2015 &amp;ndash; JAN 2016&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="0" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="0+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1019" value="Wargame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1049" value="World War II" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hex-and-Counter" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3244" value="Magazine: World at War" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8164" value="Solitaire Wargames" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1747" value="Ty Bomba" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="3878" value="Eric R. Harvey" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="1893" value="Joe Youst" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="102" value="Decision Games (I)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="17" />
+			<average value="7.32353" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4664" name="wargames" friendlyname="War Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.999135" />
+			<median value="0" />
+			<owned value="133" />
+			<trading value="3" />
+			<wanting value="13" />
+			<wishing value="28" />
+			<numcomments value="18" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167673">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/SThKZI_3iTfSuQPQ5SNziX-3dQI=/fit-in/200x150/pic2528860.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/wNlmyU5lqoB03sz3bK48SE-qLiU=/0x0/pic2528860.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Revolution Ace" />
+			
+						                           
+						               													<description>A shoot'em up with classic gameplay, modern accessibility, and unique multiplayer, Revolution Ace adds to the tried-and-true without diminishing what makes the genre great.&amp;#10;&amp;#10;Features&amp;#10;&amp;#10;&amp;#10;     Fight a wide variety of air, land, and sea enemies with a customizable loadout of more than 20 weapons. Level up to unlock more weapon slots and perks that add additional passive bonuses like piercing and shield stealing.&amp;#10;     Your armor and shielding won't quit on you the first time you get hit so you can concentrate more on destroying enemies and less on evading bullets. You can also upgrade your armor and shields for a stronger defense.&amp;#10;     Unique Versus mode features two players competing side by side on their own fields with various ways to affect the other. Send additional enemies, hazards, make ships invisible or invulnerable and more to disrupt your opponent and get the higher score. (On mobile devices Versus is limited to Battle Chains, below)&amp;#10;     Play an asynchronous Versus variant with the Battle Chains mode! Each player plays the stage while contending against the extras created by the previous player's turn. Upload your turn globally or send it to a specific friend to compete against. Every link forged in the chain will be tougher than the last!&amp;#10;     (PC Exclusive) Local and online two player co-op expands the playable area while adding more enemies and modified patterns.&amp;#10;&amp;#10;&amp;#10;Source: The Developer Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6826" value="iPad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4443" value="iPhone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2505" value="Shoot 'em Up" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2167" value="Shooter" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2313" value="Cooperative" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						               				<releasedate value="2014-03-19" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28392" value="Laser Guided Games, LLC" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28392" value="Laser Guided Games, LLC" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6826" name="ipad" friendlyname="iPad Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="6" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

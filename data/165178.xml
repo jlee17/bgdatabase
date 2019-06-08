@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165178">
+                                     				
+				<name type="primary" sortindex="1" value="WWF Rage In The Cage" />
+			
+						                           
+						               													<description>From Wikipedia,&amp;#10;&amp;#10;Rage in the Cage was the first WWF game to feature actual video footage in the form of FMV clips seen in the game's opening video, as well clips of the wrestlers' signature moves that can be viewed on the wrestler select screen, and clips that play of the player's wrestler celebrating upon completion of the tournament mode. In addition, the game features audio introductions by Howard Finkel and rants between the competitors prior to the matches. However, for the game's music, developers did not take advantage of the CD format, as it resembles the synthesized music of 16-bit games from that period. Rage in the Cage features 20 wrestlers, the most seen in a WWF game up to that point (this number would not be surpassed until WWF Attitude was released six years later).&amp;#10;&amp;#10;http://en.wikipedia.org/wiki/WWF_Rage_in_the_Cage&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4436" value="SEGA CD" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2159" value="Fighting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2375" value="Sports - Wrestling" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						               				<releasedate value="1993-12-21" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="11856" value="Sculptured Software" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="14315" value="Arena Entertainment" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4436" name="segacd" friendlyname="SEGA CD Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

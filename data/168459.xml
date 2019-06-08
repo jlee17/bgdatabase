@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="168459">
+                                     				
+				<name type="primary" sortindex="1" value="Traitors Gate" />
+			
+						                           
+						               													<description>User Summary&amp;#10;&amp;#10;Traitors Gate is a fairly unique game.  The point is not to kill, or to draw attention to yourself, but to pull off the perfect heist.  To that end you have to learn a number of useful, and non-violent skills: code deciphering, computer hacking, lock picking... all so that you can steal something before someone else does.&amp;#10;&amp;#10;That something is the Crown Jewels.  (If you didn't get the reference Traitors Gate is a location in the Tower of London where the Jewels are held.)  The Pentagon wants you to steal them before a defector from the organization does.  The caveat?  The British Government doesn't know you are going to steal the Crown Jewels.  And you can't tell them.  Or hurt them, for that matter - after all, they are just doing their job.&amp;#10;&amp;#10;The most unique part of this game is that it is non-linear.  Up until the end of the game, you can do things in any order.  In fact, it is recommended you play the game multiple times, if only to find all the locations you might have missed the first time through.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2152" value="Adventure" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2283" value="Spy / Espionage" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2000-05-18" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28497" value="Daydream Software" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="12999" value="DreamCatcher Interactive" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="6.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="4" />
+			<trading value="1" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

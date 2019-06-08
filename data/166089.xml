@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogameexpansion" id="166089">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/3AB0RQzx-isRrMqnvlGaHohHJRs=/fit-in/200x150/pic2304835.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/HvNrSkKYVXOjaKnyUwmZPSsBMLk=/0x0/pic2304835.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Ascension: Darkness Unleashed" />
+			
+						                           
+						               													<description>User Summary&amp;#10;&amp;#10;Ascension: Darkness Unleashed is the sixth game in the series released for iOS. It is both a standalone game for two players and an expansion that can be combined with  any or all of the Ascension games.&amp;#10;&amp;#10;Ascension: Darkness Unleashed introduces two new kind of cards:&amp;#10;&amp;#10;-    Dark Energy Shards : They are just like the previous Energy Shard card but they now add Fate effects. &amp;#10;-    Some cards have the Transform ability, to use it you have to meet certain energy requirements and they change for the rest of the game.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6063" value="Android" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6826" value="iPad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4443" value="iPhone" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2158" value="Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2403" value="Board Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2404" value="Card / Casino Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="26541" value="Ascension" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2410" value="Asynchronous Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2409" value="Hotseat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						               				<releasedate value="2014-09-17" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="17452" value="Playdek" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="12106" value="Stone Blade Entertainment" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="35232" value="Asmodee Digital" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="17452" value="Playdek" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameexpansion" id="102098" value="Ascension: Chronicle of the Godslayer" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameexpansion" id="163203" value="Ascension: Rise of Vigil" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="8" />
+			<average value="8.125" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="2537" bayesaverage="5.98951" />
+																				<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6826" name="ipad" friendlyname="iPad Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.36359" />
+			<median value="0" />
+			<owned value="28" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

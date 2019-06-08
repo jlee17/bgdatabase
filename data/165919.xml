@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165919">
+                                     				
+				<name type="primary" sortindex="1" value="Brain Age Express: Arts &amp; Letters" />
+			
+						                           
+						               													<description>The Literature edition (Arts &amp;amp; Letters outside of Japan) features word and memory puzzles. One new puzzle is called Photo Memory, a memory puzzle, where the game will take a picture from either the game itself or from the player's DSi, show it to the player, and then have the player pick between it and other randomly selected images from the player's folder while showing another image to memorize, and so on. For Brain Age Check, it uses Stroop Test, Connect Maze, Rock, Paper, Scissors, Word Memory, and Symbol Match. The Training mode features Reading Aloud, Piano Player, and others.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Brain Age Express&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4734" value="Nintendo DS" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2153" value="Educational" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2351" value="Puzzle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2472" value="School" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="5213" value="Brain Age" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2009-08-10" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="1326" value="Nintendo Co., Ltd." />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="1326" value="Nintendo Co., Ltd." />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4734" name="ds" friendlyname="Nintendo DS Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165527">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/51MbU5gPVuLlxDy4OwB58eNS3Uk=/fit-in/200x150/pic2393530.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/fB0BcpmQrWEC-39t26anqI-HPxg=/0x0/pic2393530.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Oknytt" />
+			
+						                           
+						               													<description>Oknytt is a point-and-click adventure game where the player takes the role of a small, seemingly insignificant creature, leading it through a dark world riddled with obstacles to help it find a place to belong. The game takes place in a Norse medieval world and contains a number of beings and areas inspired by Swedish folklore.&amp;#10;&amp;#10;Oknytt's gameplay is comprised of classic point-and-click puzzle solving combined with the usage of four runes located at the bottom of the screen. These runes can be activated at any time to trigger various changes and events in the area around the protagonist. Each rune has a specific element tied to it which have different areas of use depending on what can currently be seen in the environment. Figuring out what the runes can be used for and how to utilise their affect on the environment together with the items at your disposal is key to you being able to progress through the game world.&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2152" value="Adventure" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2329" value="Folklore" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2013-07-08" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28056" value="Nemoria Entertainment" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28056" value="Nemoria Entertainment" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="4.75" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.75" />
+			<median value="0" />
+			<owned value="9" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167438">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/WTnNawWDfFdi1UNiKr7NJfm_1AM=/fit-in/200x150/pic2481735.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/LP71DFUD2In53T5yaHkq5k1sT74=/0x0/pic2481735.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Bionite: Origins" />
+			
+						                           
+						               													<description>&amp;#10;&amp;#10;&amp;#10;    &amp;#10;        &amp;#10;UNRELEASED GAME &amp;ndash; AVAILABLE&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;        &amp;#10;This game is still either in Early-Alpha or Beta (or any status in between) but IS already available for sale / early access, so CAN BE PLAYED.&amp;#10;&amp;#10;    &amp;#10;&amp;#10;&amp;#10;Bionite: Origins is a work in progress to feature hover tanks in FPS/RTS game modes. In Bionite: Origins you get to pilot hover tanks in a variety of different game play types. Standard death match has you pitted against other players in head to head dogfights pitting pure skill to pure skill. RTS(Real Time Shooter) death match, coming soon, incorporates base building to the death match. The last part to be added will be a full on campaign mode that gives you all the RTS death match game play in full story mode.&amp;#10;&amp;#10;Upon our games alpha release on June 29th 2014, Our current main features include a combination of Siege and Tactical FPS. Utilizing the UDK engine we have created an objective based FPS in it&amp;rsquo;s purest form. Join your friends, enemies, or even your freinemys in an Objective based dog fight that can contain up to 64 cannon fodder. Select either the Powerful IMI or the underdog Rebels in a fight to defend, or destroy Three different objectives. Choose from 7 different vehicles which can counter each other in different ways, that is if you choose the right weapons to do so. Just remember, strength in numbers is a big part of the game. Stray from your team and your chances of survival are heavily reduced. We are very excited about our future plans. RTS Death match being one of them. In this blend of FPS and RTS, you will have to build your own base while trying to defend it. Maps will be able to house up to 8 players to duke it out in 4v4 combat. Teamwork will be absolute key in this up and coming game mode, but to survive you will need to balance between support, assault and defensive structures. Players will be given full AI command and control. Create squads to defend, scout and ultimately lay siege to your other &amp;ldquo;friends&amp;rdquo; base. Just remember, resources are limited, so watch what you build. Kill or be killed. With your help, we can fund our ultimate goal for a full 2 story-line campaign between the IMI and the Rebels. Control maps to complete objectives. Deprive the enemy force or resources before they have a chance to build a force to rival your own. Discover a sinister plot to deprive the solar system of resources and face the unknown&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2160" value="First Person Shooter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2166" value="Real Time Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="21970" value="(Unreleased Games - Available)" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2313" value="Cooperative" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="8" />
+						               				<releasedate value="2014-06-29" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28359" value="Platoon Studios" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28359" value="Platoon Studios" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

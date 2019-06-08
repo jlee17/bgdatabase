@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166820">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/uciMo2unpWNllFbiW2_-f0gSk7I=/fit-in/200x150/pic3107647.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/_6pVAbA0kjwAWHC3k6atPTADIoQ=/0x0/pic3107647.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="BoxesWithGuns" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Boxes With Guns" />
+			
+						               													<description>&amp;#10;&amp;#10;&amp;#10;    &amp;#10;        &amp;#10;UNRELEASED GAME &amp;ndash; IN DEVELOPMENT&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;        &amp;#10;This game has not been released yet, therefore some of the information above may change in the future. Until this game is released, please don't submit images for it, nor add new releases.&amp;#10;&amp;#10;    &amp;#10;&amp;#10;&amp;#10;User Summary&amp;#10;&amp;#10;BoxesWithGuns is a endless shooter game. Try to survive as long as possible by avoiding collisions with spawning enemies. You can collect dollars and customize your spaceship by adding new boxes and weapons.&amp;#10;&amp;#10;The attached weapon systems get enabled or disabled, based on the current music playing.&amp;#10;&amp;#10;Features&amp;#10;&amp;#10;&amp;#10;     13 different weapons &amp;#10;     6 special weapon effects &amp;#10;     4 power ups &amp;#10;     Self composed music/effects &amp;#10;     Adjustable graphics (Blur, Bloom and pixel destruction) &amp;#10;     Online highscore&amp;#10;&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2314" value="Arcade" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2167" value="Shooter" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2455" value="Abstract" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2331" value="Space" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="0000-00-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="14029" value="(Self-Developed Video Game)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="7" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166354">
+                                     				
+				<name type="primary" sortindex="1" value="868-HACK" />
+			
+						                           
+						               													<description>Okay what's changed from the 7 day version?&amp;#10;basically: A LOT.&amp;#10;- new programs.&amp;#10;- almost all the old programs ones modified (some in very subtle ways).&amp;#10;- a tutorial (skip this if you enjoy figuring out everything for yourself).&amp;#10;- better balanced.&amp;#10;- online high scores.&amp;#10;- streak scores too (sum across consecutive plays without dying).&amp;#10;- more graphics and sounds.&amp;#10;- so many little details I can't remember off the top of my head.&amp;#10;- secret stuff.&amp;#10;&amp;#10;I should repeat about the tutorial: some people really enjoyed the blind confusion of working out all the mechanics themselves, and if that might be you then it's totally reasonable to skip it - you can always go back to it later. I've gone back and forth over whether it was right to include one at all, but ultimately most players were completely lost without some guidance and there's very much a game worth playing still there even once you understand what all the rules are. I still find it interesting to play myself and I know every detail of how it works.&amp;#10;Oh also - don't expect to understand everything after just the tutorial. It gives you the basics, but you still have to figure out how to put them together.&amp;#10;&amp;#10;Also, several programs start out locked. Feel free to hit &amp;quot;unlock all&amp;quot; if you want to skip that, but I'd recommend going for the gradual introduction, you'll get a better understanding of the interactions between them.&amp;#10;&amp;#10;Thanks so much to everyone who's helped out with this, with testing and suggestions. In particular, massive thanks to Leon Arnott, who in addition to helping out by writing most of the victory text and some of the intro text, made numerous excellent suggestions. And then repeated the suggestions when I didn't pay attention. And tirelessly kept on repeating them until I actually got around to trying them out and realised he'd been right all along. He also made a fan page (somewhat deceptive). Bless Leon.&amp;#10;&amp;#10;get itttttt&amp;#10;(or, if you don't have one of those devices have patience I'll get a version you can play when I can! sorry!)&amp;#10;(also could someone please beat my high scores? ta.)&amp;#10;&amp;#10;Source: The Developer Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4443" value="iPhone" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2413" value="Roguelike" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2281" value="Cyberpunk" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2013-08-29" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="14029" value="(Self-Developed Video Game)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="2" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

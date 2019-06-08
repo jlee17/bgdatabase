@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165827">
+                                     				
+				<name type="primary" sortindex="1" value="Earth Defense Force 2025" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Chikyû Boueigun 4" />
+			    				
+				<name type="alternate" sortindex="1" value="地球防衛軍４" />
+			
+						               													<description>Earth Defense Force 2025, known in Japan as Chiky&amp;ucirc; Boueigun 4 (&amp;#229;&amp;#156;&amp;#176;&amp;#231;&amp;#144;&amp;#131;&amp;#233;&amp;#152;&amp;#178;&amp;#232;&amp;#161;&amp;#155;&amp;#232;&amp;#187;&amp;#141;&amp;#239;&amp;#188;&amp;#148;, lit. &amp;quot;Earth Defense Forces 4&amp;quot;) is a third-person shooter developed by Sandlot, and published by D3 Publisher, for the Xbox 360 and PlayStation 3. It is the follow-up to Earth Defense Force 2017.&amp;#10;&amp;#10;Gameplay&amp;#10;&amp;#10;The player takes control of an EDF soldier from one of four soldier classes. To fight these alien forces the player can access several weapons in the game, ranging from assault rifles and sniper rifles to rocket launchers, grenades, and laser weapons. Only two weapons may be selected for each mission with the exception of the Fencer, who can have four weapons. The game has more than seven hundred weapons; roughly 175 weapons per soldier class. This the highest weapon count of any EDF. Some levels also contain vehicles which can be operated. The game takes place across levels featuring destructible environments, taking place in settings such as cities, beaches, hills, underground tunnels and more. There is no penalty for collateral damage that is inflicted on the environment by the player, for instance when buildings crumble after sustaining a few hits from a rocket launcher or grenade. Other EDF soldiers can be recruited or followed, and attack enemies on sight, as well as provide radio chatter. You can also customize the color of your soldier.&amp;#10;&amp;#10;There are several difficulty levels. More effective weapons are dropped by the enemies in the game at the higher difficulty levels, encouraging players to repeat the missions. In addition to weapons, armor enhancements which function as permanent maximum health bonuses are dropped along with healing items.&amp;#10;&amp;#10;Story&amp;#10;&amp;#10;The Earth Defense Force, a unified multinational military sponsored by nearly every country, is founded after detecting an impending alien visit in case the aliens prove to be hostile. In the year 2017, that proved to be true and the EDF fought against the Ravagers, an alien race that attacked Earth with giant insect-like creatures, UFOs, robots, and gigantic, 120 foot tall lizard-like creatures. Eight years after defeating the last Ravager in Arizona, they attack again with new creatures, evolved from their underground nest. Among them is the Retiarius, a spider-like creature which makes gigantic spider-webs, and giant bees. In the year 2025, the EDF must protect the Earth again from the alien invaders.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Earth Defense Force 2025&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4435" value="PlayStation 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4407" value="Xbox 360" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2147" value="Action" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2167" value="Shooter" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="25825" value="Earth Defense Force" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2313" value="Cooperative" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						               				<releasedate value="2014-02-18" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="13795" value="Sandlot" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11806" value="D3 Publisher" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3" />
+			<average value="8" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4407" name="xbox360" friendlyname="Xbox 360 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4435" name="ps3" friendlyname="PlayStation 3 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.816497" />
+			<median value="0" />
+			<owned value="12" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

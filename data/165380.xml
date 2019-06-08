@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165380">
+                                     				
+				<name type="primary" sortindex="1" value="Pro Cycling Manager Season 2014: Le Tour de France" />
+			
+						                           
+						               													<description>Would you like to experience the sensations of a professional rider competing in the &amp;ldquo;Grande Boucle&amp;rdquo;? Then immerse yourself in an incredible virtual Tour de France 2014 on PlayStation&amp;reg;4, PlayStation&amp;reg;3 and Xbox 360&amp;reg;!&amp;#10;&amp;#10;Select from one of the official teams and take part in this supreme test of endurance. Compete as one of the riders in a bid to reach the Holy Grail of professional cycling: the yellow jersey! Go on a reconnaissance trip of a specific stage, decide the composition of your team and the rider with whom you will start the race and then launch into the epic stages. The English countryside, the route through London with its iconic landmarks, a cobbled stage in Northern France (every rider&amp;rsquo;s nightmare), the grueling mountain stages or a solo time trial that could in fact decide the winner!&amp;#10;&amp;#10;Source: The Developer Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2154" value="Racing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2156" value="Simulation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2545" value="Sports - Bicycling" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="10377" value="Pro Cycling Manager" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="0" />
+						               				<releasedate value="2014-06-19" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="12894" value="Cyanide Studio" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="12888" value="Focus Home Interactive" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

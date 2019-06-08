@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165980">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/crjEIn9SXvgBxIxTHc4bQd3YPGc=/fit-in/200x150/pic2440674.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/dqXsHU_rPgOp3BrGrILt18kFeHU=/0x0/pic2440674.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Assassin&#039;s Creed: Rogue" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Assassin&#039;s Creed: Rogue Remastered" />
+			    				
+				<name type="alternate" sortindex="1" value="Assassin&#039;s Creed: Rogue – Collector&#039;s Edition" />
+			
+						               													<description>Assassin's Creed Rogue is a 2014 historical fiction action-adventure open world stealth video game developed by Ubisoft Sofia and published by Ubisoft. It is the eighth major installment in the Assassin's Creed series, and acts as a sequel to 2013's Assassin's Creed IV: Black Flag and a prequel to 2012's Assassin's Creed III with its final mission being the prologue to 2014's Assassin's Creed Unity. The game was first released on the Playstation 3 and Xbox 360 in November and December 2014, and will later be made available on Microsoft Windows in 2015.&amp;#10;&amp;#10;The story is set in the mid-18th century during the French and Indian War, and follows Shay Patrick Cormac, an Assassin-turned-Templar. Gameplay in Rogue is very similar to that of Black Flag with a mixture of ship-based naval exploration and third-person land-based exploration with some new features.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;http://en.wikipedia.org/wiki/Assassin%27s_Creed_Rogue&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4435" value="PlayStation 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4407" value="Xbox 360" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="22574" value="Xbox One" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2161" value="Action Adventure" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2427" value="Alternate Historical" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="26165" value="Assassin's Creed" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="4845" value="Assassin's Creed (Core Series)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-11-18" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="14134" value="Ubisoft Montreal" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11781" value="Ubisoft Entertainment S.A. (Ubisoft)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="17" />
+			<average value="7.31765" />
+			<bayesaverage value="6.09538" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="2084" bayesaverage="6.09538" />
+																				<rank type="family" id="4407" name="xbox360" friendlyname="Xbox 360 Rank" value="430" bayesaverage="6.34556" />
+											<rank type="family" id="4435" name="ps3" friendlyname="PlayStation 3 Rank" value="498" bayesaverage="6.29515" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="1130" bayesaverage="6.23449" />
+											<rank type="family" id="22574" name="xboxone" friendlyname="Xbox One Rank" value="91" bayesaverage="6.95185" />
+												</ranks>
+
+			<stddev value="1.35787" />
+			<median value="0" />
+			<owned value="83" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="10" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

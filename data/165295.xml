@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165295">
+                                     				
+				<name type="primary" sortindex="1" value="Aliens Vs. Predator (1994/Arcade)" />
+			
+						                           
+						               													<description>From Wikipedia,&amp;#10;&amp;#10;Alien vs. Predator is a beat 'em up video game developed and released by Capcom for the CPS-2 arcade game system in 1994. In the game, the players take control of up to three human and Predator characters in a battle against the Alien hordes and rogue human soldiers. The game was very well received by fans and media publications, becoming a classic title for many fans of the beat 'em up genre, but was never ported to any home system.&amp;#10;&amp;#10;http://en.wikipedia.org/wiki/Alien_vs._Predator_(arcade_game)&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4781" value="Arcade" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2342" value="Beat 'em Up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2265" value="Horror" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2350" value="Movie, Book, TV show" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="7472" value="Alien" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="7473" value="Predator" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="3" />
+						               				<releasedate value="1994-05-20" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="4358" value="Capcom Co., Ltd." />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="4358" value="Capcom Co., Ltd." />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4781" name="arcade" friendlyname="Arcade Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

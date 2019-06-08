@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166441">
+                                     				
+				<name type="primary" sortindex="1" value="High Velocity Bowling" />
+			
+						                           
+						               													<description>From Wikipedia,&amp;#10;&amp;#10;High Velocity Bowling varies from other bowling games by introducing a challenge mode. The player has to go through every level to unlock all of the 10 playable characters and all of the 10 lanes. Each level has 3 challenges to complete. These challenges can be tournaments, matches or trick shots, where the objective is to get a strike while following a certain road. The game also has a trophy room, in which the player can see his trophies, rings and patches he gained through the game. While the player can use the Sixaxis for the bowling swing, there are other control schemes in the game as well as Playstation Move support on the Blu-ray release. Finally, High Velocity Bowling has a multiplayer mode, where up to 4 people can play online and offline.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;High Velocity Bowling&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4435" value="PlayStation 3" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2157" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2363" value="Sports - Bowling" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2410" value="Asynchronous Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						               				<releasedate value="2007-12-06" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="7370" value="Sony Computer Entertainment (SCE)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="7370" value="Sony Computer Entertainment (SCE)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="247277" value="After Hours Athletes" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4435" name="ps3" friendlyname="PlayStation 3 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="4" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogamecompilation" id="165836">
+                                     				
+				<name type="primary" sortindex="1" value="Leisure Suit Larry: Greatest Hits and Misses!" />
+			
+						                           
+						               													<description>This CD collection included all the Larry games up to Larry 6, including both versions of the original game, the VGA (non-talkie) floppy version of Larry 6, the Laffer Utilities and the original Softporn game. A limited edition print of the Leisure Suit Larry book was also included, titled &amp;quot;My Scrapbook&amp;quot;.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;[en.wikipedia.org/wiki/Leisure_Suit_Larry%23Collections Leisure Suit Larry]&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4714" value="DOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2152" value="Adventure" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2277" value="Adult / Mature" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2509" value="Comedy" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="5041" value="Leisure Suit Larry" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="1994-00-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="10274" value="Sierra Entertainment Inc." />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="12294" value="Codemasters" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="10274" value="Sierra Entertainment Inc." />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="70702" value="Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="70703" value="Leisure Suit Larry 6: Shape Up or Slip Out!" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="70700" value="Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="70701" value="Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="70699" value="Leisure Suit Larry in the Land of the Lounge Lizards" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="107772" value="Softporn Adventure" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="7" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4714" name="dos" friendlyname="DOS Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="6" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

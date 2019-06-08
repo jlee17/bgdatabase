@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166630">
+                                     				
+				<name type="primary" sortindex="1" value="Fenix Rage" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Fenix Furia" />
+			
+						               													<description>From Green Lava Studios, Fenix Rage is an inspired, frenetically-paced, challenging, and aggressively addicting 2D action platformer that will keep one&amp;rsquo;s palms sweaty, thumbs fatigued, and wits sharp. Gamers take on the role of Fenix, whose village is decimated by a huge explosion, leaving only two survivors &amp;ndash; Fenix and Oktarus, a mysterious figure who manages to elude Fenix&amp;rsquo;s best efforts at capture.&amp;#10;&amp;#10;Fenix Rage instantly throws gamers into hundreds of lightning-paced levels that test their ability to jump and dash their way through a maze of dangerous obstacles, all in an effort to track down the shadowy Oktarus and collect each level&amp;rsquo;s cookie! Offering pixel-perfect mechanics, gamers will nonetheless struggle mightily to achieve the best rankings in the best time with the fewest deaths to rub in their friends&amp;rsquo; faces. Loads of different enemies, slick retro-inspired music, fantastic environments, and the need to master lots of varying platforming tactics lay in wait&amp;hellip;are you up for the challenge?&amp;#10;&amp;#10;Source: The Developer Website.&amp;#10;&amp;#10;Fenix Rage is a platform video game by the Costa Rican developer Green Lava Studios. The gameplay has been compared to a cross between Super Meat Boy and Flappy Bird. Its developers were inspired by Sonic the Hedgehog and the 90s cartoon SWAT Kats. The game is expected for release in Q3 2014 on Microsoft Windows, OS X, PlayStation 4, and Xbox One platforms.&amp;#10;&amp;#10;The player-character, Fenix, pursues an evil creature after it freezes and destroys his town. Fenix can jump infinitely as well as dash. There are 200 levels, and the game has no tutorial. The player jumps around each level to reach a blue door. Each level has an optional cookie hidden in a difficult to access area. Players who collect them receive out-of-game recipes for new cookies. Players must restart the entire level upon dying, though respawns are fast.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Fenix Rage&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="21674" value="PlayStation 4" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="22574" value="Xbox One" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2164" value="Platform" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2624" value="Food / Cooking" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-09-24" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28218" value="Green Lava Studios" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28217" value="Reverb Triple XP" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="21674" name="playstation4" friendlyname="PlayStation 4 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="22574" name="xboxone" friendlyname="Xbox One Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="165769">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/f9WA4yNHmbInycu-_NsVPHyz4WQ=/fit-in/200x150/pic2644266.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/6BD-aZZRdv2tapDdgysywjEw0Ak=/0x0/pic2644266.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Dozen Doubloons" />
+			
+						                           
+						               													<description>Dozen Doubloons is a solitaire card game for anyone aged 8 and up.  It takes one minute to learn, just minutes to play, and keeps challenging your wits for hours. Kids won't know they're learning how to think strategically, and adults will wish they remembered how! Four levels of difficulty provide a challenge for anyone who sits down with Dozen Doubloons in front of them.&amp;#10;&amp;#10;The deck consists of 54 cards.  There are four sets of numbers 1 through 12, plus 4 BLOCK cards, and 2 WILD cards. The object of the game is to deplete all cards in play.&amp;#10;&amp;#10;Shuffle. Deal 6 stacks of four cards face down, and a fifth card on each stack face up.  The remaining cards are your draw stack. To play: combine up to three cards that equal 12, and place them in a discard pile.  Turn over the next card in each of your stacks.  If a BLOCK card shows up, do not remove the card but move it and all cards underneath it to a position above any other unblocked stack.  You may not touch the BLOCK stack until the stack beneath it is depleted.  Once the stack is depleted, slide the whole BLOCK stack down into position, discard the BLOCK card, turn over the next card, and continue playing.&amp;#10;&amp;#10;When there are no cards that equal 12 (or if you choose not to use a combination that is available), turn over the first DRAW card. If it's usable, use it. If not, place it face down in front of you.  Continue to DRAW cards as needed, and keep placing them to the right of the original card. If a BLOCK card comes up from the DRAW pile, discard it and ALL the other cards accumulated from previous draws--they are now out of play.&amp;#10;&amp;#10;Once you have gone through your DRAW pile one time, the game is over.  If you have not depleted all six original stacks, you have lost.&amp;#10;&amp;#10;This is a summary of the rules and not meant to cover all possible scenarios.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+	</poll> 			               				<playingtime value="5" />
+						               				<minplaytime value="5" />
+						               				<maxplaytime value="5" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1090" value="Pirates" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Solitaire Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="16086" value="Alan Anderson" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25723" value="World Village Games, LLC" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="16" />
+			<average value="6.175" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.39754" />
+			<median value="0" />
+			<owned value="42" />
+			<trading value="1" />
+			<wanting value="0" />
+			<wishing value="4" />
+			<numcomments value="12" />
+			<numweights value="3" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

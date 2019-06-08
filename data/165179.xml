@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165179">
+                                     				
+				<name type="primary" sortindex="1" value="Wirehead" />
+			
+						                           
+						               													<description>From Wikipedia,&amp;#10;&amp;#10;Wirehead was one of the last games released for the Sega CD, and one of the platform's most ambitious full-motion video productions.&amp;#10;&amp;#10;Ned Hubbard (Steve Witting) is a mild-mannered family man who just happens to have a wireless device implanted into his brain.[2] When strange men attempt to kidnap Ned from his home, he flees for his life. The player guides Ned by manipulating his brain&amp;ndash;computer interface. Every few seconds, the player must react quickly to an audiovisual prompt, and guide Ned in one of three or four possible directions. In most cases, one option advances the game, and the others lead to Ned's downfall. Although Ned's evasive maneuvers are almost invariably non-violent, a few circumstances instigate &amp;quot;combat mode&amp;quot;, in which the player has two attack options: punch or kick.&amp;#10;&amp;#10;http://en.wikipedia.org/wiki/Wirehead_(video_game)&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4436" value="SEGA CD" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2161" value="Action Adventure" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2512" value="Surreal" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="1995-00-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="13783" value="The Code Monkeys, Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="14065" value="MGM Interactive" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="5360" value="SEGA Corporation" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="2" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4436" name="segacd" friendlyname="SEGA CD Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

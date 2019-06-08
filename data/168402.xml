@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="168402">
+                                     				
+				<name type="primary" sortindex="1" value="Persona Q: Shadow Of The Labyrinth" />
+			
+						                           
+						               													<description>Do you know the Seven Horrors of Yasogami High?&amp;#10;Whoever hears the bells of the clock tower will die...&amp;#10;&amp;#10;Persona Q: Shadow Of The Labyrinth is the latest Persona title, incorporating the gameplay style previously unique to the Etrian Odyssey series.  This game is an exclusive Nintendo 3DS-exclusive RPG created by the Persona team and dedicated to all RPG fans.&amp;#10;&amp;#10;The Persona-users cross time and space to assemble as a new tale unfolds...&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5857" value="Nintendo 3DS" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2155" value="RPG" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2337" value="Cute Fantasy" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="4774" value="Shin Megami Tensei: Persona" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-11-25" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="11904" value="Atlus Co. Ltd." />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11904" value="Atlus Co. Ltd." />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="8" />
+			<average value="7.3125" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="3146" bayesaverage="5.88186" />
+																				<rank type="family" id="5857" name="nintendo3ds" friendlyname="Nintendo 3DS Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="2.33101" />
+			<median value="0" />
+			<owned value="34" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="2" />
+			<numcomments value="4" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

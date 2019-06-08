@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167216">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/szwoOVN4VZ9Af7otV2-Bkrj5SoU=/fit-in/200x150/pic2879268.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/h_obMMuw_meNsR-INFZ6df424vE=/0x0/pic2879268.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Life of Pixel" />
+			
+						                           
+						               													<description>Life of Pixel is a retro delicacy dedicated to the brilliance of classic gaming machines and ground-breaking game favourites. You play as Pixel, the inquisitive little green hero on a quest to explore where pixels began life. Follow his journey through video game history by collecting the bit-gems and unlocking each amazing game machine. Collect the 'Specials' and unlock more! Armed with awesome power-ups, Pixel must vanquish the enemy pixels and bosses who try to thwart him throughout his quest.&amp;#10;&amp;#10;With over 100 fun packed levels of platforming goodness! Chock-full of tricks &amp;amp; traps, double jump challenges, gravity inversion, special power-ups and loads of different enemies.&amp;#10;&amp;#10;Pixel wants you to help him discover his past and unlock his destiny!&amp;#10;&amp;#10;Source: The Developer Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5248" value="Linux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="10373" value="PlayStation Vita" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2164" value="Platform" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2455" value="Abstract" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2013-01-09" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28309" value="Super Icon Ltd" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="1001" value="(Web published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="27017" value="Plug In Digital" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="6" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="10373" name="playstationvita" friendlyname="PlayStation Vita Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

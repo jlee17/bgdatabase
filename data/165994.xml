@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165994">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/ddSRPqreJg8gtUBajTO8jWGgfWc=/fit-in/200x150/pic2814335.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/_q88pRMkNbnA1GqvMj4XVbmWZVo=/0x0/pic2814335.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Tom Clancy&#039;s Rainbow Six: Siege" />
+			
+						                           
+						               													<description>It is considered to be a successor to Tom Clancy's Rainbow 6: Patriots, which has been cancelled.Like all other titles in the series, it will focus heavily on team play and realism. However, there are major differences to older versions of the game, featuring a heavy multiplayer focus and destructible environments.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Tom Clancy's Rainbow Six Siege&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="21674" value="PlayStation 4" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="22574" value="Xbox One" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2167" value="Shooter" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2508" value="Military" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="5922" value="Tom Clancy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="5222" value="Tom Clancy's Rainbow Six" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="0" />
+						               				<releasedate value="2015-12-01" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="14134" value="Ubisoft Montreal" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11781" value="Ubisoft Entertainment S.A. (Ubisoft)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="23" />
+			<average value="7.27826" />
+			<bayesaverage value="6.09928" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="2067" bayesaverage="6.09928" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="1246" bayesaverage="6.16563" />
+											<rank type="family" id="21674" name="playstation4" friendlyname="PlayStation 4 Rank" value="197" bayesaverage="6.53394" />
+											<rank type="family" id="22574" name="xboxone" friendlyname="Xbox One Rank" value="126" bayesaverage="6.60108" />
+												</ranks>
+
+			<stddev value="1.99346" />
+			<median value="0" />
+			<owned value="45" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="1" />
+			<numcomments value="10" />
+			<numweights value="1" />
+			<averageweight value="4" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

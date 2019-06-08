@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166085">
+                                     				
+				<name type="primary" sortindex="1" value="Combo Crew" />
+			
+						                           
+						               													<description>In a world where a fist to the face is a perfectly viable solution, Mr. Boss has it all. Now he wants to break the greatest fighters ever! Trapped in his giant tower, you must fight your way to the top to take him down! Inspired by classics like Streets of Rage, Final Fight, and Street Fighter, Combo Crew is pure rumble with no virtual buttons to mess up your moves.&amp;#10;&amp;#10;Touch controls are smooth, responsive, and easy to learn: one-finger swipe to punch / kick, tap to counter, and two-finger swipes for special combos. When your super combo gauge fills up, all hell breaks loose&amp;mdash;beat down the bad guys with hectic in-your-face combo streaks!&amp;#10;&amp;#10;Play this action-packed brawler alone or call in your whole crew! You can rescue online friends from KO (or have them rescue you) and compete for high scores on global leaderboards. Quick melee brawls in arena-style levels make Combo Crew perfect for intense bursts of gaming on the go. But with hundreds of missions, unlockables, and an endless mode, you&amp;rsquo;ll keep coming back for more.&amp;#10;&amp;#10;Source: The Publisher Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6063" value="Android" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6826" value="iPad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4443" value="iPhone" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2342" value="Beat 'em Up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2509" value="Comedy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2493" value="Martial Arts" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2410" value="Asynchronous Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2313" value="Cooperative" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						               				<releasedate value="2013-05-23" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="21660" value="The Game Bakers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="21660" value="The Game Bakers" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="5.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6826" name="ipad" friendlyname="iPad Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.5" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

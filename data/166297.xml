@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166297">
+                                     				
+				<name type="primary" sortindex="1" value="Magic 2015: Duels of the Planeswalkers" />
+			
+						                           
+						               													<description>&amp;quot;HUNT BIGGER GAME&amp;#10;Hunt bigger game on a bold new adventure with - Magic 2015&amp;mdash;Duels of the Planeswalkers. Your biggest danger lies ahead. Garruk Wildspeaker, the greatest hunter known, has fallen under the curse of the Chain Veil. He now mercilessly stalks his own kind. Find him and stop him ... before he finds you!&amp;quot;&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6063" value="Android" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4407" value="Xbox 360" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2158" value="Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="6159" value="Magic: The Gathering" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2313" value="Cooperative" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						               				<releasedate value="2014-07-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="12849" value="Stainless Games Ltd" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="13" value="Wizards of the Coast" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameexpansion" id="219839" value="Magic 2015: Garruk's Revenge" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="6" />
+			<average value="6.08333" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="4735" bayesaverage="5.7005" />
+																				<rank type="family" id="4407" name="xbox360" friendlyname="Xbox 360 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="2.28066" />
+			<median value="0" />
+			<owned value="34" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="2" />
+			<numcomments value="0" />
+			<numweights value="1" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

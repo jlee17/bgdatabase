@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167341">
+                                     				
+				<name type="primary" sortindex="1" value="Project Spark" />
+			
+						                           
+						               													<description>Project Spark is a &amp;quot;game maker&amp;quot; video game for Microsoft Windows 8.1 and Xbox One. The game was announced during Microsoft's E3 2013 press event, and was launched as a Windows open beta in December 2013, and an Xbox One beta in March 2014. It is based on Kodu Game Lab and is planned to be released in October 7, 2014.&amp;#10;&amp;#10;Gameplay&amp;#10;&amp;#10;Project Spark Is a digital canvas which can be used to make games, movies and other experiences. A player can download other user-generated content, remix that content or create content of their own. A player can use the Xbox controller, keyboard and mouse, touch-devices, Kinect and SmartGlass to build experiences. Kinect can be used to animate models and record audio. The created environments can contain mountains, rivers, and towns. The player can also create events, like inter-character battles. Created items and objects are able to be shared with other players.&amp;#10;&amp;#10;Players choose whether to start from a blank map or a pre-designed level, but always have the tools to customize the topography, add plant and animal life, and program behaviors for specific objects, such as a rock that bounces when a player is nearby. The topography is modified by pushing and pulling the earth, digging through surfaces after changing the view to adjust a wall or create holes in it. Anything added to the terrain reacts to the circumstance, such as grass covering the floor and the vertical surfaces becoming rocks.&amp;#10;&amp;#10;Game designer Claude Jerome has said that &amp;quot;the game is all about giving players options&amp;quot;, like the ability to add a single flower versus a field of flowers just by resizing the flower paintbrush's size. He added that the game is also about &amp;quot;sharing and playing with the community&amp;quot;, and that the difference between Spark and LittleBigPlanet or Minecraft is the core ability to customize the game down to the minutiae of the in-game object actions, which lets the players tell more individual stories. Players can control the game with the Xbox controller, SmartGlass, or a keyboard/mouse combination. The SmartGlass interface mirrors the Xbox One display, but adapts for touch controls when in editor mode.&amp;#10;&amp;#10;Worlds created in the game are shareable. Other players who enter can use the world as created, and a duplicate world is created if they would like to make changes.&amp;#10;&amp;#10;According to a post from Mike Lescault on the social media website reddit, Project Spark will not require an Xbox Live Gold Membership to be played.&amp;#10;&amp;#10;The game will also feature the character Conker the Squirrel.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Project Spark&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="22574" value="Xbox One" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2147" value="Action" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2512" value="Surreal" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="0" />
+						               				<releasedate value="2014-10-07" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="11453" value="Microsoft Game Studios" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11453" value="Microsoft Game Studios" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4" />
+			<average value="8.25" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="22574" name="xboxone" friendlyname="Xbox One Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.29904" />
+			<median value="0" />
+			<owned value="9" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="2" />
+			<numweights value="1" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

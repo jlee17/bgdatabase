@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166346">
+                                     				
+				<name type="primary" sortindex="1" value="You Don&#039;t Know Jack: Mock 2" />
+			
+						                           
+						               													<description>User Summary&amp;#10;&amp;#10;The second volume of Seirra's You Don't Know Jack series comes to the PlayStaion in You Don't Know Jack Mock 2. Gameplay follows the conventions established in the first You Don't Know Jack game, featuring fast-paced trivia questions and a witty, if not mildly insulting, announcer. The television gameshow-styled interface enjoys a smoother 3D presentation in this installment. You Don't Know Jack Mock 2 features 750 new questions and a new type of questions called &amp;quot;CoinkyDinks.&amp;quot; With enough controllers, the game can support up to three players (or teams) competing at once.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4433" value="PlayStation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2169" value="Trivia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2428" value="Minigame Compilation" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="5747" value="You Don't Know Jack" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2409" value="Hotseat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="3" />
+						               				<releasedate value="2000-11-01" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="12732" value="Starsphere Interactive" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="10274" value="Sierra Entertainment Inc." />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="8" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4433" name="playstation" friendlyname="PlayStation Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

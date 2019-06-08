@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogameexpansion" id="167696">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/zTfkTrQJO0EZpy_Ax6Chc3akbiE=/fit-in/200x150/pic2874313.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/Yg7k9UAks_5aQrH7OMJvVnpSVYI=/0x0/pic2874313.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Pack 2: Animal Crossing x Mario Kart 8" />
+			
+						                           
+						               													<description>User Summary&amp;#10;&amp;#10;This is the second DLC pack for Mario Kart 8. The DLC includes:&amp;#10;&amp;#10;2 New Cups with 4 Tracks Each&amp;#10;&amp;#10;    Crossing Cup&amp;#10;         Baby Park from Mario Kart Double Dash!!&amp;#10;         Cheese Land from Mario Kart Super Circuit&amp;#10;         Wild Woods - All New&amp;#10;         Animal Crossing - All New&amp;#10;    &amp;#10;     Bell Cup&amp;#10;         Neo Bowser City from Mario Kart 7&amp;#10;         Ribbon Road from Mario Kart Super Circuit&amp;#10;         Super Bell Subway - All New&amp;#10;         Big Blue&amp;#10;    &amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;3 New Racers&amp;#10;&amp;#10;     Villager from Animal Crossing in both and female choices&amp;#10;     Isabelle from Animal Crossing: New Leaf&amp;#10;     Dry Bowser the skeletal version of Bowser&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;4 New Karts&amp;#10;&amp;#10;     Streetle - A kart based on Animal Crossing&amp;#10;     City Tripper - A bike based on Animal Crossing&amp;#10;     P-Wing - A kart based on the P-Wing power-up from Super Mario Bros. series&amp;#10;     Bone Rattler - An ATV based on Dry Bowser&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;2 New Kart Parts&amp;#10;&amp;#10;     Leaf Tires - A new pair of tires based on the Animal Crossing&amp;#10;     Paper Glider - A new glider based on the Animal Crossing&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="10763" value="Wii U" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2154" value="Racing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2337" value="Cute Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="4868" value="Mario" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="4874" value="Mario Kart" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="12" />
+						               				<releasedate value="2015-05-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="1326" value="Nintendo Co., Ltd." />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="1326" value="Nintendo Co., Ltd." />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameexpansion" id="143976" value="Mario Kart 8" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="10" />
+			<average value="8.1" />
+			<bayesaverage value="5.94289" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="2771" bayesaverage="5.94289" />
+																				<rank type="family" id="10763" name="wiiu" friendlyname="Wii U Rank" value="145" bayesaverage="6.58386" />
+												</ranks>
+
+			<stddev value="1.2" />
+			<median value="0" />
+			<owned value="38" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="1" />
+			<averageweight value="4" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

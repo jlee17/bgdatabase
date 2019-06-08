@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165831">
+                                     				
+				<name type="primary" sortindex="1" value="Global Defence Force Tactics" />
+			
+						                           
+						               													<description>Global Defence Force Tactics (THE&amp;#229;&amp;#156;&amp;#176;&amp;#231;&amp;#144;&amp;#131;&amp;#233;&amp;#152;&amp;#178;&amp;#232;&amp;#161;&amp;#155;&amp;#232;&amp;#187;&amp;#141;&amp;#227;&amp;#130;&amp;#191;&amp;#227;&amp;#130;&amp;#175;&amp;#227;&amp;#131;&amp;#134;&amp;#227;&amp;#130;&amp;#163;&amp;#227;&amp;#130;&amp;#175;&amp;#227;&amp;#130;&amp;#185;) is a PlayStation 2 turn-based strategy game developed by thinkArts.&amp;#10;&amp;#10;Known variously as: Earth Defense Force Tactics (US), Simple 2000 Series Vol. 103: The Chikyuu Boueigun Tactics (JPN), and Global Defense Force Tactics (EU).&amp;#10;&amp;#10;Players assume the role of GDF Commander and control GDF units in turn-based missions against the giant bug menace. Missions take place on 2D hex-maps, with attacks depicted by brief animated cutscenes.&amp;#10;&amp;#10;The game has 50 stages and 250 different weapons.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Global Defence Force Tactics&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4434" value="PlayStation 2" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2158" value="Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2006-07-25" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28107" value="thinkArts" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11806" value="D3 Publisher" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="18101" value="Essential Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4434" name="playstation2" friendlyname="PlayStation 2 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

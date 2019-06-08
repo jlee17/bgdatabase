@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogamecompilation" id="168257">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/WiwSzZQSRlciqBUVLr-SafaSvf0=/fit-in/200x150/pic2407073.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/2jkQGycP78DGFiJk9zaDfymt3_I=/0x0/pic2407073.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="NES Remix Pack" />
+			
+						                           
+						               													<description>User Summary&amp;#10;&amp;#10;NES Remix Pack is a compilation of the first two games in the NES Remix series. The games consist of gameplay snippets from a number of old games on the Nintendo Entertainment System, turned into new, original challenges.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="10763" value="Wii U" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2482" value="Other" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2428" value="Minigame Compilation" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="24551" value="NES Remix" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-04-24" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="12523" value="indieszero" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="1326" value="Nintendo Co., Ltd." />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="154370" value="NES Remix" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="155045" value="NES Remix 2" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="6" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="10763" name="wiiu" friendlyname="Wii U Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="17" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="2" />
+			<numcomments value="0" />
+			<numweights value="1" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

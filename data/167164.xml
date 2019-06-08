@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167164">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/E6Zeje_rnc4xO0OGWPYslsHRuZ8=/fit-in/200x150/pic4341763.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/Odru9X-xINDkKXfl0NPAnvctxVg=/0x0/pic4341763.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Blockstorm" />
+			
+						                           
+						               													<description>Blockstorm is a FPS game set in a world made of destructible blocks.&amp;#10;&amp;#10;The voxel nature of characters and maps and the in-game editor allows you to fully customize your game and quickly share your experience with other players. You are free to create your own maps and characters from scratch or to customize existing ones. All maps and characters included in the game are made with the same tools that are available to the public.&amp;#10;&amp;#10;Weapons range from precise rifles to heavy machine guns or even explosives capable of destroying hiding places and creating tactical advantages. You can pick out your own load out, choosing between a set of weapons configured by the creator of the map.&amp;#10;&amp;#10;You can build everything in Blockstorm, and you can destroy it.&amp;#10;&amp;#10;Currently there are 3 modes&amp;#10;- Deathmatch&amp;#10;- Team Deathmatch&amp;#10;- Assault&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5248" value="Linux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2160" value="First Person Shooter" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2455" value="Abstract" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2015-06-25" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28289" value="GhostShark" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="6" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1" />
+			<median value="0" />
+			<owned value="8" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

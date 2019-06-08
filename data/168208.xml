@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="168208">
+                                     				
+				<name type="primary" sortindex="1" value="Pokémon Art Academy" />
+			
+						                           
+						               													<description>Pok&amp;eacute;mon Art Academy (&amp;#227;&amp;#131;&amp;#157;&amp;#227;&amp;#130;&amp;#177;&amp;#227;&amp;#131;&amp;#162;&amp;#227;&amp;#131;&amp;#179;&amp;#227;&amp;#130;&amp;#162;&amp;#227;&amp;#131;&amp;#188;&amp;#227;&amp;#131;&amp;#136;&amp;#227;&amp;#130;&amp;#162;&amp;#227;&amp;#130;&amp;#171;&amp;#227;&amp;#131;&amp;#135;&amp;#227;&amp;#131;&amp;#159;&amp;#227;&amp;#131;&amp;#188; Pokemon &amp;#196;&amp;#128;to Akadem&amp;#196;&amp;#171;?) is an educational drawing video game for the Nintendo 3DS developed by Headstrong Games and published by Nintendo. It is a spin-off of the Art Academy series featuring characters from the Pok&amp;eacute;mon media franchise, and was first released in Japan in June 2014, followed by English releases in Europe and Australia the following July, and North America in October. The game is available as both a retail release and downloadable game from the Nintendo eShop, and is the first 3DS title with built-in Miiverse support for sharing artwork.&amp;#10;&amp;#10;Pok&amp;eacute;mon Art Academy is an educational art game designed to teach players how to draw various Pok&amp;eacute;mon characters through 40 advancing lessons. Players progress through three skill levels - Novice, Apprentice, and Graduate - while learning new techniques and art concepts, with additional tools such as pastel and paintbrush being unlocked along the way. The Novice course begins with skills such as drawing head-on portraits, angles, and construction shapes, while later stages introduce shading, hatching, opacity, and freehand sketches. Each drawing can be transferred to a Pok&amp;eacute;mon Trading Card Game card border upon completion, with the option to add a background image.&amp;#10;&amp;#10;The game also includes a Free Paint Mode that allows players to draw whatever they wish, with the option to load templates as reference, as well as Quick Sketch Mode, which requires making a simple drawing with limited tools. Additional templates can be obtained by progressing through lessons, or as downloadable content through special promotions over Nintendo Network. Pok&amp;eacute;mon Art Academy features Miiverse functionality that allows for drawings to be uploaded to Nintendo's Miiverse Community, as well as take part in art contests.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Pok&amp;#195;&amp;#169;mon Art Academy&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5857" value="Nintendo 3DS" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2153" value="Educational" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2454" value="Art" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="5252" value="Pokémon" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-06-19" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="16175" value="Headstrong Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="1326" value="Nintendo Co., Ltd." />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="5857" name="nintendo3ds" friendlyname="Nintendo 3DS Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

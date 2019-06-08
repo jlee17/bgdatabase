@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165601">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/lwImMODhrBHPOcNAdEVhYnUUp7I=/fit-in/200x150/pic3453111.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/g94-G0EGD6d-E7uOzSsrCLkNGYU=/0x0/pic3453111.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Mighty Gunvolt" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Gal Gunvolt" />
+			    				
+				<name type="alternate" sortindex="1" value="Gyaru Ganvoruto" />
+			    				
+				<name type="alternate" sortindex="1" value="Maiti Ganvoruto" />
+			    				
+				<name type="alternate" sortindex="1" value="ぎゃるガンヴォルト" />
+			    				
+				<name type="alternate" sortindex="1" value="マイティガンヴォルト" />
+			
+						               													<description>&amp;quot;From the 8-bit generation, for the 8-bit generation!&amp;#10;&amp;#10;Get ready for a blast from the 8-bit past with the all-new 2D action/plaforming game, MIGHTY GUNVOLT! A loving nod to the retro sidescrollers of the late '80s, MIGHTY GUNVOLT offers simple controls, cute &amp;amp; colorful graphics, and a surprising amount of complexity and fun.&amp;#10;&amp;#10;Play as one of three characters: Gunvolt, the star of Azure Striker GUNVOLT, Ekoro, and angel from Japan's GalGun series, or Beck, the hero of Mighty No. 9. Each character possesses unique skills that will allow players to keep challenging each stage in new and creative ways!&amp;quot;&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5857" value="Nintendo 3DS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2147" value="Action" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2164" value="Platform" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-08-20" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="14187" value="Inti Creates Co., Ltd." />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="14187" value="Inti Creates Co., Ltd." />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="7.25" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5857" name="nintendo3ds" friendlyname="Nintendo 3DS Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.25" />
+			<median value="0" />
+			<owned value="10" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

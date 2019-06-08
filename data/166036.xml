@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166036">
+                                     				
+				<name type="primary" sortindex="1" value="Adventures to Go!" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Chuumon Shiyouze! Oretachi no Sekai" />
+			
+						               													<description>In this hilarious and innovative strategy RPG, players take control of Finn Courtland and his band of misfits in their quest for fame and riches. Along the way, they just might have to save the world from the evil Arbitus and his demons!&amp;#10;&amp;#10;Each dungeon is randomly generated according to the player's specifications, so the game offers endless replayability and a guarantee of new surprises every time you pick it up&amp;#10;&amp;#10;&amp;#10;     Grid-based battles challenge players to think strategically!&amp;#10;     Control a diverse team of characters with unique spells and abilities!&amp;#10;     A huge variety of spells, weapons, and monsters!&amp;#10;&amp;#10;&amp;#10;Source: The Publisher Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4432" value="PSP" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2155" value="RPG" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2008-11-13" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="13401" value="Global A Entertainment" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="12283" value="Natsume" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="6" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4432" name="psp" friendlyname="PSP Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="4" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

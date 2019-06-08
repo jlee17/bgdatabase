@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgameexpansion" id="166161">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/8_gxBimfGm98KFOmU4rtXBL50I8=/fit-in/200x150/pic421461.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/1ASo-Hd7gQJEN59O75i1dD57EBA=/0x0/pic421461.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Ghost Stories: Guard Tower" />
+			
+						                           
+						               													<description>Previously released packaged with Ghost Stories: Band of Brothers, it is now available by itself from the publisher.&amp;#10;&amp;#10;A single tile which lets you look at the top 4 ghosts on the deck, put them back on top in any order you like, and receive 1 Tao token of your choice.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2008" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll> 			               				<playingtime value="0" />
+						               				<minplaytime value="0" />
+						               				<maxplaytime value="0" />
+						               				<minage value="0" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="51" value="No necessary in-game text" numvotes="0" />
+					<result level="52" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="53" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="54" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="55" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1024" value="Horror" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1082" value="Mythology" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2046" value="Area Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2079" value="Variable Phase Order" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3864" value="Ghost Stories" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7479" value="Ghosts" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="37046" value="Ghost Stories" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="39428" value="Ghost Stories: The Guardhouse Expansion" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9714" value="Antoine Bauza" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12383" value="Pierô" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4384" value="Repos Production" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="93" />
+			<average value="7.57527" />
+			<bayesaverage value="5.63077" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="5.63077" />
+												</ranks>
+
+			<stddev value="1.48082" />
+			<median value="0" />
+			<owned value="565" />
+			<trading value="21" />
+			<wanting value="19" />
+			<wishing value="50" />
+			<numcomments value="30" />
+			<numweights value="5" />
+			<averageweight value="2.8" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

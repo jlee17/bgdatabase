@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167671">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/SUG8Qp7XASELAIVBja3kVP0mAAM=/fit-in/200x150/pic2929976.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/baltE3eZXxjbiXa1I4dThu7mh_w=/0x0/pic2929976.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Procyon" />
+			
+						                           
+						               													<description>It's the future! Humanity is, predictably, under attack by extraterrestrial forces. Lucky for us, we have an experimental ship that's never before been flown that will surely...uh, possibly...well, implausibly be able to win the war. All we need now is a pilot (or two) foolhardy enough to take to the skies!&amp;#10;&amp;#10;Some fun things to know&amp;#10;&amp;#10;&amp;#10;     Fight through five increasingly-populated shoot-em-up stages&amp;#10;     Destroy a plethora of enemies (or, as we like to call them, &amp;quot;potential explosions&amp;quot;)&amp;#10;     Switch between two distinct weapons on the fly: bullets for lots of damage over lots of space and a locking beam for concentrating on those hard-to-reach areas!&amp;#10;     Use your shields to zip unharmed through enemy attacks!&amp;#10;     Overcharge your weapons on the fly for even more destructive power!&amp;#10;     Original faux-orchestral soundtrack is like music to your ears! Because it IS music. For your ears.&amp;#10;     Multiple game modes, from the start-at-any-level normal mode up to &amp;quot;I have but one life to give for my planet&amp;quot; survival mode.&amp;#10;     Local co-op allows you and a friend (or even a complete stranger that you're willing to invite into your home, if you want) to team up and deliver double the delicious destruction!&amp;#10;     Support for playing in portrait orientation for a true top-down shmup experience!&amp;#10;     XInput controller support!&amp;#10;&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2505" value="Shoot 'em Up" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2167" value="Shooter" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2313" value="Cooperative" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						               				<releasedate value="2014-02-26" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28390" value="Deadly Red Cube" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28390" value="Deadly Red Cube" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

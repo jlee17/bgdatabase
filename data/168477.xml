@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="168477">
+                                     				
+				<name type="primary" sortindex="1" value="Jewels II: The Ultimate Challenge" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Gems of Darkness" />
+			    				
+				<name type="alternate" sortindex="1" value="Jewels 2" />
+			    				
+				<name type="alternate" sortindex="1" value="Jewels of the Oracle II" />
+			
+						               													<description>User Summary&amp;#10;&amp;#10;This game is a sequel to Jewels of the Oracle, except that is plays more like an alternate version of the first game.  It does not follow chronologically, and can be played without any reference to the first game.&amp;#10;&amp;#10;Like the first Jewels, this is a first-person game where the player is investigating an ancient civilization.  Unlike the first game, this game centers around the Gems of Darkness, not the Jewels of the Oracle.&amp;#10;&amp;#10;And, much like the original Jewels, this game is all about the puzzles.  There are new puzzles, but players will remember old favorites from the first game.  In fact, some puzzles are so similar to the puzzles you had to solve in the first Jewels of the Oracle, you will think you are playing the first game again.&amp;#10;&amp;#10;If you are looking to find a copy of the game, it has a surprising number of names it can be found under:&amp;#10;&amp;#10;Jewels II: The Ultimate Challenge&amp;#10;Jewels 2&amp;#10;Jewels of the Oracle II&amp;#10;Gems of Darkness&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2165" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2600" value="Ancient History" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="26963" value="Jewels of the Oracle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="1998-00-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28498" value="Bardworks" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="12999" value="DreamCatcher Interactive" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="6" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

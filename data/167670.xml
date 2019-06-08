@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167670">
+                                     				
+				<name type="primary" sortindex="1" value="Asteria" />
+			
+						                           
+						               													<description>Asteria is a fast paced indie platformer, wrapped up in a sandbox sci-fi world where everything is destructible, mineable, collectable, craftable and creatable. You play Ryker: the only surviving human colonist after your people were wiped out by local aliens. Now you&amp;rsquo;re stranded on Asteria, with no means of escape. This isn&amp;rsquo;t just about survival, it&amp;rsquo;s about revenge. Build your safe haven and go track down the aliens who destroyed your colony.&amp;#10;&amp;#10;It&amp;rsquo;s a platformer wrapped in a sandbox sandwich&amp;#10;&amp;#10;Procedurally generated world maps for unique replays are mixed with handcrafted dungeons to discover and defeat. Throughout Asteria are alien strongholds. Seek these places out to discover treasure, upgrade your equipment and exact your revenge.&amp;#10;&amp;#10;In the future, everything is ranged.&amp;#10;&amp;#10;Ranged Mining with more than one block per shot. No more pickaxes. Tunneling is faster, and as you create better mining equipment you can mine faster taking apart huge chunks of terrain in a single shot. Get the mats you need and get back to exploring, building, crafting and creating.&amp;#10;&amp;#10;Ranged fighting, with blasters. Yes, blasters. No clunky 2D melee fighting, just classic run and gun action.&amp;#10;&amp;#10;100+ items over 9 tiers of gear&amp;#10;&amp;#10;Craft new battle suits for more life, new lasers for more damage and better mining tools for faster mining.&amp;#10;&amp;#10;900 Slot &amp;ldquo;Hypercube of Holding&amp;rdquo; Inventory with unlimited stack amounts&amp;#10;&amp;#10;No more item micromanagement. No more bag restrictions. Get your items, keep your items, create your world, and get back to the gameplay. Ever seen a stack of 1 million chunks of dirt? Ryker has.&amp;#10;&amp;#10;Waypoints &amp;amp; instant deaths for classic platformer gameplay&amp;#10;&amp;#10;There&amp;rsquo;s no death penalty and no wandering back to where you died to recollect your inventory. Quick respawns and waypoints are built in so you can get back to the gameplay. Asteria isn&amp;rsquo;t about inventory management and survival, it&amp;rsquo;s about exploring and getting back to the action.&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;User Addition&amp;#10;&amp;#10;Multiplayer Support&amp;#10;&amp;#10;Play with your friends, explore and build together. With server hosting you can have as many players as you have bandwidth.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2164" value="Platform" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2313" value="Cooperative" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="0" />
+						               				<releasedate value="2014-07-03" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28389" value="Legend Studio" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28389" value="Legend Studio" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

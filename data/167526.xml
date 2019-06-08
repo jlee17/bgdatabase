@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167526">
+                                     				
+				<name type="primary" sortindex="1" value="Strike Wing: Raptor Rising" />
+			
+						                           
+						               													<description>Take over the stars, blast through enemy fighter waves and destroy capital ships while piloting the most advanced fighters in the galaxy. As a member of the elite black ops DSO-01 squadron you will investigate the Sirius Incident, the largest friendly fire engagement in history.&amp;#10;&amp;#10;Done with story missions? The challenge missions will keep you entertain and adjust to your skill and play-style.&amp;#10;&amp;#10;Strike Wing is a single player space combat simulator for iOS, Android and Windows Phone that combines sharp controls, beautiful graphics, adaptable missions and a new game expansion system to create an unique space combat experience for mobile devices.&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6063" value="Android" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6826" value="iPad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4443" value="iPhone" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2505" value="Shoot 'em Up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2331" value="Space" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2013-10-13" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="15648" value="Crescent Moon Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28376" value="Dream Builder Studios" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameexpansion" id="167527" value="Strike Wing: Raptor Rising - Expansion 1: The Rising Hand" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameexpansion" id="167528" value="Strike Wing: Raptor Rising - Expansion 2: The High Guard" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameexpansion" id="167529" value="Strike Wing: Raptor Rising - Expansion 3: Story Mode Chapter 1" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6826" name="ipad" friendlyname="iPad Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

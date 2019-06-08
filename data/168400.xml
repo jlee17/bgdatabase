@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="168400">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/KYhXrQ2ba3Curs7nvrabXtkOyQM=/fit-in/200x150/pic2295123.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/VGT-PWq0TJdrG0bnAqv5XK7ri4w=/0x0/pic2295123.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Cool Pizza" />
+			
+						                           
+						               													<description>A girl and her haunted skateboard dive through the depths of the underworld, fighting devils and looking for answers. Can pizza ever be cool?&amp;#10;&amp;#10;Cool Pizza is a spastic screen-masher inspired by Space Harrier and After Burner.&amp;#10;&amp;#10;Source: The Developer Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4443" value="iPhone" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2314" value="Arcade" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2505" value="Shoot 'em Up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2265" value="Horror" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2370" value="Sports - Skateboarding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2512" value="Surreal" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2012-09-28" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28490" value="Secret Library" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="4" value="(Self-Published)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

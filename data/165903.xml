@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165903">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/EyrYvaSPyWAlgzhM-rEPpzOWD2s=/fit-in/200x150/pic2240979.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/ktPnBbDzgzblCDGJSTzv2kd1Qo8=/0x0/pic2240979.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Tales of the Adventure Company" />
+			
+						                           
+						               													<description>Join the Adventure Company on their dangerous quest to obtain riches and glory! You'll battle terrifying liches, horrific slimes and even the gods!&amp;#10;&amp;#10;     Unique blend of RPG, puzzle, and roguelike elements&amp;#10;     Fight dangerous monsters and save brave heroes across five unique episodes&amp;#10;     Over 25 unique monsters, each with different abilities&amp;#10;     Nearly 10 unique heroes, allowing you to build your Adventure Company as you see fit&amp;#10;     Leaderboards for each episode&amp;#10;     Variety of achievements and heroes/abilities to unlock&amp;#10;     Optimized to play in one hand/portrait mode, so you can play on the go. No need to fumble around with your phone's orientation&amp;#10;     No hidden freemium/timers/IAP content - your purchase is a full, complete game, just like the old days&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6063" value="Android" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2165" value="Puzzle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2413" value="Roguelike" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-05-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28121" value="Slothwerks" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28121" value="Slothwerks" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="6" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

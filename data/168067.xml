@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="168067">
+                                     				
+				<name type="primary" sortindex="1" value="Chaos Domain" />
+			
+						                           
+						               													<description>Chaos Domain is a game about shooting bad people in the face.&amp;#10;&amp;#10;Apart from that, it is also a run and gun platformer, powered by Unreal Engine. The game is highly influenced by games from 8-bit and 16-bit era, including Contra/Probotector series, as well as titles like Abuse and Doom Troopers.&amp;#10;&amp;#10;The game is set on a huge spaceship occupied by chaos cultists, where the main character (who clearly looks like a hi-tech version of the god Anubis) must kill everyone in sight. The game is obviously not story-driven, it&amp;rsquo;s all about action.&amp;#10;&amp;#10;Players can upgrade and purchase weapons and special items that can boost their performance.&amp;#10;&amp;#10;Source: The Developer Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6826" value="iPad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2352" value="Run-and-gun" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2313" value="Cooperative" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						               				<releasedate value="2014-05-01" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28331" value="Black Wing Foundation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28330" value="Holy Warp" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28330" value="Holy Warp" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="26852" value="KISS Ltd" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6826" name="ipad" friendlyname="iPad Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="12" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167202">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/5TCrgk-06A2wseTHDJqFHHLnuwA=/fit-in/200x150/pic2575328.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/av1vO01WhAC6YYvtmxp1h9y1Rsw=/0x0/pic2575328.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="White Noise Online" />
+			
+						                           
+						               													<description>Experience a fully cooperative horror experience like never before!&amp;#10;&amp;#10;More content, more terrorific experiences! Gather up to 4 adventurers and explore the eerie locations while avoiding the mysterious monster. Will you survive the trip?&amp;#10;&amp;#10;On White Noise Online, a team of up to 4 investigators has to explore an area looking for clues, while avoiding being devoured by a supernatural creature. Will you be able to uncover the truth behind the mysterious events?&amp;#10;&amp;#10;The game takes the idea of simple, accesible horror behind Slender and evolves it further to adapt it to a cooperative environemnt.&amp;#10;&amp;#10;Designed from scratch to offer a shared horror experience, White Noise Online lets you live new situations, never seen before on a videogame.&amp;#10;&amp;#10;&amp;lsquo;Which way?&amp;rsquo;&amp;#10;&amp;lsquo;Are we walking in circles?&amp;rsquo;&amp;#10;&amp;lsquo;Where are you, guys?&amp;rsquo;&amp;#10;&amp;lsquo;Behind you!&amp;rsquo;&amp;#10;&amp;lsquo;Wait for me!&amp;rsquo;&amp;#10;&amp;lsquo;I hear something!&amp;rsquo;&amp;#10;&amp;#10;Are some of the sentences that resume the game experience that White Noise Online offers. You&amp;rsquo;ll need teamwork and trust on your partners to take the right choices and overcome the challenges you&amp;rsquo;ll face.&amp;#10;&amp;#10;White Noise Online can be played solo or online, in a cooperative game for up to 4 players. It features over 15 playable characters, each one with their own perks and skills, and 6 scenarios to explore.&amp;#10;&amp;#10;Another interesting feature of WNO is the replay screen, where you can check the path you and your friends followed. Once the thrilling game session is over, have a laugh while seeing how you kept walking in circles!&amp;#10;&amp;#10;Source: The Developer Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5248" value="Linux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4407" value="Xbox 360" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2152" value="Adventure" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2265" value="Horror" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="27676" value="Better Description Needed" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="38322" value="White Noise" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2313" value="Cooperative" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						               				<releasedate value="2013-02-22" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="18451" value="Milkstone Studios" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="18451" value="Milkstone Studios" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="4" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4407" name="xbox360" friendlyname="Xbox 360 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="9" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

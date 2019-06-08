@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167570">
+                                     				
+				<name type="primary" sortindex="1" value="Soundodger+" />
+			
+						                           
+						               													<description>Soundodger+ is a game about moving through music. Each level is one song during which you must weave in and out of hand-choreographed bullet patterns. The music is all original and licensed by an all-star cast of musicians, spanning genres from chiptune, to drum'n'bass, to alt rock. There's a little something for everybody.&amp;#10;&amp;#10;Soundodger+ features&amp;#10;&amp;#10;&amp;#10;     deceptively simple game of dodging bullets&amp;#10;     20+ original and licensed tracks from all-star musicians&amp;#10;     40+ levels that truly test your dodging skills&amp;#10;     20 Steam achievements&amp;#10;     auto-gen mode: pick a track and play a level instantly&amp;#10;     full editor to create the level of your dreams&amp;#10;     easily share and play levels with friends and strangers&amp;#10;&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2163" value="Rhythm" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2455" value="Abstract" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="26067" value="Soundodger" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2013-10-11" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="23873" value="Studio Bean" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="12834" value="Adult Swim Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

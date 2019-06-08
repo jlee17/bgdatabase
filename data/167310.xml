@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="167310">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/4_PjQTSEsqSnuWEE57O34f43IvE=/fit-in/200x150/pic2263990.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/Uxgn_0wVMTI0vVvoeYynz0myjUk=/0x0/pic2263990.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Pluff" />
+			
+						                           
+						               													<description>Pluff is a small tactical game for in between. You are a team of Arctic explorers trying to reach your ship. Unfortunately the ice is already cracked and you need to cross floating ice sheets. Try to be the first reaching the ship with all your 4 explorers by using dice, action cards and pushing your rivals into the water.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2015" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1041" value="Children's Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1079" value="Humor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1008" value="Nautical" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22184" value="Admin: Unreleased Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22152" value="Crowdfunding: Startnext" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1062" value="Till Meyer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1061" value="Nicole Stiehl" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="17414" value="Christian Opperer" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="550" value="Spieltrieb" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3" />
+			<average value="6.33333" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="3.85861" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="2" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167167">
+                                     				
+				<name type="primary" sortindex="1" value="Freaking Meatbags" />
+			
+						                           
+						               													<description>Tired of these slow strategy games!&amp;#10;&amp;#10;Play Freaking Meatbags a crazy mix of an RTS with a shooter.&amp;#10;&amp;#10;But what can you do with this meatbags? &amp;#10;Blend their DNA with aliens, &amp;#10;give them some rocket launchers.&amp;#10;I'm sure you will come up with something useful!&amp;#10;&amp;#10;Freaking Meatbags throws you into a futuristic world where robots have jobs, cephalopods aren't confined to a single dimension, and humans pretty much just stand around talking to themselves. As a lowly cleaning robot, your task is to gather precious materials from each world before the solar system goes kaboom. As soon as you land, you realize this gig isn't going to be as simple as you had hoped. During the day you'll scramble to gather resources, build structures and keep your base in good repair. But when it gets dark, get ready to fight. Those rampaging wild robots aren't here to have a knitting competition. At least you're not alone in your daily chores. Fleshy, unintelligent and very unattractive human creatures live on these planets. You've discovered they're quite amenable to being told what to do, even if those tasks are as limited as carrying resources back and forth. Mix some DNA from a few different species, however, and you can breed humans with special powers. Like, say... laser beam eyes! A little mod here, a little hack there and they might turn out to be quite useful!&amp;#10;&amp;#10;Source: The Developer Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5248" value="Linux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2166" value="Real Time Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2167" value="Shooter" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2015-02-04" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28291" value="Wild Factor" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="27017" value="Plug In Digital" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="7" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

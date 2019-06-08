@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165944">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/eKdbVue6Hr_H1HzlSmSWIoBq7LI=/fit-in/200x150/pic4190232.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/5s4LwQ3cuYX-m51xyPU51Z1a27I=/0x0/pic4190232.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="SteamWorld Heist" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Steam World Heist" />
+			
+						               													<description>&amp;quot;SteamWorld Heist is a game about space adventures and survival. Recruit a team of rag-tag robots to explore and scavenge the remains of a destroyed world. Board enemy ships and command your crew in a unique variety of turn-based combat.&amp;quot;&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6826" value="iPad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4443" value="iPhone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5248" value="Linux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5857" value="Nintendo 3DS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="21674" value="PlayStation 4" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="10373" value="PlayStation Vita" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="10763" value="Wii U" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="22574" value="Xbox One" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2158" value="Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2266" value="Steampunk" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="25836" value="SteamWorld" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2015-06-07" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="26098" value="Image &amp; Form" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="26098" value="Image &amp; Form" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameexpansion" id="267747" value="SteamWorld Heist: The Outsider" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="213477" value="SteamWorld Collection" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="20" />
+			<average value="7.815" />
+			<bayesaverage value="6.29406" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="1507" bayesaverage="6.29406" />
+																				<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="111" bayesaverage="6.82218" />
+											<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="351" bayesaverage="6.53776" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="750" bayesaverage="6.52729" />
+											<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="133" bayesaverage="6.76502" />
+											<rank type="family" id="5857" name="nintendo3ds" friendlyname="Nintendo 3DS Rank" value="96" bayesaverage="6.67592" />
+											<rank type="family" id="6826" name="ipad" friendlyname="iPad Rank" value="116" bayesaverage="6.83887" />
+											<rank type="family" id="10373" name="playstationvita" friendlyname="PlayStation Vita Rank" value="67" bayesaverage="6.9824" />
+											<rank type="family" id="10763" name="wiiu" friendlyname="Wii U Rank" value="103" bayesaverage="6.84942" />
+											<rank type="family" id="21674" name="playstation4" friendlyname="PlayStation 4 Rank" value="105" bayesaverage="7.01502" />
+											<rank type="family" id="22574" name="xboxone" friendlyname="Xbox One Rank" value="57" bayesaverage="7.18471" />
+												</ranks>
+
+			<stddev value="1.24911" />
+			<median value="0" />
+			<owned value="48" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="2" />
+			<numcomments value="11" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

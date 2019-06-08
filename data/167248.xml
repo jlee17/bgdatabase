@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167248">
+                                     				
+				<name type="primary" sortindex="1" value="Voyage to Farland" />
+			
+						                           
+						               													<description>Voyage to Farland, the hardcore graphical roguelike inspired by the Japanese Mystery Dungeon games.&amp;#10;&amp;#10;You are a wandering adventurer, looking for your kidnapped sister. But to find her, you'll have to fight mask-wearing heads, ill-tempered beetles that spin and toss you, catapult-riding felines that lob items at you, plus more crazy monsters with crazier powers in this hardcore, permadeath adventure. No two attempts are ever the same. Replay value levelup! Are you up to the task?&amp;#10;&amp;#10;Features:&amp;#10;&amp;#10;     5 dungeons including 4 unlockable themed dungeons&amp;#10;     4 NPCs you can recruit to help you fight, including an outcast monster&amp;#10;     rescue codes to save and be saved by other players&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;Fun things you can do in Voyage to Farland:&amp;#10;&amp;#10;     get a pet robot you can level up&amp;#10;     drink monster essence to morph into the creature &amp;amp; use its powers&amp;#10;     learn tactics in the Strategy Dungeon&amp;#10;     build weapon &amp;amp; shield enchantments and store gear in a warehouse&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;Source: The Publisher Website.&amp;#10;&amp;#10;User addition&amp;#10;&amp;#10;The game has been developed by espectra, who is Patrick Casey, the lead developer at Peculiar Games.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6063" value="Android" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5248" value="Linux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2413" value="Roguelike" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2013-06-27" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28314" value="Peculiar Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28314" value="Peculiar Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167799">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/nwAO3twwF0R4zB7Gohgg0xjeUgM=/fit-in/200x150/pic4016386.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/Bw9-l4eOPosrnXOOeZJUZAn_ils=/0x0/pic4016386.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Super Puzzle Fighter II Turbo HD Remix" />
+			
+						                           
+						               													<description>From Wikipedia,&amp;#10;&amp;#10;Super Puzzle Fighter II Turbo HD Remix is a downloadable game in the Puzzle Fighter franchise for PlayStation 3 (via PlayStation Network) and Xbox 360 (via Xbox Live Arcade). HD Remix was announced to include several graphical upgrades in the interface, character sprites, and levels.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Super Puzzle Fighter II Turbo&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4435" value="PlayStation 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4407" value="Xbox 360" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2165" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2493" value="Martial Arts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2351" value="Puzzle" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						               				<releasedate value="2007-08-29" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="11927" value="Backbone Entertainment" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="4358" value="Capcom Co., Ltd." />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="8" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4407" name="xbox360" friendlyname="Xbox 360 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4435" name="ps3" friendlyname="PlayStation 3 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="2" />
+			<median value="0" />
+			<owned value="16" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

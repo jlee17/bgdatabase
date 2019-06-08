@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167881">
+                                     				
+				<name type="primary" sortindex="1" value="Atum" />
+			
+						                           
+						               													<description>ATUM pulls the player into a world where the player is the mechanic. It brings a novelty take on the point-and-click gameplay of previous generations and combines it with platformer puzzles. The game toys with the concept of multi-layer gameplay, dipping its layers in mathematical loops and philosophical recurrences.&amp;#10;&amp;#10;The design and the aesthetics are influenced by a manifold of science fiction classics, Blade Runner and Philip K. Dick's story Martian Time Slip among others.&amp;#10;&amp;#10;The game environment, used as narrative device, provides a considerable amount of references and clues that complement the underlying storyline.&amp;#10;&amp;#10;ATUM has been developed by a group of 3rd year students at NHTV IGAD, The Netherlands as part of the University's Gamelab, a one-day-a-week workshop that simulates a development studio environment. The team, consisting of an average of 10 members, worked on this project for 42 days.&amp;#10;&amp;#10;&amp;quot;You Are Here, reads the legend on that map. Which one is you? Does it matter? Your finger is a pointer on a screen.&amp;quot;&amp;#10;-Gene Van Troyer&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5084" value="Web Browser" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2164" value="Platform" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2012-00-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="14029" value="(Self-Developed Video Game)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="5084" name="webbrowser" friendlyname="Web Browser Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

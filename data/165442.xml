@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165442">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/nrfggHSydOWu6s9OQ6DdKzTec0U=/fit-in/200x150/pic2875124.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/qH6UvFImNxfJbYq9fcR0nNfLXa8=/0x0/pic2875124.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Dollar Dash" />
+			
+						                           
+						               													<description>Source: The Game Website.&amp;#10;&amp;#10;Dash with the Cash!&amp;#10;&amp;#10;Find it, rob it, and keep it. Grab the cash in this fast and frenetic top down multiplayer versus game. Dollar Dash will have you shouting for joy, as you make a dash with the cash. You must attack, defend or outrun your competitors in any of the three game modes (Dollar Dash, Save the Safe or Hit&amp;rsquo;n&amp;rsquo;Run) using unique and comedic tactics.&amp;#10;&amp;#10;Stand out from the crowd by customising your character, upgrading your favourite weapon, earning perks and unlocking achievements. You can&amp;rsquo;t stand still for a second as combat is crazy and money changes hands frequently. Choose your weapons carefully as you challenge your friends to become the best thief in town and laugh out loud as you smash them with a huge Bolder, peck them with a Mag Pie, while protecting yourself in Jelly!&amp;#10;&amp;#10;Features&amp;#10;&amp;#10;- Gather, Dash and Fight: Be the fastest, smartest and craziest multiplayer battle thief!&amp;#10;- Overwhelming Content: 30 maps, over 20 weapons and a number of power-ups to discover&amp;#10;- Multiplayer: 4 player Drop-in &amp;amp; Jump-out multiplayer for instant online action.&amp;#10;- Three intense game modes: Venture through different versus modes, from Dollar Dash where the fastest win, to Hit&amp;rsquo;n&amp;rsquo;Run where the toughest rule the field.&amp;#10;- Singleplayer: Defeat skilled AI opponents to prepare for Online PvP&amp;#10;- Shop: Spend in-game cash on Weapon Upgrades, Character Customization, Perks and more!&amp;#10;- Unlock: Collect Badges, unlock many crazy Achievements, and compete on global Leaderboard.&amp;#10;- Easy Controls: Quick to learn and simple to control.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4435" value="PlayStation 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4407" value="Xbox 360" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2147" value="Action" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2509" value="Comedy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2280" value="Crime" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						               				<releasedate value="2013-03-06" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="22245" value="Candygun Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="13262" value="Kalypso Media" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="5.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4407" name="xbox360" friendlyname="Xbox 360 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4435" name="ps3" friendlyname="PlayStation 3 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.5" />
+			<median value="0" />
+			<owned value="9" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

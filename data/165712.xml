@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="165712">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/xHObw_2bBtNrAuUHDmRp7aw3ESs=/fit-in/200x150/pic2236371.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/iPLjOnCTRD8R6RnBcpEfXlfxvdE=/0x0/pic2236371.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Potje Duizend" />
+			
+						                           
+						               													<description>Potje Duizend (Game of Thousand in Dutch) is a simple game of dice throwing with a calculating aspect. Every player gets a sheet with a matrix of 9 cells, divided in 3 rows of 3 cells each. On his turn a player throws 1 die and notes his result in one of the cells on his sheet. Doing this he should try to achieve a result of one thousand (or as close as possible) when making a final addition if the matrix is full (by considering each row of 3 cells as a number and adding those 3 numbers). The player closest to thousand is the winner. Attention! If one of the diagonals shows 3 same numbers, this number may be multiplied by 10 and used as a bonus to come closer to thousand.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1980" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="6+">		
+				</results>					
+	</poll> 			               				<playingtime value="5" />
+						               				<minplaytime value="5" />
+						               				<maxplaytime value="5" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1104" value="Math" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3320" value="(Unknown)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="1" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="1" />
+			<numweights value="1" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

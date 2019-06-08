@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165917">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/VYej1K6MNGWXxKHK2ydO2IRVID0=/fit-in/200x150/pic2241460.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/v93qnnqUqcw-E3U3t4uXXrFW68A=/0x0/pic2241460.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Receiver" />
+			
+						                           
+						               													<description>Receiver is a first-person shooter video game developed by Wolfire Games, originally developed as part of the 7 Day FPS Challenge.&amp;#10;&amp;#10;The game attempts to portray realistic gun mechanics through reloading and bullet physics, as the player scavenges items and audio tapes, which reveal the story, from a procedurally generated world.&amp;#10;&amp;#10;It was released in June 2012 for Linux, Microsoft Windows, and Mac OS X.&amp;#10;&amp;#10;In Receiver, players must scavenge 11 audio tapes from around a procedurally generated world, randomly arranged after each death. Ammunition and flashlights are scattered throughout the world as well. Players start with a random handgun, either a Smith and Wesson Model 10 revolver, a Colt M1911A1 semi-automatic pistol, or a selective fire Glock 17 pistol with an automatic sear. Players are also given a random inventory of ammunition and/or spare magazines for their weapon. Players may also start with a flashlight. While searching for tapes, the player will encounter stationary sentry turrets and mobile hover drones that will attack the player. A single hit to the player will kill them. Shooting these automated defenses can disable them, with shots to vital components, such as cameras, weapons, motor, or battery scoring significantly more damage. If a player dies, they lose all progress and the game is reset with a new level layout, spawn position, and inventory.&amp;#10;&amp;#10;A core element of the game is how the player fires and reloads the handgun. The gun has to be used in a realistic fashion, meaning that all aspects of reloading the gun have to be enacted individually with different key presses. Rather than finding magazines as seen in most shooters, the player finds cartridges which must be individually loaded into the revolver chambers or pistol magazines. In-game actions mapped to individual key presses include, but are not limited to: removing the magazine from the pistol, inserting a cartridge into a magazine, inserting a magazine into the pistol, pulling back the slide, cocking the hammer, toggling the safety, inspecting the chamber, releasing the slide stop, and spinning the cylinder of the revolver. To emphasize understanding of the firearm, the player's handgun will start in a random condition; the magazine or chamber may be loaded or empty, the slide may be locked or unlocked, and the safety may be on or off.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Receiver (video game)&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5248" value="Linux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2160" value="First Person Shooter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2156" value="Simulation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2355" value="Detective / Mystery" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2012-06-18" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="13744" value="Wolfire Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="13744" value="Wolfire Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="6" />
+			<average value="3.66667" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="7073" bayesaverage="5.23105" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="2.56038" />
+			<median value="0" />
+			<owned value="47" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="4" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

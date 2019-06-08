@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="rpgitem" id="165847">
+                                     				
+				<name type="primary" sortindex="1" value="Elite Training Manual" />
+			
+						                           
+						      				
+		 			
+
+			
+		
+					<link type="rpg" id="305" value="d20 Modern" />
+		
+									
+			
+
+			               													<description>From publisher blurb:&amp;#10;&amp;#10;This file covers 12 Prestige Classes for the 1948 Campaign World. Some, like the Arch Mage, the Commander, and the Psionic Stalker, are gathered from other OGC sources and adjusted to fit the setting. Others, like the Nazi Occultist and the Commando, are designed specifically for this release. Stop searching through a bunch of different books and PDFs to find the right Prestige Class for your 1948 hero. This file collects all the most common and relevant classes into one convenient location.&amp;#10;&amp;#10;Includes the following Prestige Classes:&amp;#10;&amp;#10;     Arch Mage&amp;#10;     Artificer&amp;#10;     Commander&amp;#10;     Commando&amp;#10;     Dark Sage&amp;#10;     Ecclesiarch&amp;#10;     Expert Marksman&amp;#10;     Martial Arts Master&amp;#10;     Mentalist&amp;#10;     Nazi Occultist&amp;#10;     Psionic Stalker&amp;#10;     Robotics Engineer&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;</description>
+										               				<yearpublished value="2005" />
+						      				
+		 			
+
+			
+		
+					<link type="rpggenre" id="167" value="History (Alternative)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpggenre" id="951" value="Occult" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpggenre" id="953" value="War" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="rpgsetting" id="4052" value="1948" />
+		
+									
+			
+
+			      			
+
+			               				<seriescode value="" />
+						      				
+		 			
+
+			
+		
+					<link type="rpgcategory" id="2108" value="Sourcebook (rules/options to enhance play)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="rpgmechanic" id="2101" value="Attribute/Stat Based (STR, CON, PER, etc)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgmechanic" id="2095" value="Class Based (Pilot, Wizard, Scientist, etc)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgmechanic" id="2088" value="Dice (Primarily d20)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgmechanic" id="2096" value="Level Based (Earn XP and level up)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgmechanic" id="2138" value="Progression Tree (Skills, professions, magic abilities, etc.)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgmechanic" id="2094" value="Skill Based (buy or gain skills)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="rpgpublisher" id="10181" value="Bloodstone Press" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="rpgdesigner" id="16530" value="John Alger" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="rpgartist" id="16530" value="John Alger" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgartist" id="27696" value="Butch Mapa" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgartist" id="22596" value="Tony Perna" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgartist" id="22064" value="Shawn Richter" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="rpgproducer" id="16530" value="John Alger" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgproducer" id="21655" value="Chris Cant" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="16" name="rpgitem" friendlyname="RPG Item Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

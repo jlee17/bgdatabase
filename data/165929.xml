@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165929">
+                                     				
+				<name type="primary" sortindex="1" value="Spirited Heart Deluxe" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Spirited Heart" />
+			
+						               													<description>Spirited Heart is a fantasy life simulation game.&amp;#10;Create your fantasy alter ego choosing between an apparently normal human, a cute elf and a wicked demoness: they behave differently in the various dialogue choices you'll encounter during the game.&amp;#10;&amp;#10;Once the game start you'll be able to run your life in a virtual fantasy world: choose a job from the 20 different ones available, but carefully check the minimum requirements. Each starting job will improve some of your basic character skills, giving you the possibility to unlock more advanced jobs once you have trained your character long enough.&amp;#10;&amp;#10;From time to time, random events will occur and you'll also make random encounters: there are six potential partner for your character in the game, two for each one of the three races. Each partner will have his own personality and will react differently depending on which race you're playing, offering over 100 different dialogue combinations!&amp;#10;&amp;#10;Can you win their hearts and maybe, one day, marry one of them?&amp;#10;Play with your character for 10 in-game years in which you have to do your best! The full game has 20 normal endings plus 12 special marriage endings, providing hours of gameplay and lots of replayability.&amp;#10;&amp;#10;Can you see all the different endings?&amp;#10;&amp;#10;Source: The Developer Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6063" value="Android" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6826" value="iPad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4443" value="iPhone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5248" value="Linux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2156" value="Simulation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2494" value="Romance / Relationships" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2009-04-14" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="22606" value="Winter Wolves" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="22606" value="Winter Wolves" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6826" name="ipad" friendlyname="iPad Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

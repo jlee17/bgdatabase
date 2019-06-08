@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165933">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/71p92mBNOlYVf74KVm_e6tEjM5U=/fit-in/200x150/pic2568707.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/zf1LP9pAGicEoZvcGtJRIDl3MD8=/0x0/pic2568707.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Tales of the Orient: The Rising Sun" />
+			
+						                           
+						               													<description>Travel to Edo Japan period and help Satsu and Miyamoto in this epic adventure. Prove your skills in the Challenge mode with limited moves. Journey through beautiful scenery, relaxing music and the thrilling process of building an ancient Japanese village in this engaging Match 3 game. Dive into an epic story of honor and courage and help a Geisha and a Samurai save the day in Tales of the Orient: The Rising Sun!&amp;#10;&amp;#10;Features:&amp;#10;&amp;#10;- Build an ancient Japanese village;&amp;#10;- Three game play modes: swap, pop, chain;&amp;#10;- Exciting adventure;&amp;#10;- Challenging gameplay;&amp;#10;- Enjoy 100 unique levels;&amp;#10;- Board rotation&amp;#10;&amp;#10;Source: The Developer Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5248" value="Linux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2152" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2165" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-03-13" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28126" value="Green Sauce Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28126" value="Green Sauce Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="6" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

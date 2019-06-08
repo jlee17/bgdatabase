@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166182">
+                                     				
+				<name type="primary" sortindex="1" value="Mission on Thunderhead" />
+			
+						                           
+						               													<description>From the back of the box&amp;#10;&amp;#10;It is waiting for you, daring you by it's very presence. Built by an alien race that rules the galaxy, It's tunnels and complexes plunge deep into the radioactive rock and extend all the way to the complex hovering hundreds of miles above the planet. Once barren of life, the Eternals have made it into a living hell: the planet Tempest.&amp;#10;&amp;#10;Mission on Thunderhead contains over fifty rooms and four mazes. One hundred variations combined with nine skill levels make each game a different challenge.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4978" value="Apple II" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4940" value="Atari 8-bit family" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4420" value="Commodore 64" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2161" value="Action Adventure" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="1985-00-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="5" value="The Avalon Hill Game Co" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="5" value="The Avalon Hill Game Co" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4420" name="commodore64" friendlyname="Commodore 64 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4940" name="atari8bitfamily" friendlyname="Atari 8-bit family Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4978" name="appleii" friendlyname="Apple II Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

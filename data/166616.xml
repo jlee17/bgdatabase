@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166616">
+                                     				
+				<name type="primary" sortindex="1" value="Just Dance Now" />
+			
+						                           
+						               													<description>Just Dance Now is a game in the Just Dance series developed by Ubisoft. The game was released on September 25, 2014 on both the App Store and Google Play. The trailer for the game was revealed at the Electronic Entertainment Expo 2014 on 9 June 2014. An ad-supported version of the game will be available for download, accessing a limited library of songs. A few months prior, a beta version was available in the aforementioned stores to most parts of Europe.&amp;#10;&amp;#10;Just Dance Now is aimed at people who may not have a console to play the original game, living in regions where consoles are unavailable and/or expensive (including Southeast Asia, Central America and the Caribbean) or want to play without using a console. The game is available as an app for portable devices and allows for a connection to a television, a computer, tablet or streaming the game on screen from the synced website. The device is used as a controller, in a similar way to a Wiimote, Nintendo Wii's main controller. Multiple players may connect simultaneously, and there is no limit to the number of players allowed.&amp;#10;&amp;#10;Just Dance Now is not to be confused with Just Dance 2015, an entirely separate game.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Just Dance Now&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6063" value="Android" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4443" value="iPhone" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2163" value="Rhythm" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2510" value="Dancing" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="8337" value="Just Dance" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="0" />
+						               				<releasedate value="2014-09-24" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="33650" value="Ubisoft Massive" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11781" value="Ubisoft Entertainment S.A. (Ubisoft)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="9.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="1" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

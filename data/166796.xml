@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166796">
+                                     				
+				<name type="primary" sortindex="1" value="Counter Terrorist Special Forces: Fire for Effect" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="CT Special Forces: Fire for Effect" />
+			    				
+				<name type="alternate" sortindex="1" value="Nemesis Strike" />
+			
+						               													<description>The player plays as either two of the Counter Terrorist Special Forces (CTSF) elite agents; 'Stealth' Owl or 'Immortal' Raptor. They are both at best in stealth and frontal assault tactics respectively to complete their mission.&amp;#10;&amp;#10;The game is played in a third person point of view, though interchangeable into a first person perspective but is more of a 'scope' view of the current weapon on hand. Guns with no scopes are given a close up view by the barrel top, while weapons with scopes are given the scoped view.&amp;#10;&amp;#10;Like most shooter games, there is a life gauge on the top left corner, primarily a health bar indicating the amount of health available. In addition, there is another bar for energy of the suit worn.&amp;#10;&amp;#10;Source: The Publisher Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4434" value="PlayStation 2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4442" value="Xbox" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2147" value="Action" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2167" value="Shooter" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2508" value="Military" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="33690" value="CT Special Forces" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2005-03-22" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="14192" value="Asobo Studio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="14586" value="Hip Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="17331" value="Funbox Media" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="14586" value="Hip Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="26852" value="KISS Ltd" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4434" name="playstation2" friendlyname="PlayStation 2 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4442" name="xbox" friendlyname="Xbox Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="8" />
+			<trading value="1" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166115">
+                                     				
+				<name type="primary" sortindex="1" value="Dead or Alive 5 Plus" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Dead or Alive 5+" />
+			
+						               													<description>Dead or Alive 5 Plus (stylized as Dead or Alive 5+ and abbreviated to DOA5+) is a fighting game in the Dead or Alive series, developed by Team Ninja in partnership with Sega AM2 and released by Tecmo Koei for the PlayStation Vita in March 2013. An expanded handheld port of the 2012 game Dead or Alive 5, DOA5+ was met with positive critical reception, gaining better scores than the original.&amp;#10;&amp;#10;Further information: Gameplay of Dead or Alive 5&amp;#10;Dead or Alive 5 Plus introduces new training options, such as Command Training to practice attacks, Combo Challenge to master combos, and a free training mode enabling players to focus on the particular attacks they want to learn. It also features cross-platform abilities, enabling the users of different PlayStation systems to fight online matches, to share downloadable content (DLC) from the PlayStation Store with the original version, and to swap the save data between the PS3 and Vita.&amp;#10;&amp;#10;In addition to the normal control system, Plus features optional touchscreen-based moves in the Touch Play Mode, where the fights are seen via a first-person perspective view and the players touch, flick, and pinch the screen to attack their opponents. It also offers to the game's breast motion physics with three settings: stilled, &amp;quot;Natural&amp;quot;, and &amp;quot;DOA&amp;quot;.&amp;#10;&amp;#10;DOA5+ lacks Story Mode Missions and Lobby Matches, as well as an ability to upload the recorded fights to YouTube. Tag Fights are available only in the Story Mode, while Versus, Arcade and Time Attack modes are solo only.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Dead or Alive 5 Plus&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="10373" value="PlayStation Vita" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2159" value="Fighting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2493" value="Martial Arts" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="4837" value="Dead or Alive" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="35142" value="Dead or Alive" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						               				<releasedate value="2013-03-19" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="11831" value="Team Ninja" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="13881" value="Tecmo Koei Games Co., Ltd." />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="10373" name="playstationvita" friendlyname="PlayStation Vita Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

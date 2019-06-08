@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166365">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/SfJ4yt5UitweGBU5S4asKWkYnyw=/fit-in/200x150/pic2850106.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/1o2W60EV1RCu1nCwfJktp3dNJTI=/0x0/pic2850106.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Super Cyborg" />
+			
+						                           
+						               													<description>Super Cyborg is an old-school nonstop hardcore run'n'gun action!&amp;#10;&amp;#10;Game features:&amp;#10;&amp;#10;     3 difficulty levels (easy, normal, hard - unlocks when you'll beat normal mode)&amp;#10;     local cooperative (2 players mode)&amp;#10;     7 hardcore levels&amp;#10;     awesome chiptune soundtrack&amp;#10;     many unique bosses and enemies&amp;#10;&amp;#10;&amp;#10;&amp;#10;&amp;#10;Source: The Developer Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2147" value="Action" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2352" value="Run-and-gun" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2167" value="Shooter" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2313" value="Cooperative" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						               				<releasedate value="2014-07-17" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28182" value="ArturGames" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28182" value="ArturGames" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

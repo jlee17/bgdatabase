@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167168">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/bQtUsFytU9OHDQ0gVlJdF17nFn8=/fit-in/200x150/pic3040790.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/QgkebZ0LZZUlMv-fsrYmms11qs8=/0x0/pic3040790.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Space Farmers" />
+			
+						                           
+						               													<description>Grab a friend, grab a gadget, grab a gun and get ready. Space Farmers is the most fun you'll ever have in a co-op game. You're trapped on an alien space station and forced to share your secret British agriculture secrets. With no means of escape or tea making facilities this is all very uncivilized! Luckily a hoard of hungry robots are attacking the station and your captors have vanished. Stopping only to pick up an Energy Shotgun and a Pie-O-Matic you begin your quest for freedom!&amp;#10;&amp;#10;In Space Farmers you and a friend will encounter gadgets, guns, puzzles, pigs, a horde of killer robots and more. This one of a kind co-operative action adventure will make you laugh, cry and bring the human race together.&amp;#10;&amp;#10;Source: The Developer Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5248" value="Linux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2147" value="Action" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2313" value="Cooperative" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+			
+
+			               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						               				<releasedate value="2014-04-17" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="27758" value="Bumpkin Brothers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="26852" value="KISS Ltd" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="2" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="9" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

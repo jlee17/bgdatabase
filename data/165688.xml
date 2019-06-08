@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165688">
+                                     				
+				<name type="primary" sortindex="1" value="Kinect Sports Rivals" />
+			
+						                           
+						               													<description>Kinect Sports Rivals is a sports video game for the Xbox One. It is part of the Kinect Sports series. The game was announced during Microsoft's E3 2013 press event and was released on 8 April 2014.&amp;#10;&amp;#10;The game features sports such as bowling, jetski racing, rock climbing, soccer, target shooting, and tennis.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Kinect Sports Rivals&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="22574" value="Xbox One" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2157" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2428" value="Minigame Compilation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2363" value="Sports - Bowling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2373" value="Sports - Soccer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2368" value="Sports - Tennis" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="25806" value="Kinect Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2409" value="Hotseat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						               				<releasedate value="2014-04-08" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="11453" value="Microsoft Game Studios" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11453" value="Microsoft Game Studios" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="7" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="22574" name="xboxone" friendlyname="Xbox One Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="9" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

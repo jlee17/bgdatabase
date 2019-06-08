@@ -3,12 +3,11 @@ BG Database
 
 This is an application which stores information about board games 
 
-WIP-TODO
---------
+NOTE
+----
 
-- Determine how data will be collected from BGG for the board games
-- Collect the data and store it into text files for adding to the database
-- Store the data in the database and test retrieval
+This readme file is out of date, the most up to date information is included in the project writeup.
+
 
 Description
 -----------
@@ -30,7 +29,8 @@ Schema
 
 ::
 
-    bg({bg_id}, title, description, released, rating, min_playtime, max_playtime, min_players, max_players, expansion_of)
+    bg({bg_id}, title, description, released, rating, min_playtime, max_playtime, min_players,
+    max_players, expansion_of)
         expansion_of is a foreign key referencing BG(bg_id)
 
     ratingsperplayer({bgid, players}, rating)
@@ -46,7 +46,7 @@ Schema
 
     categories({cat_id}, category, description)
 
-    people({p_id}, name)
+    People({p_id}, name)
 
     publishersrel({bg_id, pub_id})
         bg_id is a foreign key referencing BG(bg_id)

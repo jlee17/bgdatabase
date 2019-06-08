@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167683">
+                                     				
+				<name type="primary" sortindex="1" value="Oo-Topos" />
+			
+						                           
+						               													<description>Oo-Topos is an interactive fiction game released by Polarware in 1987. Oo-Topos was originally published by Sentient Software in 1981 as a text only adventure game. The 1987 re-release added graphical depictions of scenes described by the game's text, which were designed using Penguin Software's in-house software tool Graphics Magician.&amp;#10;&amp;#10;The pilot of a space vessel is carrying important cargo vital to the survival of humanity. The pilot is attacked by space pirates and forced to land on the planet Oo-Topos. After landing the pilot is captured and imprisoned in a fortress on the alien world. The pilot must escape confinement, retrieve the precious cargo taken from the crashed ship and get off Oo-Topos with it in order to save the human race from extinction.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Oo-Topos&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4978" value="Apple II" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4976" value="Atari ST" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4420" value="Commodore 64" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4714" value="DOS" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2168" value="Text Adventure" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="1981-00-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="26677" value="Polarware" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="18080" value="Sentient Software, Inc" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="26677" value="Polarware" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="18080" value="Sentient Software, Inc" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4420" name="commodore64" friendlyname="Commodore 64 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4714" name="dos" friendlyname="DOS Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4976" name="atarist" friendlyname="Atari ST Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4978" name="appleii" friendlyname="Apple II Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

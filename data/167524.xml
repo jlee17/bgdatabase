@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167524">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/-8LAPQpx9ajZ1NWuqD8bTNjxI28=/fit-in/200x150/pic2617902.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/N5MHepa8sox9r7ug5SDXLXgeTls=/0x0/pic2617902.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Clash of Puppets" />
+			
+						                           
+						               													<description>Help Charlie getting out of his own nightmares!&amp;#10;Clash of Puppets is a full 3D hack&amp;rsquo;n&amp;rsquo;slash platformer, featuring classic b-movie style.&amp;#10;Adventure through 3 worlds of frantic levels. Use tons of devastating weapons and traps against hordes of puppets!&amp;#10;&amp;#10;Features:&amp;#10;&amp;ndash; High quality 3d Graphics: Fully animated 3D characters with dynamic lighting.&amp;#10;&amp;ndash; Vast Arsenal: Find and use tons of devastating weapons and traps.&amp;#10;&amp;ndash; Long Lasting: Inspired by B-movies of the 20th century, Clash of Puppets will feature 3 worlds to experience and an infinite survival mode.&amp;#10;&amp;ndash; Challenge: your friends try to achieve the best score to be the &amp;ldquo;Survival Hero&amp;rdquo;.&amp;#10;&amp;ndash; Console-Style: Experience a true console style hack&amp;rsquo;n&amp;rsquo;slash platformer game on your mobile device.&amp;#10;&amp;ndash; Game Center: Leaderboards and lots of achievements.&amp;#10;&amp;#10;Source: The Developer Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6063" value="Android" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6826" value="iPad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4443" value="iPhone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2339" value="Action RPG" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2164" value="Platform" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2013-11-21" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="15648" value="Crescent Moon Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28374" value="Drakkar Dev" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="1001" value="(Web published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="15648" value="Crescent Moon Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6826" name="ipad" friendlyname="iPad Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

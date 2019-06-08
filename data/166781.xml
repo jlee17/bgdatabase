@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166781">
+                                     				
+				<name type="primary" sortindex="1" value="Roundabout" />
+			
+						                           
+						               													<description>Part open world, part puzzle game, all twisted. In Roundabout, players drive passengers in a constantly revolving limousine to their destinations.&amp;#10;&amp;#10;Set in 1977, Roundabout tells the rise to fame story of Georgio Manos, arguably the world's most famous revolving chauffeur. While driving around the town of Roundabout, players can pick up passengers, compete in challenges, find hidden collectibles, customize their limousine, purchase property, and much, much more!&amp;#10;&amp;#10;Roundabout's cutting edge full motion video technology allows us to put real actors in the back seat! Watch as Georgio Manos (played by Kate Welch) drives an all-star cast to their destinations.&amp;#10;&amp;#10;Features&amp;#10;&amp;#10;Open world puzzle game where you play as a constantly revolving limousine.&amp;#10;Cutting edge &amp;quot;Full Motion Video&amp;quot; tells the rise to fame story of Georgio Manos, the world's first revolving chauffeur.&amp;#10;Explore the world! Pick up passengers, find secret collectibles, purchase properties, compete in side challenges, and more.&amp;#10;Earn money through passengers and real estate, then spend it all on new upgrades, paint jobs, horns and hats.&amp;#10;Dedicated eSports speedrun mode, achievements, emoticons, trading cards and more.&amp;#10;&amp;#10;Source: The Developer Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5248" value="Linux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="21674" value="PlayStation 4" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="10373" value="PlayStation Vita" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2165" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2456" value="Driving" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-09-18" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28251" value="No Goblin" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28251" value="No Goblin" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3" />
+			<average value="5.26667" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="10373" name="playstationvita" friendlyname="PlayStation Vita Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="21674" name="playstation4" friendlyname="PlayStation 4 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.63571" />
+			<median value="0" />
+			<owned value="12" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

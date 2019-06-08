@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167150">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/6_vvekyPEJ0EbIdByfiJjWhZfQY=/fit-in/200x150/pic4002956.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/38-2rzjMFpeGm9SlOwX6dNgZFN0=/0x0/pic4002956.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Master Miner" />
+			
+						                           
+						               													<description>Back of box&amp;#10;&amp;#10;The gem rush of 2184 is on!! You've staked your claim and have set out to mine the riches of the asteroid belt. Unfortunately the Commie Claim Jumpers have their own concept of Interstellar Law. They relentlessly steal your gems before you can mine and deposit them in your starbase. Only a MASTER MINER can survive the Commie onslaught long enough to reap the riches of the Asteroid Belt!&amp;#10;&amp;#10;Warning: This game includes a special two-player mode in which two human players mine the Asteroid Belt simultaneously. Your friendship may not be able to survive the fierce competition.&amp;#10;&amp;#10;-By Dan Illowsky, co author of Snack Attack II&amp;#10;-5 levels of play to entice the novice as well as the expert&amp;#10;-Written entirely in machine language to take full advantage of the advanced capabilities of the IBM PC&amp;#10;-Game progresses in difficulty as you progress in skill to ensure long lasting challenge &amp;#10;-Looks spectacular on TV's as well as on RGB monitors&amp;#10;-Keyboard or joystick(s) control&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6550" value="PC Booter" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2147" value="Action" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2739" value="Mining" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2331" value="Space" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						               				<releasedate value="1983-00-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="1558" value="Funtastic" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="1558" value="Funtastic" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="6550" name="pcbooter" friendlyname="PC Booter Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167795">
+                                     				
+				<name type="primary" sortindex="1" value="Power Gig: Rise Of The Six String" />
+			
+						                           
+						               													<description>From Wikipedia,&amp;#10;&amp;#10;Power Gig: Rise of the SixString is a rhythm game developed by Seven45 Studios, a sister company of First Act which produces low-cost, entry-level musical instruments.[1] While the game is similar to guitar-based games like Guitar Hero and Rock Band, Power Gig ships with a unique guitar game controller that acts as both a standalone six-stringed guitar and game controller with note-matching games. Because of the nearness of the controller and gameplay to that of a real guitar, it has attracted musicians including Eric Clapton, Dave Matthews, and Kid Rock that have shied away from music games before due to the simplicity of the button-mashing concept. The game is also distributed with the AirStrike, a drum controller that works on motion sensing. The game was shipped on October 19, 2010 for the PlayStation 3 and Xbox 360.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Power Gig: Rise of the SixString&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4435" value="PlayStation 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4407" value="Xbox 360" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2156" value="Simulation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2316" value="Music" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2010-10-19" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28421" value="Seven45 Studios" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28421" value="Seven45 Studios" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="1" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4407" name="xbox360" friendlyname="Xbox 360 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4435" name="ps3" friendlyname="PlayStation 3 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="2" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

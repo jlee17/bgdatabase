@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165425">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/9vHdlnVIHXi_EhcWIKueEoN5I8Q=/fit-in/200x150/pic3984291.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/Yb9xgaK7-Nn58HuT79ZM7X6mrPc=/0x0/pic3984291.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Shin Megami Tensei: Persona 5" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Persona 5" />
+			    				
+				<name type="alternate" sortindex="1" value="Perusona Faibu" />
+			    				
+				<name type="alternate" sortindex="1" value="ペルソナ5" />
+			
+						               													<description>What's Persona 5?&amp;#10;&amp;#10;After having to transfer to a high school in Tokyo, the protagonist has a strange dream.&amp;#10;&amp;#10;With the goal of &amp;quot;rehabilitation&amp;quot; looming overhead, you must save others from their distorted desires through your work as a phantom thief. After spending a memorable year bonding with the people around you, what awaits...?&amp;#10;&amp;#10;A fun school life that starts in the big city of Tokyo!&amp;#10;&amp;#10;During the day, enjoy your life as a student, spending your time however you please.&amp;#10;&amp;#10;Your power may be limited on your own, but by forming bonds with the people around you, you might be able to change the world.&amp;#10;&amp;#10;Change the hearts of corrupted adults! An exciting phantom thief life!&amp;#10;&amp;#10;After school, don the mask of a phantom thief and fight to reform corrupt adults!&amp;#10;&amp;#10;Use the mysterious mobile app &amp;quot;Metaverse Navigator&amp;quot; to enter the world within people's hearts. Then, with the power of Persona, steal the source of their distorted desires!&amp;#10;&amp;#10;By doing so, you can make anyone from an abusive teacher to a fraudulent artist have a change of heart!?&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4435" value="PlayStation 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="21674" value="PlayStation 4" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2155" value="RPG" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2156" value="Simulation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2278" value="Anime" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2782" value="Monster Collecting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2494" value="Romance / Relationships" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="5277" value="Megami Tensei" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="4774" value="Shin Megami Tensei: Persona" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2016-09-15" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="11904" value="Atlus Co. Ltd." />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="11904" value="Atlus Co. Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="37502" value="Atlus U.S.A., Inc." />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="29" />
+			<average value="9.45517" />
+			<bayesaverage value="7.09932" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="378" bayesaverage="7.09932" />
+																				<rank type="family" id="4435" name="ps3" friendlyname="PlayStation 3 Rank" value="52" bayesaverage="7.64439" />
+											<rank type="family" id="21674" name="playstation4" friendlyname="PlayStation 4 Rank" value="2" bayesaverage="8.4759" />
+												</ranks>
+
+			<stddev value="0.674453" />
+			<median value="0" />
+			<owned value="68" />
+			<trading value="0" />
+			<wanting value="3" />
+			<wishing value="12" />
+			<numcomments value="10" />
+			<numweights value="1" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166338">
+                                     				
+				<name type="primary" sortindex="1" value="Adventure Time: Battle Party" />
+			
+						                           
+						               													<description>From Wikipedia: Adventure Time: Battle Party is a browser-based Unity Web Player Multiplayer online battle arena game made by Cartoon Network. Like other Multiplayer online battle arena games such as League of Legends and Dota 2 the player and team take down the other team's base. Unlike other MOBAs, players cannot level up their skill or buy items. Instead players customize their characters via pre-made&amp;quot;backpacks&amp;quot; that give different stat bonuses. Matches can either be PVP or against AI. Matches end either when one team's base is destroyed or when time runs out. Upon time-out, the team with the most points wins.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Adventure Time: Battle Party,&amp;quot; available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5084" value="Web Browser" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2745" value="MOBA / A-RTS" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2468" value="Children's" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2284" value="Medieval" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="40234" value="Adventure Time" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="0" />
+						               				<releasedate value="2014-06-23" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="5111" value="Cartoon Network" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="5111" value="Cartoon Network" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="5084" name="webbrowser" friendlyname="Web Browser Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

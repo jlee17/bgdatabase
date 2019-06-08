@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="168560">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/NDUT5T-Q7FhFPRuZY_-tE0JwHLc=/fit-in/200x150/pic4189890.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/Ngt2i-aJlBsvApQ3a9ZMwjSGdHc=/0x0/pic4189890.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Splatter - Blood Red Edition" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Splatter - Zombie Apocalypse" />
+			
+						               													<description>Story&amp;#10;&amp;#10;You&amp;rsquo;re standing alone amongst the inhabitants of a modern city which suddenly took a turn for the apocalypse. Play an intriguing story line, upgrade your weapons, fight bosses, drive vehicles, meet other characters, and use light to survive. Humanity isn&amp;rsquo;t exactly worth saving, but you might end up doing it anyways.&amp;#10;&amp;#10;Game Modes and Gameplay&amp;#10;&amp;#10;When you&amp;rsquo;re done with the story line, there&amp;rsquo;s much more fun to be had. Compete for high scores in various arcade-style arenas. Fool around in survival mode or fight or cooperate with your friends in local multiplayer game modes.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5248" value="Linux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2147" value="Action" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2167" value="Shooter" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2659" value="Zombies" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2313" value="Cooperative" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						               				<releasedate value="2014-06-04" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28511" value="Dreamworlds" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="18485" value="bitComposer Interactive GmbH (bitComposer Games)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="5" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

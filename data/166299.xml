@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166299">
+                                     				
+				<name type="primary" sortindex="1" value="WWF In Your House" />
+			
+						                           
+						               													<description>From Wikipedia,&amp;#10;&amp;#10;WWF In Your House is a video game for the Sony PlayStation, DOS, and Sega Saturn released in 1996. Developed by Sculptured Software, it is a follow-up to WWF WrestleMania: The Arcade Game and was published by Acclaim Entertainment, who had previously released WrestleMania for home consoles.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;WWF in Your House&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4714" value="DOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4433" value="PlayStation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4439" value="SEGA Saturn" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2159" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2157" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2375" value="Sports - Wrestling" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						               				<releasedate value="1996-10-31" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="11856" value="Sculptured Software" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="3233" value="Acclaim Entertainment Inc." />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4433" name="playstation" friendlyname="PlayStation Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4439" name="segasaturn" friendlyname="SEGA Saturn Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4714" name="dos" friendlyname="DOS Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1" />
+			<median value="0" />
+			<owned value="6" />
+			<trading value="1" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

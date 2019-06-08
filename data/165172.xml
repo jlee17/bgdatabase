@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165172">
+                                     				
+				<name type="primary" sortindex="1" value="The Terminator (Sega CD)" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="The Terminator" />
+			
+						               													<description>From Wikipedia,&amp;#10;&amp;#10;The Mega-CD/Sega CD version, released by Virgin Games USA, was an entirely revamped game which had all-new levels, with development based on the David Perry engine, and was noted for its musical score by Tommy Tallarico, Bijan Shaheer, Joey Kuras, and TeknoMan. This music is generated in Q Sound. The objective is identical to the movie, which involves future soldier Kyle Reese going through the Time Displacement equipment located inside a Skynet base in the year 2029 AD, to go back in time to Los Angeles 1984 to protect Sarah Connor from the Terminator. It is considered to be the best game based on the original The Terminator.&amp;#10;&amp;#10;http://en.wikipedia.org/wiki/List_of_Terminator_video_games#The_Terminator_.28Virgin_video_game.29&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4436" value="SEGA CD" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2147" value="Action" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2164" value="Platform" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2350" value="Movie, Book, TV show" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="7004" value="Terminator" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="1993-00-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="12547" value="Probe Entertainment" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="745" value="Virgin Games Inc." />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4436" name="segacd" friendlyname="SEGA CD Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="4" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

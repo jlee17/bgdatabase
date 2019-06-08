@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167441">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/Pwaeoqn5bXL65dFY3iJfrdQ8Xx0=/fit-in/200x150/pic3252939.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/nVX0tyv0RN7ztBNPau127kOgzaw=/0x0/pic3252939.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Hard Lander" />
+			
+						                           
+						               													<description>&amp;#10;&amp;#10;&amp;#10;    &amp;#10;        &amp;#10;UNRELEASED GAME &amp;ndash; VAPORWARE&amp;#10;&amp;#10;    &amp;#10;    &amp;#10;        &amp;#10;This game is stuck in the development limbo known as Vaporware. Few to no details have been released about its gameplay, plot, or release date since its announcement many years ago. It may or may not be in active development, but neither has it been cancelled officially.&amp;#10;&amp;#10;    &amp;#10;&amp;#10;&amp;#10;User SummaryHard lander is a local multiplayer game designed for up to 4 players. Invite three of your friends to compete in this rocket acrobatics simulation game! You can also play it by yourself, practicing your piloting expertise in the challenge courses.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="21998" value="OUYA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2314" value="Arcade" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="38597" value="(Unreleased Games - Vaporware)" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						               				<releasedate value="2018-00-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28361" value="soulareus games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28361" value="soulareus games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166250">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/HAvSdK-pNM-s7nlrCjs82QoXFz8=/fit-in/200x150/pic2255242.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/AcZJB04kCz9_ZVsO43DDMu7VHRQ=/0x0/pic2255242.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Scrabble Complete" />
+			
+						                           
+						               													<description>Scrabble Complete is nearly identical to that of the board game. Like other computer adaptations of popular board games, Scrabble Complete has additional features which allow the game to be customized; Players have the ability to tilt the board in different directions to change the viewpoint of the game board. At the game menu, players can change the background, the board color and the music. The game offers support for the Official Scrabble Players Dictionary and a hint system for novice Scrabble players.&amp;#10;&amp;#10;In addition to the main stand-alone mode, Scrabble Complete offers network play. There are also several educational word games, such as word riddles and anagram search, included with Scrabble Complete. Some copies of the game also include the 1997 Boggle computer game as a bonus.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Scrabble Complete&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2402" value="Classic Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2403" value="Board Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2564" value="Words" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="0" />
+						               				<releasedate value="2002-09-24" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="12086" value="Infogrames Entertainment SA (IESA)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="12086" value="Infogrames Entertainment SA (IESA)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="5" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167737">
+                                     				
+				<name type="primary" sortindex="1" value="Motocross Madness (2013)" />
+			
+						                           
+						               													<description>From Wikipedia,&amp;#10;&amp;#10;A sequel to Motocross Madness 2 for Xbox 360 was released, simply titled Motocross Madness. In the game, one can earn money by utilizing &amp;quot;career mode&amp;quot;, but play for fun in Baja, Stunts, Enduro, Supercross, and National levels as well.&amp;#10;&amp;#10;The game is known for its realism, including terrain, audio, and &amp;quot;bone-chilling&amp;quot; motorcycle wrecks. If the player is in Stunt mode and he/she goes out of bounds and gets on a large cliff,the &amp;quot;invisible slingshot&amp;quot; will cause the player and the bike fly across while a funny sound plays until both objects will hit the ground.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Motocross Madness (1998 video game)&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4407" value="Xbox 360" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2154" value="Racing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2546" value="Sports - Motorcycling" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="9492" value="MX vs. ATV" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="3" />
+						               				<releasedate value="2013-00-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="13379" value="Rainbow Studios" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="15347" value="Microsoft" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="6" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4407" name="xbox360" friendlyname="Xbox 360 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="12" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

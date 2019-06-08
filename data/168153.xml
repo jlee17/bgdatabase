@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="168153">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/dzeCLJK4FPN4XYv7vkPLq7SpzvU=/fit-in/200x150/pic3865630.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/pWQ0f_2BCZHYMXEIXPGO2g6pSCA=/0x0/pic3865630.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Hellblade: Senua&#039;s Sacrifice" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Hell Blade" />
+			    				
+				<name type="alternate" sortindex="1" value="Hellblade" />
+			
+						               													<description>The story is based on Celtic myth and focuses on Senua, Hellblade&amp;rsquo;s protagonist as she embarks on a very personal journey through a hellish underworld.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Hellblade&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="21674" value="PlayStation 4" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2161" value="Action Adventure" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2265" value="Horror" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2415" value="Mythology" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2786" value="Viking / Norse" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2017-08-08" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="13532" value="Ninja Theory" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="13532" value="Ninja Theory" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="16" />
+			<average value="8.39375" />
+			<bayesaverage value="6.40963" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="1244" bayesaverage="6.40963" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="648" bayesaverage="6.62734" />
+											<rank type="family" id="21674" name="playstation4" friendlyname="PlayStation 4 Rank" value="40" bayesaverage="7.50194" />
+												</ranks>
+
+			<stddev value="0.836263" />
+			<median value="0" />
+			<owned value="28" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="4" />
+			<numcomments value="4" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

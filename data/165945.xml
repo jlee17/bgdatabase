@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165945">
+                                     				
+				<name type="primary" sortindex="1" value="SteamWorld Tower Defense" />
+			
+						                           
+						               													<description>&amp;quot;Welcome to Cowbot County, home of the robotic master race of SteamWorld! As the Sheriff, you must stop the human invaders in their mad hunt for gold.&amp;#10;&amp;#10;Build robots!&amp;#10;&amp;#10;Build attack robots next to the roads they roam, and watch the invaders go down! Use the special skills of your robots to your advantage in this original Tower Defense variation, where strategy and execution are equally important.&amp;#10;&amp;#10;For rookies, there is an 'Easy' mode &amp;ndash; but all will find a unique challenge in the great Western reaches.&amp;quot;&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4734" value="Nintendo DS" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2474" value="Tower Defense" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2266" value="Steampunk" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2267" value="Western" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="25836" value="SteamWorld" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2010-07-05" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="26098" value="Image &amp; Form" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="26098" value="Image &amp; Form" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4734" name="ds" friendlyname="Nintendo DS Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166663">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/qoTYc8WAeNbvgp8q9WfIa8txa8U=/fit-in/200x150/pic4322247.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/v8Uxx3YBWcMBSQrRTwmIaxj72Rg=/0x0/pic4322247.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Chip" />
+			
+						                           
+						               													<description>Chip is an isometric puzzle game with robots, electricity and fancy dress! The player must help recharge Chip &amp;ndash; a plucky little red robot &amp;ndash; who has been imprisoned by the nefarious villain, Rust.&amp;#10;&amp;#10;The player will interact with a wide variety of objects such as cannons, mirrors, and magnets in order to direct a blob of energy to Chip and save him from his grisly fate! Players must utilise their whimsical puzzle-solving prowess by tapping, moving, and rotating these objects to achieve victory.&amp;#10;&amp;#10;As the player progresses through the game they will find presents hidden amongst the many puzzles in Rust&amp;rsquo;s lair, containing a variety of Rust&amp;rsquo;s fancy dress costumes. These can be used to customise your little robot avatar, for bragging rights on the leaderboard and because everybody loves a new pair of fuzzy slippers!&amp;#10;&amp;#10;Features&amp;#10;&amp;#10;&amp;#10;     75 levels across three exciting level packs&amp;#10;     3 loveable characters that are fully customisable with dazzling array of accessories&amp;#10;     20+ achievements, do you have what it takes to earn them all?&amp;#10;     Beautiful visuals accompanied by entertaining animations&amp;#10;     Original music and sound effects from the award-winning composer Vince Webb&amp;#10;     Steam achievements, leaderboards and trading cards on PC, and Game Center and Scoreloop integration on mobile&amp;#10;&amp;#10;&amp;#10;Source: The Developer Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2147" value="Action" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2165" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-04-25" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28229" value="Coatsink" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="26852" value="KISS Ltd" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3" />
+			<average value="6.76667" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0.654896" />
+			<median value="0" />
+			<owned value="10" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="2" />
+			<numweights value="1" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgameexpansion" id="168106">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/UwxM-_F6gLfpQ5aufPmJ0FzGNfE=/fit-in/200x150/pic2394468.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/MiNUjZTwnipEzmVirDOqKWH7hnc=/0x0/pic2394468.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="King of New York: Washington Square Park" />
+			
+						                           
+						               													<description>Promo card first issued at Essen 2014.&amp;#10;&amp;#10;Discard: Buy this card for 1 less energy if signed by Richard Garfield.&amp;#10;&amp;#10;+ 1 VP. When you buy this card challenge a Monster to Monster Chess. Bet an amount of energy you both can afford.&amp;#10;&amp;#10;MONSTER CHESS: You both roll 3 dice as fast as you can. Keep your claws and reroll the others. First to get three claws wins all wagered energy.&amp;#10;&amp;#10;This promo is &amp;quot;meant to be signed and handed out by Richard Garfield himself. It was a much smaller print, as you can imagine.&amp;quot;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="6+">		
+				</results>					
+	</poll> 			               				<playingtime value="40" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="40" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Card Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="28525" value="King of Tokyo" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="160499" value="King of New York" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="14" value="Richard Garfield" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="76496" value="Régis Torres" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8923" value="IELLO" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="10" />
+			<average value="7.25" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="2.3585" />
+			<median value="0" />
+			<owned value="43" />
+			<trading value="0" />
+			<wanting value="87" />
+			<wishing value="124" />
+			<numcomments value="5" />
+			<numweights value="1" />
+			<averageweight value="3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

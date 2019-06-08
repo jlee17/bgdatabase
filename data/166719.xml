@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166719">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/qB9tnOgIObPpOQ9csnR7GFN8fPU=/fit-in/200x150/pic3140073.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/4UZLYN0c5qJPqAeppfz-CxVepuQ=/0x0/pic3140073.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Crypt of the NecroDancer" />
+			
+						                           
+						               													<description>Crypt of the NecroDancer is a hardcore rhythm-based roguelike game. Can you survive this deadly dungeon of dance, slay the NecroDancer, and recapture your still beating heart? Or will you be a slave to the rhythm for all eternity? Players must move on the beat to navigate procedurally generated dungeons while battling dancing skeletons, zombies, dragons, and more! Groove with the game's epic dance soundtrack, or select songs from your own MP3 collection! You can even play with a dance pad to really shake your bones!&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5248" value="Linux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2789" value="Dungeon Crawler" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2163" value="Rhythm" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2413" value="Roguelike" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2337" value="Cute Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="55453" value="Crypt of the NecroDancer" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="0" />
+						               				<releasedate value="2014-07-30" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28241" value="Brace Yourself Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="4" value="(Self-Published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28241" value="Brace Yourself Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="36" />
+			<average value="7.68472" />
+			<bayesaverage value="6.571" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="964" bayesaverage="6.571" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="251" bayesaverage="6.82986" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="534" bayesaverage="6.75548" />
+											<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="85" bayesaverage="7.09929" />
+												</ranks>
+
+			<stddev value="1.20732" />
+			<median value="0" />
+			<owned value="65" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="1" />
+			<numcomments value="11" />
+			<numweights value="1" />
+			<averageweight value="5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

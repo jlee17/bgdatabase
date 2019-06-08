@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167174">
+                                     				
+				<name type="primary" sortindex="1" value="Sin Manager" />
+			
+						                           
+						               													<description>Souls are flocking in great numbers to St. Peter&amp;rsquo;s pearly gates and all of them have committed their own set of sins!&amp;#10;Cleanse their souls of sin in one of the seven purgatories and gain them access to paradise.&amp;#10;&amp;#10;But beware! This is no job for a choir boy!&amp;#10;The souls just keep on coming and each has committed more sins than the last!&amp;#10;If you fail, it&amp;rsquo;s a one way ticket to eternal damnation!&amp;#10;&amp;#10;Every soul that you save increases your power gauge!&amp;#10;Once the gauge is full, turn the key to paradise and absolve all the souls.&amp;#10;But watch out for the Divine Wrath that may strike at any time!&amp;#10;&amp;#10;Reveal your successes as guardian of Paradise to both the world and the Hereafter via the app&amp;rsquo;s social functionality!&amp;#10;&amp;#10;The hour of judgement has come!&amp;#10;&amp;#10;Source: The Publisher Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6063" value="Android" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6826" value="iPad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4443" value="iPhone" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2165" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2466" value="Other" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2013-12-19" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="14625" value="Advanced Mobile Applications" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="14625" value="Advanced Mobile Applications" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6826" name="ipad" friendlyname="iPad Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

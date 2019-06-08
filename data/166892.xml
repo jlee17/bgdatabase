@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166892">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/62m6mSLp5wyr0K16aRwUy8k5d1Y=/fit-in/200x150/pic4318528.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/j_4gNjuD1s0TR_0kbjClUqjQ1ug=/0x0/pic4318528.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="SPACECOM" />
+			
+						                           
+						               													<description>SPACECOM &amp;ndash; a strategic-to-the-bone, starfleet command game in which deception, smart movement, and choices to battle decide victory or defeat.&amp;#10;&amp;#10;No coincidence, no luck. Spacecom pushes your ability to strategize with a focus on real-time tactics and planning. Use proven maneuvers learned from military legends or devise your own plans.&amp;#10;&amp;#10;Test your wits in single player campaign, go head-to-head with up to 5 opponents in multiplayer or experiment with new strategies in AI skirmish mode. Most of all, you'll need a bright mind, cunning, and sound tactics.&amp;#10;&amp;#10;When the war begins, leave the little things behind and dive into austere soundscapes as you immerse yourself in starfleet command. From now on, what matters is your grasp of tactics and strategy, not how fast you can click. Spacecom is about creativity in planning, not complexity of game mechanics.&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6063" value="Android" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6826" value="iPad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4443" value="iPhone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5248" value="Linux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2166" value="Real Time Strategy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2331" value="Space" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						               				<releasedate value="2014-09-17" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28257" value="Flow Combine" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="16688" value="11 bit studios" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2" />
+			<average value="6" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6063" name="android" friendlyname="Android Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6826" name="ipad" friendlyname="iPad Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="18" />
+			<trading value="0" />
+			<wanting value="1" />
+			<wishing value="2" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

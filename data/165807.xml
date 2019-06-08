@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165807">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/YCLyQTri9zQHhU517NlLV0PEirQ=/fit-in/200x150/pic3984876.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/5woZHv6dUmwJiANYR7HlbyIj9Nw=/0x0/pic3984876.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="NASCAR &#039;14" />
+			
+						                           
+						               													<description>NASCAR '14 is a NASCAR video game. It is the third edition of the NASCAR The Game racing simulator series, and is the sequel to NASCAR The Game: Inside Line. Developed by Eutechnyx and published by Deep Silver, the game was released on February 18, 2014, for the PlayStation 3, Xbox 360, and PC.&amp;#10;&amp;#10;New features for the game will include online leagues, a server browser, DNFs, enhanced AI difficulty, the option to hire staff in career mode, and new car physics.&amp;#10;&amp;#10;Driver rosters and paint schemes for the 2014 season will also be updated, with DLC being released on a monthly basis. The game also features all 23 NASCAR Sprint Cup Series tracks&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;NASCAR '14&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4435" value="PlayStation 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4407" value="Xbox 360" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2154" value="Racing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2456" value="Driving" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="16" />
+						               				<releasedate value="2014-02-18" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="13106" value="Eutechnyx" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="13106" value="Eutechnyx" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4407" name="xbox360" friendlyname="Xbox 360 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4435" name="ps3" friendlyname="PlayStation 3 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="166993">
+                                     				
+				<name type="primary" sortindex="1" value="ModNation Racers: Road Trip" />
+			
+						                           
+						               													<description>ModNation Racers: Road Trip is a kart racing game developed by SCE San Diego Studio for the PlayStation Vita. It is the sequel to the 2010 PlayStation 3 and PlayStation Portable game, ModNation Racers. It was released on 22 February 2012 in North America and Europe.&amp;#10;&amp;#10;Gameplay&amp;#10;&amp;#10;Gameplay is similar to its predecessor. Players are able to accelerate and drift, successful drifts allow players to fill their boost meter. The meter resembles a multi-tiered thermometer which allows players to the choice of activating a turbo boost to increase the kart's speed or a shield to protect their kart from incoming attacks. Players are able to collect weapons as they race which can be upgraded to up to three levels of power, weapons include sonic attacks, missiles and lightning strikes. New weapons are available in ModNation Racers: Road Trip bringing a total of seven types.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;ModNation Racers: Road Trip&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="10373" value="PlayStation Vita" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2154" value="Racing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2456" value="Driving" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						               				<releasedate value="2012-02-15" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="7370" value="Sony Computer Entertainment (SCE)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="7370" value="Sony Computer Entertainment (SCE)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4" />
+			<average value="6.75" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="10373" name="playstationvita" friendlyname="PlayStation Vita Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.08972" />
+			<median value="0" />
+			<owned value="8" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

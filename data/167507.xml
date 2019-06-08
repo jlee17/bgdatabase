@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogamecompilation" id="167507">
+                                     				
+				<name type="primary" sortindex="1" value="Double Dragon Trilogy" />
+			
+						                           
+						               													<description>User Summary&amp;#10;&amp;#10;A groundbreaking, uber-popular game upon its arcade debut in 1987, Double Dragon is the undisputed godfather of co-op beat &amp;lsquo;em all!&amp;#10;&amp;#10;Enter Double Dragon Trilogy, a compilation specially optimized for mobiles and which includes all three installments of the beloved arcade series: Double Dragon, Double Dragon 2: The Revenge, and Double Dragon 3: The Rosetta Stone. The first one begins with Billy and his brother Jimmy, two martial arts experts, in a mission to rescue Billy's girlfriend, Marian, who&amp;rsquo;s been kidnapped by the Black Shadows Gang. All your favorite moves are here: punches, kicks, elbows, knees, head-butts and an assortment of not-exactly-street-legal weapons.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="6826" value="iPad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4443" value="iPhone" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2342" value="Beat 'em Up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2493" value="Martial Arts" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="4939" value="Double Dragon" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2313" value="Cooperative" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						               				<releasedate value="2013-12-14" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="17176" value="DotEmu" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="16199" value="Million Co. Ltd." />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="17176" value="DotEmu" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="69165" value="Double Dragon (1987)" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="74646" value="Double Dragon II: The Revenge" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="74652" value="Double Dragon III: The Sacred Stones" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4443" name="iphone" friendlyname="iPhone Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="6826" name="ipad" friendlyname="iPad Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="6" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

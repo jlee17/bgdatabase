@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="168370">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/igv1bGJuPfnkxaEATThP0lM9dnw=/fit-in/200x150/pic4170570.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/dcl7JTi48bXs2KGYscEKfYAzhc8=/0x0/pic4170570.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Majestic Part 1: Alien Encounter" />
+			
+						                           
+						               													<description>User Summary&amp;#10;&amp;#10;Despite what you think, the game never did have a sequel.  Nor was it really part of a series - though the company did make other games that can be seen as being part of the same universe as this one, and they do sort-of tie together.&amp;#10;&amp;#10;The game starts with a fairly typical Sci-Fi premise: the luxury space cruiser, The S. S. Majestic, vanished on her maiden voyage.  Now, years later, the derelict ship has been found!  And, as the nearest archaeologist, you have been sent in to investigate!&amp;#10;&amp;#10;An interesting part about this game is that the player never physically goes onto The Majestic.  Yes, it is a 1st-Person adventure game, so you wouldn't see your character anyway... but this game does something unique.  The player goes through the ship using a series of Nodes that were sent over to do the dangerous task of searching and scanning the wreck.  The player can manipulate the Nodes - but two Nodes can never be in the same place at the same time.  Switching between the Nodes to solve puzzles becomes a fairly large part of the game.&amp;#10;&amp;#10;The player's job is to find out what really happened to The Majestic.  Where is her captain?  What about the two missing crew members?  How did the rest of the crew manage to escape?&amp;#10;&amp;#10;Questions will lead to more questions... and a truth that is far stranger than anything anyone imagined!&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2152" value="Adventure" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2658" value="Aliens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2355" value="Detective / Mystery" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="1995-06-01" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28483" value="Piranha Interactive Publishing, Inc" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28483" value="Piranha Interactive Publishing, Inc" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="7" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

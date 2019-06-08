@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165809">
+                                     				
+				<name type="primary" sortindex="1" value="NASCAR The Game: Inside Line" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="NASCAR The Game: 2013" />
+			
+						               													<description>NASCAR The Game: Inside Line is the second edition of the NASCAR The Game racing simulator series, and the sequel to NASCAR The Game: 2011. Developed by Eutechnyx and published in the United States by Activision, it was released for PlayStation 3, Wii and Xbox 360 on November 6, 2012. All of the 23 Sprint Cup Series race tracks are featured in the game, with the addition of various Sprint Cup Series drivers, teams and cars.&amp;#10;&amp;#10;Features&amp;#10;&amp;#10;NASCAR The Game: Inside Line is the second game relating to NASCAR from Eutechnyx. One of the features is a more in-depth career mode which allows players to race in the Cup series, attract new sponsorships and upgrade their car's components. The career mode, as well as the online mode, also includes more realistic race weekends. All of the 23 tracks as well as many Sprint Cup Series drivers, teams and cars is included in the game. The voices of Mike Joy and Darrell Waltrip from NASCAR on Fox are featured during pre-race and post-race cutscenes.&amp;#10;&amp;#10;Gen 6 cars&amp;#10;In early February 2013, the Generation 6 Cars were announced as a downloadable content for the PlayStation 3 and Xbox 360. The cars were expected to be released for play sometime around the time of the 2013 Daytona 500. However, due to an issue while trying to release an update, they were not fully revealed until March 31 and released April 2. On October 19, the company officially announced that there will be no more Generation 6 paint schemes due to technical issues.&amp;#10;&amp;#10;In the future though, it is expected there will be new downloadable content for each new Sprint Cup Series season, at least through the 2014 season, with new teams and cars with updated paint schemes and might go along with NASCAR '14. This will be unlike the EA Sports series of NASCAR video games, whereas there was a new game released for almost each new Sprint Cup season.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;NASCAR The Game: Inside Line&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4435" value="PlayStation 3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4441" value="Wii" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4407" value="Xbox 360" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2154" value="Racing" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2456" value="Driving" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="15" />
+						               				<releasedate value="2012-11-06" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="13106" value="Eutechnyx" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="13106" value="Eutechnyx" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4407" name="xbox360" friendlyname="Xbox 360 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4435" name="ps3" friendlyname="PlayStation 3 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4441" name="wii" friendlyname="Wii Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

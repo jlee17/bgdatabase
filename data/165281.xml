@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165281">
+                                     				
+				<name type="primary" sortindex="1" value="Mind Pursuit" />
+			
+						                           
+						               													<description>From the box&amp;#10;&amp;#10;The Ultimate Test of Information &amp;amp; Knowledge&amp;#10;&amp;#10;Are you looking for a game for the whole family? Something fun for the kids, yet challenging for the adults? Six exciting categories, three game options, and three difficulty levels make Mind Pursuit the game for you.&amp;#10;&amp;#10;The categories are Science &amp;amp; Nature, History &amp;amp; Geography, TV &amp;amp; Film, Sports &amp;amp; Games, Culture, and Grab Bag. Each of these categories allows you a choice of true/false, multiple choice, or fill-in-the-blank answers. You can even set a 30 to 60 second question timer!&amp;#10;&amp;#10;Structure Mind Pursuit for a point limit from 500 to 2,000; set a time limit from 30 minutes to 2 hours (highest score when time is up wins); or select the game board with animated characters for a completely different kind of strategy. At the end of every game the computer provides players or teams with ranking, score, and percentage of correct answers. In case of a tied score, the player or team with the highest percentage wins.&amp;#10;&amp;#10;Some Mind Pursuit questions accept more than one correct answer. And one-letter spelling errors are usually permissible. Thousands of questions test your knowledge during the course of a game. Music and graphics clues vary the gameplay and provide additional challenge.&amp;#10;&amp;#10;Features: &amp;#10; Up to four players or teams can participate. &amp;#10; Three difficulty levels for each question. &amp;#10; High-resolution graphics and musical clues. &amp;#10; Additional Questions Disks available.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4978" value="Apple II" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4420" value="Commodore 64" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2169" value="Trivia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2466" value="Other" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						               				<releasedate value="1986-00-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28028" value="Pacific Softech" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="13491" value="Datasoft, Inc." />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4420" name="commodore64" friendlyname="Commodore 64 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4978" name="appleii" friendlyname="Apple II Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

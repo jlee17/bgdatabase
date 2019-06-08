@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="168403">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/dVlvnqHEDWJjrqa4CJwgx8jaqXU=/fit-in/200x150/pic2292322.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/CCiTkmc9MCzMThh4xE6Owh9qjvA=/0x0/pic2292322.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Dreamfall Chapters - Book One: Reborn" />
+			
+						                           
+						               													<description>Dreamfall Chapters is the long awaited episodic follow-up to the award-winning and bestselling adventure games The Longest Journey and Dreamfall: The Longest Journey.&amp;#10;&amp;#10;An exciting story-driven episodic adventure for Windows/Mac/Linux and PlayStation 4, Dreamfall Chapters follows three characters on their journeys across two worlds &amp;mdash; one a cyberpunk vision of the future, the other a magical fantasy world &amp;mdash; as their stories and destinies intertwine.&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="5248" value="Linux" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="21674" value="PlayStation 4" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2152" value="Adventure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2784" value="Interactive Movie" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2148" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2264" value="Science Fiction" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="6231" value="The Longest Journey" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-10-21" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28491" value="Red Thread Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28491" value="Red Thread Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamecompilation" id="218670" value="Dreamfall Chapters" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="7" />
+			<average value="8.25714" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="2667" bayesaverage="5.96062" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="5248" name="linux" friendlyname="Linux Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="21674" name="playstation4" friendlyname="PlayStation 4 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.26362" />
+			<median value="0" />
+			<owned value="23" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="1" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

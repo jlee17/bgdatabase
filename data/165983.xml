@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogameexpansion" id="165983">
+                                     				
+				<name type="primary" sortindex="1" value="DCS: Bf 109 K-4 Kurfürst" />
+			
+						                           
+						               													<description>Like previous DCS World titles, DCS: Bf 109 K-4 Kurf&amp;uuml;rst features a painstakingly reproduced model of the aircraft, including the external model, fully interactive cockpit, mechanical systems, and a Professional Flight Model (PFM). Along the lines of our DCS: P-51D Mustang and DCS: Fw 190 D-9 Dora titles, DCS: Bf 109K-4 Kurf&amp;uuml;rst places you behind the controls of a powerful, propeller-driven, piston engine combat aircraft. Designed long before &amp;ldquo;fly-by-wire&amp;rdquo; technology was available to assist the pilot in flight control or smart bombs and beyond visual range missiles were developed to engage targets with precision from afar, the Kurf&amp;uuml;rst is a personal and exhilarating challenge to master. Powerful and deadly, the last production model of the only single-engined German fighter to see service throughout World War II, the Kurf&amp;uuml;rst provides an exhilarating combat experience to its drivers, and a worthy challenge to all fans of DCS: P-51D Mustang.&amp;#10;&amp;#10;Key Features of the DCS: Bf 109 K-4 Kurf&amp;uuml;rst:&amp;#10;&amp;#10;Unmatched flight physics that allow you to truly feel what it's like to fly this legend.&amp;#10;    Highly detailed, six-degrees-of-freedom (6 DOF) cockpit.&amp;#10;    Interact with cockpit controls with your mouse.&amp;#10;    Accurate Bf 109 K-4 model, squadron markings, and weapons.&amp;#10;    Detailed modelling the Bf 109 K-4 instruments, weapons, engine, radios, fuel, and electrical systems.&amp;#10;    Fly along with fellow DCS: Fw 190 D-9 Doras as you battle DCS: P-51D Mustangs in single and multiplayer games.&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2295" value="Flight Simulator" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2514" value="Flight" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2508" value="Military" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2273" value="War - World War II" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamefranchise" id="21970" value="(Unreleased Games - Available)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="8024" value="Digital Combat Simulator" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2313" value="Cooperative" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="0" />
+						               				<releasedate value="2014-11-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="13942" value="Eagle Dynamics" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="16535" value="The Fighter Collection" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameexpansion" id="147172" value="DCS World" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="1" />
+			<averageweight value="5" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

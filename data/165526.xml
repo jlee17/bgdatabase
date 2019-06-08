@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165526">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/lIh6l5dmN65BojLxiw0zZmbux4I=/fit-in/200x150/pic3172645.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/fDxrQiRceQjzIa3GaXil5bhooM8=/0x0/pic3172645.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Nosferatu: The Wrath of Malachi" />
+			
+						                           
+						               													<description>Nosferatu: The Wrath of Malachi is a shock-style horror first person shooter game. The player's starting weapons are his fists and a trusty cane sword, though firearms and other weapons become available later in the game. The objective of the game is to search the castle and save members of the protagonist's family within a one and a half hour time limit. These relatives will die if not rescued soon enough so the player has to hurry. The castle's interiors are randomly generated at the beginning of a new game.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Nosferatu: The Wrath of Malachi&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2160" value="First Person Shooter" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2265" value="Horror" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2003-10-21" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28054" value="Idol FX" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="17331" value="Funbox Media" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="28055" value="iGames Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="26852" value="KISS Ltd" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1" />
+			<average value="4" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="19" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="3" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

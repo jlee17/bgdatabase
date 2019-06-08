@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgameexpansion" id="167479">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/-t8U2lJwWQNXLiczMRV4mHAP_p8=/fit-in/200x150/pic4223124.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/4xGaJRmc0NLPHXkSR0R_fBcRplw=/0x0/pic4223124.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Mage Wars: Vorpal Blade Promo Card" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Mage Wars: Vorpalklinge Promokarte" />
+			
+						               													<description>Promo Card for Mage Wars Arena&amp;#10;&amp;#10;English-language version was first made available by Arcane Wonders through Gen Con 2014 before being sold through the publisher's website.&amp;#10;&amp;#10;German-language version was included in the Organized Play Kit 2. Given as a reward for participating in Organized Play.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll> 			               				<playingtime value="90" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="90" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1042" value="Expansion for Base-game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Card Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2676" value="Grid Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="23262" value="Mage Wars" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="101721" value="Mage Wars Arena" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="50643" value="Bryan Pope" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="62645" value="Benjamin Pope" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="68132" value="Addison Rankin" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17812" value="Arcane Wonders" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="8" />
+			<average value="6.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="3.53553" />
+			<median value="0" />
+			<owned value="42" />
+			<trading value="2" />
+			<wanting value="3" />
+			<wishing value="11" />
+			<numcomments value="3" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

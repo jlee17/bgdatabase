@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="166531">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/m8WXGAYeuueEBKVKyMNynKfH070=/fit-in/200x150/pic2265335.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/Q6cA6Ex-DkNaS7y79VbD6JtDpGc=/0x0/pic2265335.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Solar Senate" />
+			
+						                           
+						               													<description>Humanity is about to join galactic society. You are an alien trying to convince the Solar Senate to ally with your civilization. Influencing from interstellar distances, you must rely on sympathetic Senators to convert their comrades. Through cunning manipulation and the occasional political sacrifice, you can win the Solar Senate!&amp;#10;&amp;#10;Solar Senate is a 2-player abstract game of spatial strategy and conversion. Each player has their own deck of Senators, whose influence is ranked from 1 to 5 with 1s being most common and 5s most rare.&amp;#10;&amp;#10;On your turn, you play one of the two Senators from your hand onto the play area. This represents your Senator entering the Senate chambers. If you flank a line with one or more of your opponent's senators with two of your senators, those opposing senators might be converted to you under two conditions:&amp;#10;&amp;#10;PRESSURE: Your flanking senators' total influence is greater than the opposing senators' total influence.&amp;#10;CONSPIRE: Your flanking senators each have identical influence, regardless of the opposing senators total influence. If conspiring, the most recently played senator is removed from the game. (He or she has resigned in disgrace.)&amp;#10;&amp;#10;The game continues until all but one Senator from each deck has entered the chambers. Earn 1 point for each senator aligned to you. You also earn bonus points if you achieve certain endgame agendas.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="2+">		
+				</results>					
+	</poll> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Control / Area Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="5245" value="Daniel Solis" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="5245" value="Daniel Solis" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18959" value="Smart Play Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="7" />
+			<average value="6.21429" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.19095" />
+			<median value="0" />
+			<owned value="26" />
+			<trading value="1" />
+			<wanting value="1" />
+			<wishing value="3" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

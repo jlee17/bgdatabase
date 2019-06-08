@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="rpgitem" id="167660">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/z6cJJnRnDtb1FIwDIjaAhiWznkI=/fit-in/200x150/pic2271674.png</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/j1uw45ou97JmJbrh7kt_SujdAGk=/0x0/pic2271674.png</image>
+                                     				
+				<name type="primary" sortindex="5" value="The Savage World of Shadowrun" />
+			
+						                               				
+				<name type="alternate" sortindex="5" value="The Savage Worlds of Shadowrun" />
+			
+						      				
+		 			
+
+			
+		
+					<link type="rpg" id="286" value="Savage Worlds" />
+		
+									
+			
+
+			               													<description>From the Introduction:&amp;#10;&amp;#10;I wanted to do a Shadowrun conversion to one of my favorite systems just for the hell of it! Thanks to all those who expressed interest in seeing it once it was done. Hope you find it useful!&amp;#10;&amp;#10;I have to give a big thanks to this Shadowrun Savage Worlds website. It provided me with some good ideas and a great jumping off point. You will see some of the site's stuff in this document as well. Most of it has been hacked/changed to my tastes, but certain things, like the list of Spirits is straight from this site (however I did change many of the Spirits' powers).&amp;#10;&amp;#10;You will need a copy of your favorite version of Shadowrun (while this document references 4th edition) and a copy of Savage Worlds Deluxe Edition (SWDX) to play.&amp;#10;&amp;#10;Have some fun and play some Savage Worlds of Shadowrun!&amp;#10;&amp;#10;</description>
+										               				<yearpublished value="2013" />
+						      				
+		 			
+
+			
+		
+					<link type="rpggenre" id="848" value="Fantasy (Modern Urban Fantasy)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpggenre" id="164" value="Science Fiction (Cyberpunk)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="rpgsetting" id="23676" value="The Sixth World" />
+		
+									
+			
+
+			      			
+
+			               				<seriescode value="" />
+						      				
+		 			
+
+			
+		
+					<link type="rpgcategory" id="2107" value="Campaign Setting (game world)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="rpgmechanic" id="2101" value="Attribute/Stat Based (STR, CON, PER, etc)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgmechanic" id="2114" value="Cards (cards drive the action)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgmechanic" id="2122" value="Dice (Various)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgmechanic" id="2140" value="Dice Step (variable dice vs. static target)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgmechanic" id="2129" value="Exploding Dice (Die may 'explode' into a second roll)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgmechanic" id="2143" value="Grid-based (uses square terrain for move/combat)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgmechanic" id="2096" value="Level Based (Earn XP and level up)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgmechanic" id="2100" value="Point Based (allocate points to get skills, powers, etc)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgmechanic" id="2094" value="Skill Based (buy or gain skills)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="rpgpublisher" id="1001" value="(Web published)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="rpgdesigner" id="41390" value="Mike Evans" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="rpgartist" id="71035" value="David Lewis Johnson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgartist" id="71944" value="John W. Sheldon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="rpgartist" id="78615" value="Tim Stone" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="rpgproducer" id="41390" value="Mike Evans" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="16" name="rpgitem" friendlyname="RPG Item Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="1" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="167613">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/Hj3yxH9n2uhvvB2QvfG2X39eNkc=/fit-in/200x150/pic2377591.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/J_kTnlDkOJV_3Zenxkp_awQEAJs=/0x0/pic2377591.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Super Comboman" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Super ComboMan: Smash Edition" />
+			
+						               													<description>Super Comboman is a colorful beat-em-up with wacky characters and fast-paced fighting game inspired combat based in a destructible sticker world. Fluid combos and upgradable moves allow you to smash and juggle enemies with air and ground combos, while developing your own style in the process.&amp;#10;&amp;#10;Features&amp;#10;&amp;#10;Upgradeable moves&amp;#10;Unlockable perks&amp;#10;Custom combos&amp;#10;Mad levels&amp;#10;Talking fanny packs&amp;#10;Fatty nuggets&amp;#10;&amp;#10;Source: The Game Website.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4729" value="Macintosh" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4977" value="Windows" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2342" value="Beat 'em Up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2466" value="Other" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="2014-07-11" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="28385" value="Interabang Entertainment" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="12834" value="Adult Swim Games" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4729" name="macintosh" friendlyname="Macintosh Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4977" name="pc" friendlyname="Windows Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="3" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

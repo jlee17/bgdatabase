@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165411">
+                                     				
+				<name type="primary" sortindex="1" value="Mindwheel" />
+			
+						                           
+						               													<description>From the Box&amp;#10;&amp;#10;The Federated Nations have collapsed. Lennon City-Tokyo, Feingrad, Nuevo Paris thunder with strife and violence. In Capitol City, seventy thousand crazed rioters storm the Washington Monument. As the weapons of oblivion assemble on the horizon, the long-feared apocalypse seems inevitable.&amp;#10;&amp;#10;The howling, demented crowd shrieks for action. Only Doctor Virgil understands the narrow, mysterious path to your civilization's survival. But Virgil desperately seeks a Mind Adventurer! Do you dare?&amp;#10;&amp;#10;This is a Text Adventure that comes with a 93 page hardcover introduction.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4978" value="Apple II" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4940" value="Atari 8-bit family" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4420" value="Commodore 64" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="4714" value="DOS" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2168" value="Text Adventure" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2328" value="Occult" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						               				<releasedate value="1984-00-00" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="12956" value="Synapse Software" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="3674" value="Broderbund" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="0" />
+			<average value="0" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+																				<rank type="family" id="4420" name="commodore64" friendlyname="Commodore 64 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4714" name="dos" friendlyname="DOS Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4940" name="atari8bitfamily" friendlyname="Atari 8-bit family Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="4978" name="appleii" friendlyname="Apple II Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="0" />
+			<median value="0" />
+			<owned value="0" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="0" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

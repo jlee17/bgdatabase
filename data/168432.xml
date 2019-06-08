@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgameexpansion" id="168432">
+         <thumbnail>https://cf.geekdo-images.com/thumb/img/0OjY0nTpwkcX-QyqAdmODQy4H0M=/fit-in/200x150/pic2303434.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/original/img/9e_tJnz0iJAPaeOYmcKV3l6pxV4=/0x0/pic2303434.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Clinic Expansion: ICU free bonus tile" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Clinic Expansion: ICU Bonus Tile" />
+			    				
+				<name type="alternate" sortindex="1" value="CLINIϽ Expansion: ICU free bonus tile" />
+			
+						               													<description>This expansion only contain a free bonus specialized module to thank the BGG users, it can be found in the upload section with the rules. They allow the author to improve the first version of the English rules.&amp;#10;&amp;#10;This new tile allows the player to treat one patient without removing it with his car. A red Patient becomes Yellow and an orange Patient becomes White.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2014" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="0">
+			
+		<results numplayers="4+">		
+				</results>					
+	</poll> 			               				<playingtime value="120" />
+						               				<minplaytime value="120" />
+						               				<maxplaytime value="120" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="0">
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="0">
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2145" value="Medical" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1011" value="Transportation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2007" value="Pick-up and Deliver" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2070" value="Simulation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56259" value="Clinic" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="156840" value="Clinic" inbound="true"/>
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="187953" value="Clinic Expansion: Medical Dossier 3" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="279547" value="CliniC: Deluxe Edition – The Extension" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="6048" value="Alban Viard" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="32143" value="Sampo Sikiö" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4614" value="AoS Team" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5" />
+			<average value="7" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.41421" />
+			<median value="0" />
+			<owned value="63" />
+			<trading value="3" />
+			<wanting value="6" />
+			<wishing value="11" />
+			<numcomments value="8" />
+			<numweights value="1" />
+			<averageweight value="1" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

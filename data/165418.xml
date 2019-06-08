@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="videogame" id="165418">
+                                     				
+				<name type="primary" sortindex="1" value="Worms Battlegrounds" />
+			
+						                           
+						               													<description>Worms Battlegrounds is an artillery strategy video game developed and published by Team 17. It was released on 30 May 2014 for the PlayStation 4 and Xbox One. Set within a world history museum, the single-player story follows the player's worms attempt to stop Lord Crowley-Mesmer, a worm attempting to take control of the museum.&amp;#10;&amp;#10;Gameplay&amp;#10;&amp;#10;See also: Gameplay in the Worms series&amp;#10;Worms Battlegrounds is an artillery strategy game. Gameplay follows on the earlier games of the series, in which teams of worms take turns to use a variety of weapons and items in order to eliminate the opposing teams.&amp;#10;&amp;#10;The game includes a total of sixty five weapons, which is the most in any Worms game to date. Among the ten new weapons is a ray gun, which was created due to the criticism of that the ninja rope wasn't authentic enough compared to older Worms games.&amp;#10;&amp;#10;The Xbox One version enables Xbox SmartGlass to keep track of stats, while the PlayStation 4's DualShock light bar changes color depending on the status of the player's worm.&amp;#10;&amp;#10;Source: Wikipedia, &amp;quot;Worms Battlegrounds&amp;quot;, available under the CC-BY-SA License.&amp;#10;&amp;#10;</description>
+										      				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="21674" value="PlayStation 4" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogameplatform" id="22574" value="Xbox One" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamegenre" id="2167" value="Shooter" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogametheme" id="2471" value="Animals" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogameseries" id="5045" value="Worms" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2422" value="Local Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2310" value="Network Multiplayer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="videogamemode" id="2149" value="Single-Player" />
+		
+									
+			
+
+			               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						               				<releasedate value="2014-06-03" />
+						      				
+		 			
+
+			
+		
+					<link type="videogamedeveloper" id="34139" value="Team17 Digital Ltd." />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="videogamepublisher" id="34139" value="Team17 Digital Ltd." />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="6" />
+			<average value="7.5" />
+			<bayesaverage value="0" />
+
+			<ranks>
+															<rank type="subtype" id="32" name="videogame" friendlyname="Video Game Rank" value="4645" bayesaverage="5.71303" />
+																				<rank type="family" id="21674" name="playstation4" friendlyname="PlayStation 4 Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+											<rank type="family" id="22574" name="xboxone" friendlyname="Xbox One Rank" value="Not Ranked" bayesaverage="Not Ranked" />
+												</ranks>
+
+			<stddev value="1.25831" />
+			<median value="0" />
+			<owned value="24" />
+			<trading value="0" />
+			<wanting value="0" />
+			<wishing value="0" />
+			<numcomments value="2" />
+			<numweights value="0" />
+			<averageweight value="0" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>
